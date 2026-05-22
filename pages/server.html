@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-category="server">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Windows Server 原版镜像下载，包含2016/2019/2022数据中心版/标准版">
+  <title>Windows Server 镜像下载 - SCM Pavilion</title>
+  <link rel="icon" href="../assets/favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="../css/style.css?v=3">
+  <link rel="stylesheet" href="../css/category.css?v=3">
+</head>
+<body data-category="server">
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="../index.html" class="nav-brand">
+        <div class="nav-brand-icon">S</div>
+        <span>SCM Pavilion<small style="display:block;font-size:0.625rem;font-weight:400;opacity:0.5;margin-top:2px;">SeaCloud Mirror Pavilion</small></span>
+      </a>
+      <button class="nav-toggle" aria-label="菜单"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links">
+        <li><a href="../index.html">首页</a></li>
+        <li><a href="win11.html">Win11</a></li>
+        <li><a href="win10.html">Win10</a></li>
+        <li><a href="win8.html">Win8.1</a></li>
+        <li><a href="win7.html">Win7</a></li>
+        <li><a href="server.html" class="active">Server</a></li>
+        <li><a href="office.html">Office</a></li>
+        <li><a href="guide.html">教程</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="page-hero">
+    <div class="container">
+      <h1><i class="fas fa-server" id="category-icon" style="margin-right:12px;"></i><span class="gradient-text" id="category-title">Windows Server</span></h1>
+      <p>纯净原版 Windows Server 镜像资源，含完整 SHA-1/SHA-256 校验码</p>
+      <div class="version-count">共 <strong id="version-count">-</strong> 个版本</div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0;">
+    <div class="container">
+      <div class="category-controls">
+        <div class="search-box">
+          <i class="fas fa-search"></i>
+          <input type="text" id="search-input" placeholder="搜索版本名称、版本号、Build...">
+        </div>
+      </div>
+      <div class="category-controls" style="margin-top:0;">
+        <span style="font-size:0.8125rem;color:var(--text-muted);font-family:var(--font-mono);">版本：</span>
+        <div class="filter-group" id="filter-edition"></div>
+        <span style="font-size:0.8125rem;color:var(--text-muted);font-family:var(--font-mono);margin-left:8px;">语言：</span>
+        <div class="filter-group" id="filter-language"></div>
+      </div>
+      <div class="resource-table-wrap">
+        <table class="resource-table">
+          <thead>
+            <tr>
+              <th>版本名称 / Build</th>
+              <th>版本类型</th>
+              <th>版本号</th>
+              <th>发布日期</th>
+              <th>最新补丁</th>
+              <th>语言</th>
+              <th>操作</th>
+            </tr>
+          </thead>
+          <tbody id="resource-body">
+            <tr><td colspan="7" style="text-align:center;padding:60px 20px;color:var(--text-muted);">
+              <i class="fas fa-spinner fa-spin" style="font-size:2rem;display:block;margin-bottom:12px;"></i>
+              正在加载资源...
+            </td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">
+            <span>SCM Pavilion</span>
+            <small style="display:block;font-size:0.75rem;font-weight:400;opacity:0.45;margin-top:4px;">SeaCloud Mirror Pavilion · 海云典藏镜像</small>
+          </div>
+          <p class="footer-desc">合规声明：本站仅整理公开原版镜像索引，不存储、修改、分发系统，无激活工具，仅供学习交流。
+        </div>
+        <div>
+          <div class="footer-heading">系统分类</div>
+          <ul class="footer-links">
+            <li><a href="win11.html">Windows 11</a></li>
+            <li><a href="win10.html">Windows 10</a></li>
+            <li><a href="win8.html">Windows 8.1</a></li>
+            <li><a href="win7.html">Windows 7</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-heading">更多资源</div>
+          <ul class="footer-links">
+            <li><a href="server.html">Windows Server</a></li>
+            <li><a href="office.html">Microsoft Office</a></li>
+            <li><a href="guide.html">安装教程</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-heading">数据来源</div>
+          <ul class="footer-links">
+            <li><a href="https://hellowindows.cn/" target="_blank" rel="noopener">HelloWindows</a></li>
+            <li><a href="https://www.xitongku.com/" target="_blank" rel="noopener">系统库</a></li>
+            <li><a href="https://msdn.sjjzm.com/" target="_blank" rel="noopener">山己几子木</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 SCM Pavilion. 正版提示：Windows/Office 为微软商业软件，请购买正版授权合法激活。
+        <div class="footer-source-links">
+          <a href="https://hellowindows.cn/" target="_blank" rel="noopener">HelloWindows</a>
+          <a href="https://www.xitongku.com/" target="_blank" rel="noopener">系统库</a>
+          <a href="https://msdn.sjjzm.com/" target="_blank" rel="noopener">山己几子木</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/main.js?v=3"></script>
+  <script src="../js/category.js?v=3"></script>
+</body>
+</html>

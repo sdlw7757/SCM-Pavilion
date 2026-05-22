@@ -1,0 +1,57 @@
+name: 抓取数据并部署
+
+on:
+  schedule:
+    # 每天 UTC 6:00 = 北京时间 14:00 运行一次
+    - cron: '0 6 * * *'
+  workflow_dispatch:       # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: 运行数据抓取脚本
+        run: |
+          python scripts/scraper.py
+
+      - name: 提交并推送数据更新
+        run: |
+          git config user.name "winorigin-bot"
+          git config user.email "bot@winorigin.github.io"
+          git add data/
+          git diff --cached --quiet || git commit -m "bot: 自动抓取更新 $(date +'%Y-%m-%d %H:%M') [skip ci]"
+          git push
+
+      - name: 设置 Pages
+        uses: actions/configure-pages@v4
+
+      - name: 上传站点文件
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
