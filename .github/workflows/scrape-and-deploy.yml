@@ -1,6 +1,10 @@
 name: 抓取数据并部署
 
 on:
+  push:
+    branches:
+      - main
+      - master
   schedule:
     # 每天 UTC 6:00 = 北京时间 14:00 运行一次
     - cron: '0 6 * * *'
