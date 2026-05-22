@@ -140,8 +140,9 @@ async function loadData(category) {
     return null;
   }
   try {
-    const depth = window.location.pathname.split('/').filter(Boolean).length;
-    const prefix = depth > 1 ? '../'.repeat(depth - 1) : '';
+    const scriptSrc = (document.querySelector('script[src*="main.js"]')?.getAttribute('src') || '').split('?')[0];
+    const match = scriptSrc.match(/^(\.\.\/)*/);
+    const prefix = match ? match[0] : '';
     const response = await fetch(`${prefix}data/${category}.json`);
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return await response.json();
