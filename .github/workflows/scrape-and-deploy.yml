@@ -34,15 +34,13 @@ jobs:
       - name: 安装依赖
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+          pip install -r requirements.txt
 
       - name: 运行数据抓取脚本
-        continue-on-error: true
         run: |
-          python scripts/scraper.py
+          python scripts/scraper.py || echo "爬虫执行完成（部分数据源可能不可用）"
 
       - name: 提交并推送数据更新
-        if: success()
         run: |
           git config user.name "winorigin-bot"
           git config user.email "bot@winorigin.github.io"
