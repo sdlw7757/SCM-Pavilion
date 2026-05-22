@@ -1,6 +1,10 @@
 name: 抓取数据并部署
 
 on:
+  push:
+    branches:
+      - main
+      - master
   schedule:
     # 每天 UTC 6:00 = 北京时间 14:00 运行一次
     - cron: '0 6 * * *'
@@ -33,10 +37,12 @@ jobs:
           pip install requests beautifulsoup4 lxml
 
       - name: 运行数据抓取脚本
+        continue-on-error: true
         run: |
           python scripts/scraper.py
 
       - name: 提交并推送数据更新
+        if: success()
         run: |
           git config user.name "winorigin-bot"
           git config user.email "bot@winorigin.github.io"

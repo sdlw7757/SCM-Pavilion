@@ -940,63 +940,80 @@ def scrape_xitongku_tracking():
 
 # ==================== 主函数（示例） ====================
 if __name__ == '__main__':
-    # 爬取所有数据源
-    hello_data = scrape_hellowindows()
-    msdn_data = scrape_msdn()
-    xtk_data = scrape_xitongku()
-
-    # 合并数据并保存（示例）
     all_data = {cat: [] for cat in CATS}
-    
-    # 合并HelloWindows数据
-    for cat in CATS:
-        all_data[cat].extend(hello_data.get(cat, []))
-    
-    # 合并山己几子木数据
-    for cat, product in msdn_data:
-        all_data[cat].append(product)
-    
-    # 合并系统库数据
-    for cat in CATS:
-        all_data[cat].extend(xtk_data.get(cat, []))
-    
-    # 去重并按ID合并来源（不同网站的同一个产品，合并下载链接）
-    for cat in CATS:
-        merged = {}
-        for p in all_data[cat]:
-            pid = p['id']
-            if pid in merged:
-                existing = merged[pid]
-                # 合并下载链接（按URL去重）
-                seen_urls = {s['url'] for s in existing.get('sources', [])}
-                for s in p.get('sources', []):
-                    if s['url'] not in seen_urls:
-                        seen_urls.add(s['url'])
-                        existing['sources'].append(s)
-                # 补充缺失的哈希值
-                for h in ('sha256', 'sha1', 'md5'):
-                    if not existing.get('hashes', {}).get(h) and p.get('hashes', {}).get(h):
-                        if 'hashes' not in existing:
-                            existing['hashes'] = {}
-                        existing['hashes'][h] = p['hashes'][h]
-                # 记录来源标记
-                p_source = p.get('_source', '')
-                if p_source and p_source not in existing.setdefault('_sources', [existing.get('_source', '')]):
-                    existing['_sources'].append(p_source)
-            else:
-                merged[pid] = dict(p)
-                if '_sources' not in merged[pid]:
-                    merged[pid]['_sources'] = [merged[pid].get('_source', '')]
-        all_data[cat] = list(merged.values())
-    
-    # 保存到文件
-    for cat in CATS:
-        if all_data[cat]:
-            with open(os.path.join(DATA_DIR, f'{cat}.json'), 'w', encoding='utf-8') as f:
-                json.dump({'products': all_data[cat]}, f, ensure_ascii=False, indent=2)
-    
-    # 保存元数据
-    xtk_tracking = scrape_xitongku_tracking()
+    has_any_data = False
+
+    # 爬取所有数据源（逐个防护，一个失败不影响其他）
+    try:
+        print('\n========== 数据源1: HelloWindows ==========')
+        hello_data = scrape_hellowindows()
+        for cat in CATS:
+            all_data[cat].extend(hello_data.get(cat, []))
+        has_any_data = has_any_data or any(hello_data.get(cat) for cat in CATS)
+    except Exception as e:
+        print(f'  [ERROR] HelloWindows 爬取失败: {e}')
+
+    try:
+        print('\n========== 数据源2: 山己几子木 ==========')
+        msdn_data = scrape_msdn()
+        for cat, product in msdn_data:
+            all_data[cat].append(product)
+        has_any_data = has_any_data or bool(msdn_data)
+    except Exception as e:
+        print(f'  [ERROR] 山己几子木 爬取失败: {e}')
+
+    try:
+        print('\n========== 数据源3: 系统库 ==========')
+        xtk_data = scrape_xitongku()
+        for cat in CATS:
+            all_data[cat].extend(xtk_data.get(cat, []))
+        has_any_data = has_any_data or any(xtk_data.get(cat) for cat in CATS)
+    except Exception as e:
+        print(f'  [ERROR] 系统库 爬取失败: {e}')
+
+    if has_any_data:
+        # 去重并按ID合并来源（不同网站的同一个产品，合并下载链接）
+        for cat in CATS:
+            merged = {}
+            for p in all_data[cat]:
+                pid = p['id']
+                if pid in merged:
+                    existing = merged[pid]
+                    # 合并下载链接（按URL去重）
+                    seen_urls = {s['url'] for s in existing.get('sources', [])}
+                    for s in p.get('sources', []):
+                        if s['url'] not in seen_urls:
+                            seen_urls.add(s['url'])
+                            existing['sources'].append(s)
+                    # 补充缺失的哈希值
+                    for h in ('sha256', 'sha1', 'md5'):
+                        if not existing.get('hashes', {}).get(h) and p.get('hashes', {}).get(h):
+                            if 'hashes' not in existing:
+                                existing['hashes'] = {}
+                            existing['hashes'][h] = p['hashes'][h]
+                    # 记录来源标记
+                    p_source = p.get('_source', '')
+                    if p_source and p_source not in existing.setdefault('_sources', [existing.get('_source', '')]):
+                        existing['_sources'].append(p_source)
+                else:
+                    merged[pid] = dict(p)
+                    if '_sources' not in merged[pid]:
+                        merged[pid]['_sources'] = [merged[pid].get('_source', '')]
+            all_data[cat] = list(merged.values())
+
+        # 保存到文件
+        for cat in CATS:
+            if all_data[cat]:
+                with open(os.path.join(DATA_DIR, f'{cat}.json'), 'w', encoding='utf-8') as f:
+                    json.dump({'products': all_data[cat]}, f, ensure_ascii=False, indent=2)
+
+    # 保存元数据（无论是否有数据都保存）
+    try:
+        xtk_tracking = scrape_xitongku_tracking()
+    except Exception as e:
+        print(f'  [WARN] 版本追踪数据获取失败: {e}')
+        xtk_tracking = {}
+
     meta = {
         'totalProducts': sum(len(all_data[cat]) for cat in CATS),
         'todayUpdates': 0,
@@ -1006,5 +1023,5 @@ if __name__ == '__main__':
     }
     with open(os.path.join(DATA_DIR, 'meta.json'), 'w', encoding='utf-8') as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
-    
+
     print(f'\n爬取完成！总计 {meta["totalProducts"]} 个产品，已保存到 {DATA_DIR} 目录')
