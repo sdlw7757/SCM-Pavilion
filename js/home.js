@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initParticles();
   loadMetaStats();
   loadLatestResources();
+  initSupportModal();
 });
 
 async function loadMetaStats() {
@@ -300,4 +301,31 @@ async function loadLatestResources() {
       <span class="latest-link">查看详情 <i class="fas fa-arrow-right"></i></span>
     </a>`;
   }).join('');
+}
+
+function initSupportModal() {
+  const btn = document.getElementById('supportBtn');
+  const modal = document.getElementById('supportModal');
+  const overlay = document.getElementById('supportOverlay');
+  const closeBtn = document.getElementById('supportModalClose');
+  if (!btn || !modal || !overlay || !closeBtn) return;
+
+  function openModal() {
+    modal.classList.add('active');
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    modal.classList.remove('active');
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  btn.addEventListener('click', openModal);
+  closeBtn.addEventListener('click', closeModal);
+  overlay.addEventListener('click', closeModal);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeModal();
+  });
 }
