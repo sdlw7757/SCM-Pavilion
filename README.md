@@ -24,11 +24,11 @@
 
 聚合整理 **Windows 7 ~ Windows 11**、**Windows Server** 及 **Microsoft Office** 全版本原版镜像资源
 
-**[🌐 立即访问](https://你的用户名.github.io/仓库名)**
+**[🌐 立即访问](https://sdlw7757.github.io/SCM-Pavilion)**
 · 
 **[📖 安装指南](pages/guide.html)**
 · 
-**[🐛 反馈问题](https://github.com/你的用户名/仓库名/issues)**
+**[🐛 反馈问题](https://github.com/sdlw7757/SCM-Pavilion/issues)**
 
 <br/>
 </div>
@@ -165,18 +165,14 @@
 ### 第一步：获取项目
 
 ```bash
-# 克隆仓库
-git clone https://github.com/你的用户名/仓库名.git
-
-# 进入项目目录
-cd 仓库名
+git clone https://github.com/sdlw7757/SCM-Pavilion.git
+cd SCM-Pavilion
 ```
 
 ### 第二步：安装依赖
 
 ```bash
-pip install --upgrade pip
-pip install requests beautifulsoup4 lxml
+pip install -r requirements.txt
 ```
 
 ### 第三步：运行爬虫生成数据
@@ -211,9 +207,11 @@ python -m http.server 8000
 
 ---
 
-## 🚀 部署到 GitHub Pages
+## 🚀 部署
 
-> ⏱️ 全程约 5 分钟
+> ⏱️ 支持 GitHub Pages 和 Cloudflare Pages 双平台部署
+
+### GitHub Pages 部署
 
 ### 第 1 步 — 创建 GitHub 仓库
 
@@ -259,6 +257,17 @@ git push -u origin main
 | **美东时间** | 01:00（冬令时）/ 02:00（夏令时） | — |
 
 > 💡 自动运行无需任何人干预，你只需保持仓库存在即可。
+
+### Cloudflare Pages 部署
+
+| 步骤 | 操作 |
+|:---|:---|
+| ① | 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/) → **Pages** → **创建应用程序** |
+| ② | 连接 GitHub → 选择 `sdlw7757/SCM-Pavilion` 仓库 |
+| ③ | 构建命令：**留空**，构建输出目录：`/` |
+| ④ | 点击 **保存并部署** |
+
+> 💡 Cloudflare Pages 检测到 GitHub 仓库推送后会自动重新部署，无需额外配置。
 
 ---
 
