@@ -47,8 +47,12 @@ def md5_id(s):
     return 'win-' + hashlib.md5(s.encode()).hexdigest()[:8]
 
 def make_product_id(icat, version, edition, arch, lang='zh-cn'):
-    """生成产品唯一ID"""
-    key = f'{icat}|{version or ""}|{edition or ""}|{arch or "x64"}|{lang or "zh-cn"}'
+    """生成产品唯一ID（标准化输入以合并不同来源的相同产品）"""
+    v = (version or '').strip().lower()
+    e = (edition or '').strip()
+    a = (arch or 'x64').strip().lower()
+    l = (lang or 'zh-cn').strip().lower()
+    key = f'{icat}|{v}|{e}|{a}|{l}'
     return 'win-' + hashlib.md5(key.encode()).hexdigest()[:8]
 
 def clean(s):
