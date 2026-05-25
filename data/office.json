@@ -1,0 +1,886 @@
+{
+  "products": [
+    {
+      "id": "win-9bf8356d",
+      "name": "Microsoft Office",
+      "version": "2019",
+      "build": "",
+      "releaseDate": "2018-10-03",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.52GB",
+      "hashes": {
+        "sha1": "D850365B23E1E1294112A51105A2892B2BD88EB9",
+        "sha256": "6B28B9D3B5AA516921CE9A3D55466AA506D4E31C1E3A0A11789351ABBC8E5E86"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=666bLSoI2r46-nN22p6ov6FC2J6MF_bviR4aLUTimoLMox0Ub3XPjlT9nC6cXhYLlqHhYWFUF9l4crohaepvdAnQHvZBMswYJhfwRM7vuXsEJPBARWFJgyKsO5mbcrEPs3sakrj1AdvEhaz5Hd2hBtWNRnHXv5gy&_pid=&_name=Office2019+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/2LVLQY6brCz",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|ProPlus2019Retail.img|4473989120|09436E3E97158FC27DCBC071DE8E7A26|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-e77890cc",
+      "name": "Microsoft Office",
+      "version": "2016",
+      "build": "",
+      "releaseDate": "2015-09-22",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.41GB",
+      "hashes": {
+        "sha1": "277926A41B472EE38CA0B36ED8F2696356DCC98F"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=vF6o9mAlNJQz_8KFYLtCFdIGlYOcB1ESFA_MBV_ELZmqA_DmbUMiY87hf8rXoXir5vTP5GIZ9oXVHgZlctDjwZnPJ_7agAHnlbDKaGmHxmDLO4KE9L3cH2SDsL_5dOGMAkbgO2oEXv4WRsWy1ruFhZDLRsZyFoox&_pid=&_name=Office2016+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-b9c8ecc5",
+      "name": "Microsoft Office",
+      "version": "2013",
+      "build": "",
+      "releaseDate": "2014-03-18",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "1.71GB",
+      "hashes": {
+        "sha1": "E8BC622F881E0907D55D9B1B3C53D1D830E09015"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=AWLLFDSS2kvyYOQAn0n77SmG1K9j-4jV9_fcMkW1jRQDDBuqIEYip4xSYp83KB_7rqA_qGqZ7T7V2he8rHkekAICcBWTPXrwF5ocqjr2nLPkH3cvvHOxy-mnwh8ghQcrWYT6nZEkTTtaptQ7HdB_5dOmYx3hym_s&_pid=&_name=Office2013+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-ed4f0b44",
+      "name": "Microsoft Office",
+      "version": "2010",
+      "build": "",
+      "releaseDate": "2011-10-25",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.74GB",
+      "hashes": {
+        "sha1": "8ED9525CF0271990C9637C2090562D6DC4CBB485"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=i_9rYyqB-sUXqClFxg4BU6-E5XDnE1zoV8HWdKWBC9FmGbusktXj8e8HTokGlJ1Xx9lwg4GLZBMhF7aAF7ZTjnfCI4KV10QkAgXFuXAPE0cXY8HEjI47cLO_t0NgAKnzGHTOwwzDNXXvNBCkh8k0XG6tL5JEr5AH&_pid=&_name=Office2010+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-81c7b737",
+      "name": "Microsoft Office",
+      "version": "2007",
+      "build": "",
+      "releaseDate": "2007-03-30",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "661.91MB",
+      "hashes": {
+        "sha1": "F08011874038C82B4A3AE547556F0F51EAE42F1D"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=XvQ2Y-yjh1L52gbHRiiQ21CyHodgaxOHsfyUVrMjwOY-MtNtjtponi16XaMY-cqczKHgFaR-7cvmLwtRb9jkdwRRuzPsQaCECO5wwxbZFqIhP_MqahnQj9vKDVlo3eEqhFFChGtYmpEXZ0fQRFjJ5UtF509MwmcA&_pid=&_name=Office2007+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-99fe84e2",
+      "name": "Microsoft Office Standard",
+      "version": "2003",
+      "build": "",
+      "releaseDate": "2004-01-20",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Standard",
+      "sku": "Standard",
+      "fileSize": "409.16MB",
+      "hashes": {
+        "sha1": "32CDFD1CB4816AF4DC829D991EC6E775AB013CD9"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=xLIzQ9L8DDvpoZuU-l41XeZfoJAEcjNcBloR1OaPjGIVsB6vy_NYtQ3dVTd2vMys9TDhGg_8QN8zePRezNOS9lFockEkGpCHSPSJRjzBJvxWh97JhP6EA8rzW6WtOcR8Vkap_rhm6EYjlYvM0F48o46cSaaJe62u&_pid=&_name=Office2003+%E6%A0%87%E5%87%86%E7%89%88",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-ce857bff",
+      "name": "Microsoft Office",
+      "version": "2024",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.28GB",
+      "hashes": {
+        "sha256": "80C812D190C2EA0B8EAAC01A6F66E8F03AC2D8708830E224338B74501941959B",
+        "sha1": "26E5B4970896E4545108D4C2C470AEA75EE315B2"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7XUPu7XwRQa",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|ProPlus2024Retail.img|5668507648|93CD2DBADAA09BFA43F92A51A0E111A6|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-6c6948b3",
+      "name": "Microsoft Office",
+      "version": "2024",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.28GB",
+      "hashes": {
+        "sha256": "99482AF14C3D581DF976ACAA273E279C2B507B31DF849C4D7692FE534BF9DBED",
+        "sha1": "CCEB2622D9BF0E3A42342B63986EE898D710E689"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7XUPu7XwRQa",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|HomeBusiness2024Retail.img|5668507648|E82737D7D5CB8244A234E031C82B9F04|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-1b3c46b0",
+      "name": "Microsoft Office",
+      "version": "2021",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.86GB",
+      "hashes": {
+        "sha256": "43B25A7D4F534401D0DFF2469BFA5DC86D16AE002CB6FD1ABE437509157C7A3E",
+        "sha1": "BF523636C00E8E26951EE835F8996F661A515E9E"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/SPqxDPUj6Qc",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|ProPlus2021Retail.img|5221414912|8B767E232A8E77C79431F09D3D59D9C9|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-03fbbf9a",
+      "name": "Microsoft Office",
+      "version": "2021",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.86GB",
+      "hashes": {
+        "sha256": "1010DCBD534239EBCF5409FB8881860B89366E3DBC7429321B18BDAB88A63EEA",
+        "sha1": "533478D547D4378A5706E7BDA3BF7F66B79B076F"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/SPqxDPUj6Qc",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|HomeBusiness2021Retail.img|5221414912|3ECD6945C72474FB3F9D3004E90BF63B|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-eacc8728",
+      "name": "Microsoft Office",
+      "version": "2019",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.17GB",
+      "hashes": {
+        "sha256": "48166287AA0CB750AABC3F181660A4D2E5DEC9F7C779C97334339B599EDB3979",
+        "sha1": "7BB9EF3C0364453B4BEC1CDF274058411F5D1D4E"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/2LVLQY6brCz",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|HomeBusiness2019Retail.img|4473989120|094CD6DE4563A25DB1989ABD9FF6C037|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-bfab71f8",
+      "name": "Microsoft Office 2024 ProPlus 消费版",
+      "version": "2024",
+      "build": "",
+      "releaseDate": "2024-09-20",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "ProPlus.Consumer",
+      "sku": "ProPlus.Consumer",
+      "fileSize": "5.27GB",
+      "hashes": {
+        "sha1": "26E5B4970896E4545108D4C2C470AEA75EE315B2"
+      },
+      "sources": [
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1ysvELLzifRjsqM7q6x_7Wg",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/80b78934caf9",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123pan.com/s/MSGsjv-RXRc3",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "本地下载",
+          "url": "https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2024Retail.img",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-836866ee",
+      "name": "Microsoft Office 2021 ProPlus 消费版",
+      "version": "2021",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "ProPlus.Consumer",
+      "sku": "ProPlus.Consumer",
+      "fileSize": "4.86GB",
+      "hashes": {
+        "sha1": "BF523636C00E8E26951EE835F8996F661A515E9E"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Opm-7ScF966uXDu6v12Prw?pwd=hipc",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a212964be24b",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "本地下载",
+          "url": "https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2021Retail.img",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-13b3c0f5",
+      "name": "Microsoft Office 2021 Pro 消费版",
+      "version": "2021",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Pro.Consumer",
+      "sku": "Pro.Consumer",
+      "fileSize": "4.86GB",
+      "hashes": {
+        "sha1": "0B591E33EF0B95581FE690A4133A0299A2FC8CF7"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1P5uOqkc9w-0gHa2W_25gpg?pwd=hipc",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "本地下载",
+          "url": "https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2021Retail.img",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-07b8a8d9",
+      "name": "Microsoft Office 2019 ProPlus 消费版",
+      "version": "2019",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "ProPlus.Consumer",
+      "sku": "ProPlus.Consumer",
+      "fileSize": "4.16GB",
+      "hashes": {
+        "sha1": "57DBDF02D961793642DFB5BF6EFA6939E4B97AC9"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1eNKg0o6f_YAL-UvmMVxnag?pwd=hipc",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/88282fc5ff26",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "本地下载",
+          "url": "https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2019Retail.img",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-e21ddb90",
+      "name": "Microsoft Office 2019 Pro 消费版",
+      "version": "2019",
+      "build": "",
+      "releaseDate": "",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Pro.Consumer",
+      "sku": "Pro.Consumer",
+      "fileSize": "4.16GB",
+      "hashes": {
+        "sha1": "EFEFE79BFE904E731842C1D9DBC32108807439B2"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BzdovLirNB8DkJNNjRh0eg?pwd=hipc",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "本地下载",
+          "url": "https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2019Retail.img",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-af8b25a9",
+      "name": "Microsoft Office 2016 专业版 消费版 (x86)",
+      "version": "2016",
+      "build": "",
+      "releaseDate": "2015-09-22",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "2.41GB",
+      "hashes": {
+        "sha1": "277926A41B472EE38CA0B36ED8F2696356DCC98F"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_office_professional_plus_2016_x86_x64_dvd_6969182.iso|2588266496|27EEA4FE4BB13CD0ECCDFC24167F9E01|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1geFvHUwCm7qvFzBH5bzv5g",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-45daa485",
+      "name": "Microsoft Office 2016 Mac版 消费版",
+      "version": "2016",
+      "build": "",
+      "releaseDate": "2015-09-22",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Mac版.Consumer",
+      "sku": "Mac版.Consumer",
+      "fileSize": "1.13GB",
+      "hashes": {
+        "sha1": "4B228801760C32BFF3AD6C037E10826BD5539383"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|mu_office_home_and_business_2016_for_mac_mac_dvd_7027756.iso|1214924800|D6FA02597D30709949C4FEA6AA0F9D6B|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|vyw1",
+          "url": "https://pan.baidu.com/s/1RpNNeA1P4_j4aBClot09RA",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-c1adecf3",
+      "name": "Microsoft Office 2013 专业版 消费版",
+      "version": "2013",
+      "build": "",
+      "releaseDate": "2014-03-18",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "934.85MB",
+      "hashes": {
+        "sha1": "5BC5AE6B03876E634FA6396749C59164C7767F9F"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_office_professional_plus_2013_with_sp1_x64_dvd_3921920.iso|980258816|E18C9CF896D65B2778AA1A44C922C377|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1s7ogRnQYA4AytWgMUML0PA",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-59dee2f8",
+      "name": "Microsoft Office 2013 专业版 消费版 (x86)",
+      "version": "2013",
+      "build": "",
+      "releaseDate": "2014-03-18",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "818.49MB",
+      "hashes": {
+        "sha1": "B34D6B805649A5C4ED35568D1A7F7A8496819FCD"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_office_professional_plus_2013_with_sp1_x86_dvd_3921919.iso|858245120|EA50FF2DE78488DF2646D66FA791164A|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1Gbei4pFyqttKIUD7gRhM8Q",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-f11f7e93",
+      "name": "Microsoft Office 2010 专业版 消费版",
+      "version": "2010",
+      "build": "",
+      "releaseDate": "2011-09-23",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "1.5GB",
+      "hashes": {
+        "sha1": "9D97B220739161CFF3147E169B702A056A6C7F51"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_ChnSimp_CORE_MLF_X17-76742.iso|1612515328|032320121E0EE36D8F0C32EC89CA0AB9|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1iaOjWTHVzu2taWS_Cw-Phw",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-a5b25d6e",
+      "name": "Microsoft Office 2010 专业版 消费版 (x86)",
+      "version": "2010",
+      "build": "",
+      "releaseDate": "2011-09-23",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "1.32GB",
+      "hashes": {
+        "sha1": "581ED02AC171DB18E80B277214AB6B952038F599"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_ChnSimp_CORE_MLF_X17-76734.iso|1412091904|79B75EE3F629A1BD925E6C0AEFDECA10|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1Fol6JgEyal56Lo6pRfNVSg",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-1b38569e",
+      "name": "Microsoft Office 2007 专业版 消费版",
+      "version": "2007",
+      "build": "",
+      "releaseDate": "2007-03-30",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "661.91MB",
+      "hashes": {
+        "sha1": "F08011874038C82B4A3AE547556F0F51EAE42F1D"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_office_professional_plus_2007_dvd_X12-38713.iso|694059008|CFAE350F8A9028110D12D61D9AEC1315|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1Ev7WqkpUxzqe5xb-mVKR1A",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-18a3ad01",
+      "name": "Microsoft Office 2007 专业版 消费版 (x86)",
+      "version": "2007",
+      "build": "",
+      "releaseDate": "2007-03-30",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "661.91MB",
+      "hashes": {
+        "sha1": "F08011874038C82B4A3AE547556F0F51EAE42F1D"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_office_professional_plus_2007_dvd_X12-38713.iso|694059008|CFAE350F8A9028110D12D61D9AEC1315|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1Ev7WqkpUxzqe5xb-mVKR1A",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-90d1eb7a",
+      "name": "Microsoft Office 2003 专业版 消费版 (x86)",
+      "version": "2003",
+      "build": "",
+      "releaseDate": "2010-04-03",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "专业版.Consumer",
+      "sku": "专业版.Consumer",
+      "fileSize": "588.67MB",
+      "hashes": {
+        "sha1": "47158F3EFB24BF603DE6F107AA45787F6BDB2A7B"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_office_professional_enterprise_edition_2003_united_states_x86_cd_489879.iso|617261056|27234A4199A4F2B9A9FA019C2CE9FE5B|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1AfkquHuFfNL7rKjXqqUD_A",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    }
+  ]
+}

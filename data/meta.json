@@ -1,0 +1,411 @@
+{
+  "totalProducts": 155,
+  "todayUpdates": 2,
+  "lastUpdated": "2026-05-25",
+  "categories": {
+    "win11": 25,
+    "win10": 73,
+    "win81": 6,
+    "win7": 18,
+    "server": 8,
+    "office": 25
+  },
+  "sourceTracking": {
+    "windows_11_ltsc 2024": {
+      "systemName": "Windows 11",
+      "version": "ltsc 2024",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2024-10-01",
+      "publishDate": "2024-10-01",
+      "patch": ""
+    },
+    "windows_11_26h1": {
+      "systemName": "Windows 11",
+      "version": "26h1",
+      "innerVersion": 28000,
+      "patchVersion": "1896",
+      "updatedAt": "2026-05-08",
+      "publishDate": "2026-02-10",
+      "patch": "KB5083806"
+    },
+    "windows_11_25h2": {
+      "systemName": "Windows 11",
+      "version": "25h2",
+      "innerVersion": 26100,
+      "patchVersion": "",
+      "updatedAt": "",
+      "publishDate": "",
+      "patch": ""
+    },
+    "windows_11_24h2": {
+      "systemName": "Windows 11",
+      "version": "24h2",
+      "innerVersion": 26100,
+      "patchVersion": "",
+      "updatedAt": "",
+      "publishDate": "",
+      "patch": ""
+    },
+    "windows_11_23h2": {
+      "systemName": "Windows 11",
+      "version": "23h2",
+      "innerVersion": 22631,
+      "patchVersion": "",
+      "updatedAt": "",
+      "publishDate": "",
+      "patch": ""
+    },
+    "windows_11_22h2": {
+      "systemName": "Windows 11",
+      "version": "22h2",
+      "innerVersion": 22621,
+      "patchVersion": "",
+      "updatedAt": "",
+      "publishDate": "",
+      "patch": ""
+    },
+    "windows_11_21h2": {
+      "systemName": "Windows 11",
+      "version": "21h2",
+      "innerVersion": 22000,
+      "patchVersion": "",
+      "updatedAt": "",
+      "publishDate": "",
+      "patch": ""
+    },
+    "windows_11_ltsc": {
+      "systemName": "Windows 11",
+      "version": "ltsc",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2024-10-01",
+      "publishDate": "2024-10-01",
+      "patch": ""
+    },
+    "windows_11_arm": {
+      "systemName": "Windows 11",
+      "version": "arm",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2024-10-01",
+      "publishDate": "2024-10-01",
+      "patch": ""
+    },
+    "windows_11_beta": {
+      "systemName": "Windows 11",
+      "version": "beta",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2021-08-13",
+      "publishDate": "2021-08-13",
+      "patch": ""
+    },
+    "windows_10_ltsc 2019": {
+      "systemName": "Windows 10",
+      "version": "ltsc 2019",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2019-03-15",
+      "publishDate": "2019-03-15",
+      "patch": ""
+    },
+    "windows_10_22h2": {
+      "systemName": "Windows 10",
+      "version": "22h2",
+      "innerVersion": 19045,
+      "patchVersion": "7291",
+      "updatedAt": "2026-05-18",
+      "publishDate": "2022-10-18",
+      "patch": "KB5087544"
+    },
+    "windows_10_21h2": {
+      "systemName": "Windows 10",
+      "version": "21h2",
+      "innerVersion": 19044,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_21h1": {
+      "systemName": "Windows 10",
+      "version": "21h1",
+      "innerVersion": 19043,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_20h2": {
+      "systemName": "Windows 10",
+      "version": "20h2",
+      "innerVersion": 19042,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_2004": {
+      "systemName": "Windows 10",
+      "version": "2004",
+      "innerVersion": 19041,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1909": {
+      "systemName": "Windows 10",
+      "version": "1909",
+      "innerVersion": 18363,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1903": {
+      "systemName": "Windows 10",
+      "version": "1903",
+      "innerVersion": 18362,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1809": {
+      "systemName": "Windows 10",
+      "version": "1809",
+      "innerVersion": 17763,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1803": {
+      "systemName": "Windows 10",
+      "version": "1803",
+      "innerVersion": 17134,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1709": {
+      "systemName": "Windows 10",
+      "version": "1709",
+      "innerVersion": 16299,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1703": {
+      "systemName": "Windows 10",
+      "version": "1703",
+      "innerVersion": 15063,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1607": {
+      "systemName": "Windows 10",
+      "version": "1607",
+      "innerVersion": 14393,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_1511": {
+      "systemName": "Windows 10",
+      "version": "1511",
+      "innerVersion": 10586,
+      "patchVersion": "",
+      "updatedAt": "已停止服务",
+      "publishDate": "",
+      "patch": "已停止服务"
+    },
+    "windows_10_ltsc": {
+      "systemName": "Windows 10",
+      "version": "ltsc",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2019-03-15",
+      "publishDate": "2019-03-15",
+      "patch": ""
+    },
+    "windows_10_ltsb": {
+      "systemName": "Windows 10",
+      "version": "ltsb",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2016-08-11",
+      "publishDate": "2016-08-11",
+      "patch": ""
+    },
+    "windows_10_arm": {
+      "systemName": "Windows 10",
+      "version": "arm",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2023-01-17",
+      "publishDate": "2023-01-17",
+      "patch": ""
+    },
+    "windows_7_旗舰版": {
+      "systemName": "Windows 7",
+      "version": "旗舰版",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2011-05-12",
+      "publishDate": "2011-05-12",
+      "patch": ""
+    },
+    "windows_7_专业版": {
+      "systemName": "Windows 7",
+      "version": "专业版",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2011-05-12",
+      "publishDate": "2011-05-12",
+      "patch": ""
+    },
+    "windows_7_企业版": {
+      "systemName": "Windows 7",
+      "version": "企业版",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2011-05-12",
+      "publishDate": "2011-05-12",
+      "patch": ""
+    },
+    "windows_7_家庭版": {
+      "systemName": "Windows 7",
+      "version": "家庭版",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2011-05-12",
+      "publishDate": "2011-05-12",
+      "patch": ""
+    },
+    "windows_7_普通版": {
+      "systemName": "Windows 7",
+      "version": "普通版",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2011-05-12",
+      "publishDate": "2011-05-12",
+      "patch": ""
+    },
+    "windows_server_2025": {
+      "systemName": "Windows Server",
+      "version": "2025",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2024-11-19",
+      "publishDate": "2024-11-19",
+      "patch": ""
+    },
+    "windows_server_2022": {
+      "systemName": "Windows Server",
+      "version": "2022",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2024-06-18",
+      "publishDate": "2024-06-18",
+      "patch": ""
+    },
+    "windows_server_2019": {
+      "systemName": "Windows Server",
+      "version": "2019",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2020-07-21",
+      "publishDate": "2020-07-21",
+      "patch": ""
+    },
+    "windows_server_2016": {
+      "systemName": "Windows Server",
+      "version": "2016",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2018-02-15",
+      "publishDate": "2018-02-15",
+      "patch": ""
+    },
+    "microsoft_office_2019": {
+      "systemName": "Microsoft Office",
+      "version": "2019",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2018-10-03",
+      "publishDate": "2018-10-03",
+      "patch": ""
+    },
+    "microsoft_office_2016": {
+      "systemName": "Microsoft Office",
+      "version": "2016",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2015-09-22",
+      "publishDate": "2015-09-22",
+      "patch": ""
+    },
+    "microsoft_office_2013": {
+      "systemName": "Microsoft Office",
+      "version": "2013",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2014-03-18",
+      "publishDate": "2014-03-18",
+      "patch": ""
+    },
+    "microsoft_office_2010": {
+      "systemName": "Microsoft Office",
+      "version": "2010",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2011-10-25",
+      "publishDate": "2011-10-25",
+      "patch": ""
+    },
+    "microsoft_office_2007": {
+      "systemName": "Microsoft Office",
+      "version": "2007",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2007-03-30",
+      "publishDate": "2007-03-30",
+      "patch": ""
+    },
+    "microsoft_office_2003": {
+      "systemName": "Microsoft Office",
+      "version": "2003",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2010-04-03",
+      "publishDate": "2010-04-03",
+      "patch": ""
+    },
+    "microsoft_office_2024": {
+      "systemName": "Microsoft Office",
+      "version": "2024",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "2024-09-20",
+      "publishDate": "2024-09-20",
+      "patch": ""
+    },
+    "microsoft_office_2021": {
+      "systemName": "Microsoft Office",
+      "version": "2021",
+      "innerVersion": "",
+      "patchVersion": "",
+      "updatedAt": "",
+      "publishDate": "",
+      "patch": ""
+    }
+  }
+}
