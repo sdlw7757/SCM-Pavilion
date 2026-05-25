@@ -138,9 +138,9 @@
 
 | 数据源 | 网址 | 数据内容 | 更新频率 | 可靠性 |
 |:---|:---|:---|:---:|:---:|
-| **HelloWindows** 🌟 | [hellowindows.cn](https://hellowindows.cn/) | 文件名、版本、语言、SHA-1、SHA-256、文件大小、发布日期 | 及时 | ⭐⭐⭐⭐⭐ |
-| **山己几子木** 🌟 | [msdn.sjjzm.com](https://msdn.sjjzm.com/) | 阿里云盘、腾讯微云、百度网盘、天翼云盘、移动云盘、ed2k、BT 磁力链接 | 及时 | ⭐⭐⭐⭐⭐ |
-| **系统库** 🌟 | [xitongku.com](https://xitongku.com/) | 最新累积更新补丁号、内部 Build 号、服务状态 | 及时 | ⭐⭐⭐⭐ |
+| **HelloWindows**  | [hellowindows.cn](https://hellowindows.cn/) | 文件名、版本、语言、SHA-1、SHA-256、文件大小、发布日期 | 及时 | ⭐⭐⭐⭐⭐ |
+| **山己几子木**  | [msdn.sjjzm.com](https://msdn.sjjzm.com/) | 阿里云盘、腾讯微云、百度网盘、天翼云盘、移动云盘、ed2k、BT 磁力链接 | 及时 | ⭐⭐⭐⭐⭐ |
+| **系统库**  | [xitongku.com](https://xitongku.com/) | 最新累积更新补丁号、内部 Build 号、服务状态 | 及时 | ⭐⭐⭐⭐⭐ |
 
 ### 合并策略
 
