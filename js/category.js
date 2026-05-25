@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
       for (const [key, t] of Object.entries(meta.sourceTracking)) {
         if (t.version) {
           patchLookup[t.version.toLowerCase()] = {
-            patch: t.patch || `${t.innerVersion}.${t.patchVersion}`,
+            patch: t.patch || (t.innerVersion ? `${t.innerVersion}.${t.patchVersion}` : ''),
             updatedAt: t.updatedAt || '',
           };
         }

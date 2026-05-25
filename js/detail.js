@@ -153,7 +153,7 @@ function renderDetail(product, category, tracking) {
         <div class="info-item">
           <span class="info-label">最新补丁</span>
           <span class="info-value" style="font-family:var(--font-mono);color:var(--accent-green);">
-            ${patchInfo.patch || `${patchInfo.innerVersion}.${patchInfo.patchVersion}`}
+            ${patchInfo.patch || (patchInfo.innerVersion ? `${patchInfo.innerVersion}.${patchInfo.patchVersion}` : '暂无')}
             <span style="color:var(--text-muted);font-size:0.75rem;margin-left:8px;">${patchInfo.updatedAt}</span>
           </span>
         </div>` : ''}

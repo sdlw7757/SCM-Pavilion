@@ -15,9 +15,11 @@ import json
 import os
 import re
 import hashlib
+import sys
+import time
 import requests
-from datetime import datetime, timezone
-from urllib.parse import urljoin
+from datetime import datetime, timedelta, timezone
+from urllib.parse import unquote, quote, urljoin, urlparse
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(SCRIPTS_DIR, '..', 'data')
@@ -561,7 +563,7 @@ def get_msdn_subpages(url, base_url):
     subpages = []
     for l in links:
         full = urljoin(base_url, l)
-        if l.startswith('/') and (l.startswith('/win10/') or l.startswith('/office/') or l.startswith('/win7/') or l.startswith('/win8')):
+        if l.startswith('/') and (l.startswith('/win10/') or l.startswith('/office/') or l.startswith('/win7/') or l.startswith('/win8') or l.startswith('/server/')):
             subpages.append(full)
     return subpages
 
@@ -630,8 +632,17 @@ def scrape_msdn():
     print(f'  office: 共获取 {sum(1 for c,_ in result if c=="office")} 个产品')
 
     # Server 数据
-    for p in scrape_msdn_page(MSDN_BASE + '/server.html', 'server'):
-        result.append(('server', p))
+    server_pages = get_msdn_subpages(MSDN_BASE + '/server.html', MSDN_BASE)
+    if not server_pages:
+        server_pages = [
+            f'{MSDN_BASE}/server/2025.html', f'{MSDN_BASE}/server/2022.html',
+            f'{MSDN_BASE}/server/2019.html', f'{MSDN_BASE}/server/2016.html',
+            f'{MSDN_BASE}/server/2012r2.html', f'{MSDN_BASE}/server/2012.html',
+            f'{MSDN_BASE}/server/2008r2.html', f'{MSDN_BASE}/server/2008.html',
+        ]
+    for u in server_pages:
+        for p in scrape_msdn_page(u, 'server'):
+            result.append(('server', p))
     print(f'  server: 共获取 {sum(1 for c,_ in result if c=="server")} 个产品')
 
     return result
@@ -1018,12 +1029,71 @@ if __name__ == '__main__':
         print(f'  [WARN] 版本追踪数据获取失败: {e}')
         xtk_tracking = {}
 
+    # 从所有数据源的产品数据中构建版本追踪（补充系统库API未覆盖的版本）
+    product_tracking = {}
+    cat_sys_names = {
+        'win11': 'Windows 11', 'win10': 'Windows 10',
+        'win81': 'Windows 8.1', 'win7': 'Windows 7',
+        'server': 'Windows Server', 'office': 'Microsoft Office',
+    }
+    for cat, products in all_data.items():
+        sys_name = cat_sys_names.get(cat, cat)
+        versions = {}
+        for p in products:
+            ver = (p.get('version', '') or '').strip().lower()
+            if not ver:
+                continue
+            rdate = p.get('releaseDate', '')
+            if ver not in versions or rdate > versions[ver].get('releaseDate', ''):
+                versions[ver] = {
+                    'releaseDate': rdate,
+                    'build': p.get('build', ''),
+                    'arch': p.get('architecture', ''),
+                }
+        for ver, info in versions.items():
+            key = f'{sys_name.lower().replace(" ", "_")}_{ver}'
+            # 如果系统库API已有该版本追踪数据，保留它（包含innerVersion/patch等详细信息）
+            if key in xtk_tracking:
+                product_tracking[key] = xtk_tracking[key]
+            else:
+                product_tracking[key] = {
+                    'systemName': sys_name,
+                    'version': ver,
+                    'innerVersion': '',
+                    'patchVersion': '',
+                    'updatedAt': info['releaseDate'],
+                    'publishDate': info['releaseDate'],
+                    'patch': '',
+                }
+
+    # 合并：以产品数据为主，用系统库API补充完整字段
+    merged_tracking = dict(product_tracking)
+    for key, xtk_entry in xtk_tracking.items():
+        if key not in merged_tracking:
+            merged_tracking[key] = xtk_entry
+        else:
+            for field in ('innerVersion', 'patchVersion', 'patch', 'updatedAt', 'publishDate'):
+                if xtk_entry.get(field) and not merged_tracking[key].get(field):
+                    merged_tracking[key][field] = xtk_entry[field]
+
+    # 近30日更新数：从版本追踪数据中统计近期有版本更新的数量
+    today_count = 0
+    try:
+        thirty_days_ago = (NOW - timedelta(days=30)).strftime('%Y-%m-%d')
+        today_count = sum(
+            1 for e in merged_tracking.values()
+            if e.get('updatedAt', '') and e['updatedAt'] not in ('已停止服务', '')
+            and e['updatedAt'] >= thirty_days_ago and e['updatedAt'] <= TODAY_STR
+        )
+    except Exception:
+        pass
+
     meta = {
         'totalProducts': sum(len(all_data[cat]) for cat in CATS),
-        'todayUpdates': 0,
+        'todayUpdates': today_count,
         'lastUpdated': TODAY_STR,
         'categories': {cat: len(all_data[cat]) for cat in CATS},
-        'sourceTracking': xtk_tracking,
+        'sourceTracking': merged_tracking,
     }
     with open(os.path.join(DATA_DIR, 'meta.json'), 'w', encoding='utf-8') as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)

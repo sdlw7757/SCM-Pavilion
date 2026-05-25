@@ -23,6 +23,11 @@ async function loadMetaStats() {
       win11: '#00d4ff', win10: '#3b82f6', win81: '#7c3aed',
       win7: '#a855f7', server: '#f59e0b', office: '#10b981',
     };
+    const catPages = {
+      win11: 'pages/win11.html', win10: 'pages/win10.html',
+      win81: 'pages/win8.html', win7: 'pages/win7.html',
+      server: 'pages/server.html', office: 'pages/office.html',
+    };
     let html = '';
     // 总计 + 今日更新
     html += `<div class="hero-stat highlight">
@@ -43,10 +48,13 @@ async function loadMetaStats() {
         const name = catNames[cat] || cat;
         const icon = catIcons[cat] || 'fa-brands fa-windows';
         const color = catColors[cat] || 'var(--accent-cyan)';
-        html += `<div class="hero-stat">
-          <i class="${icon}" style="color:${color}"></i>
-          <span><span class="stat-value">${count}</span> <span class="stat-label">${name}</span></span>
-        </div>`;
+        const page = catPages[cat] || '#';
+        html += `<a href="${page}" class="hero-stat-link">
+          <div class="hero-stat">
+            <i class="${icon}" style="color:${color}"></i>
+            <span><span class="stat-value">${count}</span> <span class="stat-label">${name}</span></span>
+          </div>
+        </a>`;
       }
     }
     container.innerHTML = html;
@@ -114,15 +122,36 @@ async function loadMetaStats() {
         const color = trackColors[sysName] || 'var(--accent-cyan)';
         const verDisplay = version ? `${version} ` : '';
         const patchDisplay = patch ? `（${patch}）` : '';
+        const catMap = {
+          'Windows 11': 'win11',
+          'Windows 10': 'win10',
+          'Windows Server 2025': 'server',
+          'Windows Server 2022': 'server',
+          'Windows Server 2019': 'server',
+          'Windows Server 2016': 'server',
+        };
+        const cat = catMap[sysName];
+        let detailHref = '#';
+        if (cat) {
+          const data = await loadData(cat);
+          if (data && data.products) {
+            const match = data.products.find(p => p.version.toLowerCase() === version.toLowerCase());
+            if (match) {
+              detailHref = `pages/detail.html?id=${match.id}&cat=${cat}`;
+            }
+          }
+        }
         latestBuilds.push(`
-          <div class="hero-stat" title="来自系统库版本追踪：该版本已包含累计更新补丁后的完整版本号，与实际可下载的ISO版本可能存在差异">
-            <i class="${icon}" style="color:${color}"></i>
-            <span>
-              <span class="stat-label">${sysName}:</span>
-              <span class="stat-value">${verDisplay}(Build ${buildStr})</span>
-              <span class="stat-label"> 最新补丁: </span><span class="stat-patch">${updatedAt}${patchDisplay}</span>
-            </span>
-          </div>
+          <a href="${detailHref}" class="hero-stat-link" title="来自系统库版本追踪：该版本已包含累计更新补丁后的完整版本号，与实际可下载的ISO版本可能存在差异">
+            <div class="hero-stat">
+              <i class="${icon}" style="color:${color}"></i>
+              <span>
+                <span class="stat-label">${sysName}:</span>
+                <span class="stat-value">${verDisplay}(Build ${buildStr})</span>
+                <span class="stat-label"> 最新补丁: </span><span class="stat-patch">${updatedAt}${patchDisplay}</span>
+              </span>
+            </div>
+          </a>
         `);
       }
       if (latestBuilds.length > 0) {
