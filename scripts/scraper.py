@@ -1076,11 +1076,11 @@ if __name__ == '__main__':
                 if xtk_entry.get(field) and not merged_tracking[key].get(field):
                     merged_tracking[key][field] = xtk_entry[field]
 
-    # 近30日更新数：从版本追踪数据中统计近期有版本更新的数量
-    today_count = 0
+    # 近30日更新数
+    recent_count = 0
     try:
         thirty_days_ago = (NOW - timedelta(days=30)).strftime('%Y-%m-%d')
-        today_count = sum(
+        recent_count = sum(
             1 for e in merged_tracking.values()
             if e.get('updatedAt', '') and e['updatedAt'] not in ('已停止服务', '')
             and e['updatedAt'] >= thirty_days_ago and e['updatedAt'] <= TODAY_STR
@@ -1090,7 +1090,7 @@ if __name__ == '__main__':
 
     meta = {
         'totalProducts': sum(len(all_data[cat]) for cat in CATS),
-        'todayUpdates': today_count,
+        'recentUpdates': recent_count,
         'lastUpdated': TODAY_STR,
         'categories': {cat: len(all_data[cat]) for cat in CATS},
         'sourceTracking': merged_tracking,

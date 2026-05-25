@@ -29,14 +29,14 @@ async function loadMetaStats() {
       server: 'pages/server.html', office: 'pages/office.html',
     };
     let html = '';
-    // 总计 + 今日更新
+    // 总计 + 最近更新
     html += `<div class="hero-stat highlight">
       <i class="fa-solid fa-database"></i>
       <span><span class="stat-value">${meta.totalProducts}</span> <span class="stat-label">个版本</span></span>
     </div>`;
     html += `<div class="hero-stat">
       <i class="fa-solid fa-calendar-day"></i>
-      <span><span class="stat-value">${meta.todayUpdates || 0}</span> <span class="stat-label">今日更新</span></span>
+      <span><span class="stat-value">${meta.recentUpdates || 0}</span> <span class="stat-label">最近更新</span></span>
     </div>`;
     html += `<div class="hero-stat">
       <i class="fa-solid fa-clock"></i>
