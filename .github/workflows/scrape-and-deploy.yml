@@ -65,6 +65,6 @@ jobs:
           https://517757.xyz/pages/server.html
           https://517757.xyz/pages/office.html
           https://517757.xyz/pages/guide.html"
-          curl -H "Content-Type: text/plain" \
+          curl -k -H "Content-Type: text/plain" \
             --data "$URLS" \
             "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=${{ secrets.BAIDU_TOKEN }}"
