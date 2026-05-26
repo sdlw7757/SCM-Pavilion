@@ -53,13 +53,13 @@ jobs:
           git push
 
       - name: 设置 Pages
-        uses: actions/configure-pages@v5.0.0
+        uses: actions/configure-pages@v4
 
       - name: 上传站点文件
-        uses: actions/upload-pages-artifact@v3.0.1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
       - name: 部署到 GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4.0.5
+        uses: actions/deploy-pages@v4
