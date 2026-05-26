@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 # 🏛️ SCM Pavilion
 
@@ -6,9 +6,9 @@
 
 <sub>SeaCloud Mirror Pavilion — 装机安心之选</sub>
 
-<br/>
+<换行/>
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![MIT 许可证](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge)](https://www.python.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-自动部署-2088FF?style=for-the-badge)](https://github.com/features/actions)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线访问-222222?style=for-the-badge)](https://pages.github.com/)
@@ -20,23 +20,25 @@
 
 ---
 
+
 **纯净原版 · 安全无捆绑 · SHA-1 / SHA-256 校验可查**
 
 聚合整理 **Windows 7 ~ Windows 11**、**Windows Server** 及 **Microsoft Office** 全版本原版镜像资源
 
 **[🌐 立即访问](https://sdlw7757.github.io/SCM-Pavilion)**
-· 
+·
 **[📖 安装指南](pages/guide.html)**
-· 
+·
 **[🐛 反馈问题](https://github.com/sdlw7757/SCM-Pavilion/issues)**
 
-<br/>
+<换行/>
 </div>
 
 ---
 
-<details open>
-<summary><strong>📋 目录</strong></summary>
+
+<详情打开>
+<总结><强>📋 目录</强></总结>
 
 - [项目简介](#-项目简介)
 - [功能特性](#-功能特性)
@@ -53,12 +55,14 @@
 - [免责声明](#-免责声明)
 - [许可证](#-许可证)
 
-</details>
+</详情>
 
 ---
 
-## 📖 项目简介
 
+## 📖 项目简介
+[微软原版系统镜像](https://sdlw7757.github.io/SCM-Pavilion/ "Demo")
+[永久官网](https://517757.xyz/ "海云典藏镜像，装机安心之选")
 **SCM Pavilion（海云典藏镜像）** 是一个面向装机用户和系统爱好者的**第三方微软原版镜像索引站**。
 
 ### 为什么需要这个项目？
