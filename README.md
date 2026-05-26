@@ -29,7 +29,10 @@
 **[📖 安装指南](pages/guide.html)**
 · 
 **[🐛 反馈问题](https://github.com/sdlw7757/SCM-Pavilion/issues)**
-
+· 
+**[演示](https://sdlw7757.github.io/SCM-Pavilion/ "演示站点")**
+· 
+**[海云典藏镜像，装机安心之选](https://517757.xyz/ "官方站点")**
 <br/>
 </div>
 
