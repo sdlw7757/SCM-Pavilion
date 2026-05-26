@@ -52,7 +52,9 @@ jobs:
           git push origin master:gh-pages --force
 
       - name: 推送新内容到百度
-        if: ${{ secrets.BAIDU_TOKEN != '' }}
+        env:
+          BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
+        if: env.BAIDU_TOKEN != ''
         run: |
           URLS="https://517757.xyz/
           https://517757.xyz/sitemap.xml
