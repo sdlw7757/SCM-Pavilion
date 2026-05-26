@@ -65,6 +65,21 @@ function groupSourcesByWebsite(sources, fallbackSource) {
 function renderDetail(product, category, tracking) {
   const versionLabel = product.version ? ` ${product.version}` : '';
   document.title = `${product.name}${versionLabel} 下载 - SCM Pavilion`;
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.content = `${product.name}${versionLabel} 原版镜像下载，包含 SHA-1/SHA-256 校验码，纯净无捆绑。`;
+  }
+  const ldScript = document.getElementById('ld-detail');
+  if (ldScript) {
+    ldScript.textContent = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: `${product.name}${versionLabel}`,
+      description: `${product.name}${versionLabel} 原版系统镜像下载`,
+      url: `https://517757.xyz/pages/detail.html#${category}/${product.version || ''}`,
+      category: category
+    });
+  }
 
   const categoryNames = {
     win11: 'Windows 11', win10: 'Windows 10', win81: 'Windows 8.1',
