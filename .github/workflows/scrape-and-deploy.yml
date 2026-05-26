@@ -50,3 +50,18 @@ jobs:
           git add -A
           git commit --allow-empty -m "deploy: $(date +'%Y-%m-%d %H:%M')"
           git push origin master:gh-pages --force
+
+      - name: 推送新内容到百度
+        if: ${{ secrets.BAIDU_TOKEN != '' }}
+        run: |
+          curl -H "Content-Type: text/plain" \
+            --data "https://517757.xyz/
+        https://517757.xyz/sitemap.xml
+        https://517757.xyz/pages/win11.html
+        https://517757.xyz/pages/win10.html
+        https://517757.xyz/pages/win8.html
+        https://517757.xyz/pages/win7.html
+        https://517757.xyz/pages/server.html
+        https://517757.xyz/pages/office.html
+        https://517757.xyz/pages/guide.html" \
+            "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=${{ secrets.BAIDU_TOKEN }}"
