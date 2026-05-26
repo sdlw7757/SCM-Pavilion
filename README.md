@@ -1,10 +1,10 @@
-
-
 <div align="center">
 
 # 🏛️ SCM Pavilion
 
 ### 海云典藏镜像 · 第三方微软原版系统镜像索引站
+
+<sub>SeaCloud Mirror Pavilion — 装机安心之选</sub>
 
 <br/>
 
@@ -20,21 +20,15 @@
 
 ---
 
-
-
 **纯净原版 · 安全无捆绑 · SHA-1 / SHA-256 校验可查**
 
 聚合整理 **Windows 7 ~ Windows 11**、**Windows Server** 及 **Microsoft Office** 全版本原版镜像资源
 
 **[🌐 立即访问](https://sdlw7757.github.io/SCM-Pavilion)**
-·
+· 
 **[📖 安装指南](pages/guide.html)**
-·
+· 
 **[🐛 反馈问题](https://github.com/sdlw7757/SCM-Pavilion/issues)**
-· 
-**[演示](https://sdlw7757.github.io/SCM-Pavilion/ "演示站点")**
-· 
-**[海云典藏镜像，装机安心之选](https://517757.xyz/ "官方站点")**
 
 <br/>
 </div>
@@ -62,8 +56,6 @@
 </details>
 
 ---
-
-
 
 ## 📖 项目简介
 
