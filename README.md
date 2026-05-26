@@ -1,14 +1,14 @@
 
 
-# 🏛️ 供应链管理展馆
+<div align="center">
+
+# 🏛️ SCM Pavilion
 
 ### 海云典藏镜像 · 第三方微软原版系统镜像索引站
 
-<子>SeaCloud Mirror Pavilion — 装机安心之选</子>
+<br/>
 
-<换行/>
-
-[![MIT 许可证](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge)](https://www.python.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-自动部署-2088FF?style=for-the-badge)](https://github.com/features/actions)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线访问-222222?style=for-the-badge)](https://pages.github.com/)
@@ -36,15 +36,13 @@
 · 
 **[海云典藏镜像，装机安心之选](https://517757.xyz/ "官方站点")**
 
-<换行/>
+<br/>
 </div>
 
 ---
 
-
-
-<详情打开>
-<总结><强>📋 目录</强></总结>
+<details open>
+<summary><strong>📋 目录</strong></summary>
 
 - [项目简介](#-项目简介)
 - [功能特性](#-功能特性)
@@ -61,7 +59,7 @@
 - [免责声明](#-免责声明)
 - [许可证](#-许可证)
 
-</详情>
+</details>
 
 ---
 
