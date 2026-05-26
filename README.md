@@ -1,10 +1,10 @@
-div align="center">
 
-# 🏛️ SCM Pavilion
+
+# 🏛️ 供应链管理展馆
 
 ### 海云典藏镜像 · 第三方微软原版系统镜像索引站
 
-<sub>SeaCloud Mirror Pavilion — 装机安心之选</sub>
+<子>SeaCloud Mirror Pavilion — 装机安心之选</子>
 
 <换行/>
 
@@ -21,6 +21,7 @@ div align="center">
 ---
 
 
+
 **纯净原版 · 安全无捆绑 · SHA-1 / SHA-256 校验可查**
 
 聚合整理 **Windows 7 ~ Windows 11**、**Windows Server** 及 **Microsoft Office** 全版本原版镜像资源
@@ -35,6 +36,7 @@ div align="center">
 </div>
 
 ---
+
 
 
 <详情打开>
@@ -60,9 +62,9 @@ div align="center">
 ---
 
 
+
 ## 📖 项目简介
-[微软原版系统镜像](https://sdlw7757.github.io/SCM-Pavilion/ "Demo")
-[永久官网](https://517757.xyz/ "海云典藏镜像，装机安心之选")
+
 **SCM Pavilion（海云典藏镜像）** 是一个面向装机用户和系统爱好者的**第三方微软原版镜像索引站**。
 
 ### 为什么需要这个项目？
