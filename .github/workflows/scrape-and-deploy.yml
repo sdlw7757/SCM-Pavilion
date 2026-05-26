@@ -12,19 +12,10 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: false
 
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
@@ -52,14 +43,10 @@ jobs:
           git diff --cached --quiet || git commit -m "bot: 自动抓取更新 $(date +'%Y-%m-%d %H:%M') [skip ci]"
           git push
 
-      - name: 设置 Pages
-        uses: actions/configure-pages@v4
-
-      - name: 上传站点文件
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: 部署到 GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: 部署到 gh-pages 分支
+        run: |
+          git config user.name "winorigin-bot"
+          git config user.email "bot@winorigin.github.io"
+          git add -A
+          git commit --allow-empty -m "deploy: $(date +'%Y-%m-%d %H:%M')"
+          git push origin master:gh-pages --force
