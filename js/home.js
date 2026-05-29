@@ -69,6 +69,12 @@ async function loadMetaStats() {
       }
     }
 
+    // 更新维护记录时间
+    const footerEl = document.getElementById('footerUpdate');
+    if (footerEl) {
+      footerEl.textContent = `本站维护更新记录：${meta.lastUpdatedPrecise || meta.lastUpdated || '-'}`;
+    }
+
     // 如果存在来源追踪数据，更新"数据来源更新时间"显示
     if (meta.sourceLastUpdated) {
       const timeEl = document.querySelector('.hero-stat i.fa-clock');
@@ -78,12 +84,6 @@ async function loadMetaStats() {
           parent.innerHTML = `<i class="fa-solid fa-clock"></i><span class="stat-label">来源更新: ${meta.sourceLastUpdated}</span>`;
         }
       }
-    }
-
-    // 更新维护记录时间
-    const footerEl = document.getElementById('footerUpdate');
-    if (footerEl) {
-      footerEl.textContent = `本站维护更新记录：${meta.lastUpdatedPrecise || meta.lastUpdated || '-'}`;
     }
 
     // 显示各系统最新构建版本（从 tracking 数据取）
