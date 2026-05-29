@@ -432,6 +432,13 @@ a:hover {
   font-size: 0.8125rem;
 }
 
+.footer-update {
+  margin-top: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
+
 .footer-source-links {
   display: flex;
   gap: 16px;

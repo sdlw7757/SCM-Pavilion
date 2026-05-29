@@ -40,7 +40,7 @@ async function loadMetaStats() {
     </div>`;
     html += `<div class="hero-stat">
       <i class="fa-solid fa-clock"></i>
-      <span class="stat-label">${meta.lastUpdated || '-'}</span>
+      <span class="stat-label">${new Date().toISOString().slice(0, 10)}</span>
     </div>`;
     // 各分类数量
     if (meta.categories) {
@@ -78,6 +78,12 @@ async function loadMetaStats() {
           parent.innerHTML = `<i class="fa-solid fa-clock"></i><span class="stat-label">来源更新: ${meta.sourceLastUpdated}</span>`;
         }
       }
+    }
+
+    // 更新维护记录时间
+    const footerEl = document.getElementById('footerUpdate');
+    if (footerEl) {
+      footerEl.textContent = `本站维护更新记录：${meta.lastUpdatedPrecise || meta.lastUpdated || '-'}`;
     }
 
     // 显示各系统最新构建版本（从 tracking 数据取）

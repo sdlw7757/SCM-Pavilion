@@ -32,6 +32,7 @@ HEADERS = {
 TIMEOUT = 60
 NOW = datetime.now(timezone.utc)
 TODAY_STR = NOW.strftime('%Y-%m-%d')
+NOW_BJ = NOW + timedelta(hours=8)
 
 # 分类映射
 CATS = ['win11', 'win10', 'win81', 'win7', 'server', 'office']
@@ -1092,6 +1093,7 @@ if __name__ == '__main__':
         'totalProducts': sum(len(all_data[cat]) for cat in CATS),
         'recentUpdates': recent_count,
         'lastUpdated': TODAY_STR,
+        'lastUpdatedPrecise': NOW_BJ.strftime('%Y-%m-%d %H:%M:%S'),
         'categories': {cat: len(all_data[cat]) for cat in CATS},
         'sourceTracking': merged_tracking,
     }
