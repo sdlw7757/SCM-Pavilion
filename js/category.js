@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Load data
   Promise.all([
     loadData(category),
-    fetch('../data/meta.json').then(r => r.json()).catch(() => ({})),
+    fetch(`../data/meta.json?t=${Date.now()}`).then(r => r.json()).catch(() => ({})),
   ]).then(([data, meta]) => {
     // 构建补丁查询表: version -> { patch, updatedAt }
     if (meta.sourceTracking) {

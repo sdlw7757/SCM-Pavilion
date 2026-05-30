@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   // 加载 meta.json 获取追踪数据
   let tracking = null;
   try {
-    const metaResp = await fetch('../data/meta.json');
+    const metaResp = await fetch(`../data/meta.json?t=${Date.now()}`);
     const meta = await metaResp.json();
     tracking = meta.sourceTracking || null;
   } catch (e) {}

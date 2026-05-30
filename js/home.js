@@ -9,7 +9,7 @@ async function loadMetaStats() {
   const container = document.getElementById('hero-stats');
   if (!container) return;
   try {
-    const resp = await fetch('data/meta.json');
+    const resp = await fetch(`data/meta.json?t=${Date.now()}`);
     const meta = await resp.json();
     const catNames = {
       win11: 'Win11', win10: 'Win10', win81: 'Win8.1',
