@@ -1,0 +1,892 @@
+{
+  "products": [
+    {
+      "id": "win-11e6b765",
+      "name": "Windows 7 Ultimate",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Ultimate",
+      "sku": "Ultimate",
+      "fileSize": "3.19GB",
+      "hashes": {
+        "sha1": "2CE0B2DB34D76ED3F697CE148CB7594432405E23",
+        "sha256": "70CDFB0CDCBEB2659163E9417D5C242B37AE564DA810E7DA21DAC5C8492AB72F"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=dHMJYoEZHcMZUObQwxsawzcW5a1X3-mz7Ay5_1_-r5H62RF3xm04AcnGa-dVGxv07l0ZDAtqXoWONnabtSzI_yKgLVkgBD9h-v_AOrrkPvIZhrTdiB_uiSCAe0_jte2DZNY0FfRqlYtPLbxx-iOgSW-Hv-ri3c09&_pid=&_name=Windows+7+Ultimate+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1gamhuXCFBT_OPTY-Mu165g?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1L4rvzS396Mga69uZPd4rfg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_ultimate_x64_dvd_x15-66043.iso|3341268992|7DD7FA757CE6D2DB78B6901F81A6907A|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-b324846d",
+      "name": "Windows 7 Ultimate (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Ultimate",
+      "sku": "Ultimate",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "B92119F5B732ECE1C0850EDA30134536E18CCCE7",
+        "sha256": "36CFB7C93C86938FBDA94A134D536B74F900232C4E2E67256030A7A51EDC3362"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=6_3KXu65puq894_z8fjYaLmy1BO34W_OpaDW_uG0KzVUzOxX-7-jUCDX3nSZbWBA74oTWtF-YJXpEmVzkOwfNaswhIHY3PziDw3TpZBYe4Kk_ERi1_xIjt7IAhC8G4EiqmroWEbIb0jQmr8UAJEgvhVQgoD4AMTT&_pid=&_name=Windows+7+Ultimate+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1SPPufXfAMAOqOMRu6abA8g",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1TTxWHrYsZATI7u7JJmvrmg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_ultimate_x86_dvd_x15-65907.iso|2604238848|D6F139D7A45E81B76199DDCCDDC4B509|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-0b6215eb",
+      "name": "Windows 7 (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "9522D435348353BAD69047C0161B7A9115A3C2A6",
+        "sha256": "09723CE70AEF7F8836FEBBBBFBDC2BB0CC145F0B4FC7026B41D76F9D0F0F70F3"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=zYrkRqRTEMoD0vrcLZfezg4wJAjtT-8Iy-e0etXrxShnVNEBq5o10NYVAy5nu2mUGjqJZcRqteCUcGYpaiWv6Zr4aAqI1pWErmpZtIxlRr_qbpZbbMSo4DuHvXdF714C-DF7iNMHdyXs8Ui5OQH48y49_ulGdNf6&_pid=&_name=Windows+7+Starter+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DhSBPP8Pn1p7ozgyplwmBg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_starter_with_sp1_x86_dvd_u_678536.iso|2653276160|B0A788EA28B2491B4587A561A8CB5B19|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1SREkRp07nFasB9QlrCPuig",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_starter_x86_dvd_x15-69303.iso|2604238848|5A6796B2B6A97B3E372F7C37D3A42AA4|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-ec423ccf",
+      "name": "Windows 7 Professional (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Professional",
+      "sku": "Professional",
+      "fileSize": "2.33GB",
+      "hashes": {
+        "sha1": "27AE9FBAF9EE076F50F153353E42A3BE74A61FAB",
+        "sha256": "B17270A4F15786646CE8E2699CD2C5D4196AA08AE9B862589425A97F19F1CA04"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=cPrtg4GCxO3e-kJyIFwaj6YrYp_RcO_N9W0-kWQgAotBp8M_ckfE6tzQWLQBUbiow4fqQ6jsqaSAkPkXAwhzX9rFTkNuPUemUm02gSkk2tGe4TUqE51MAA83NfdDStexSjQ6ZDn_IHtI_lp5axus6FkTXMxf5axe&_pid=&_name=Windows+7+Professional+with+Service+Pack+1%2C+VL+Build+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/101JkdyoeVYgVtRtDfXImOw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso|2653276160|08F65018BD9B5BC8D77C1C7C5615A329|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BJhcsyK9Hyjwaw7v91DVrA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_professional_vl_build_x86_dvd_x15-71025.iso|2466107392|9EA7E0C2594B5A236FD09D572CA39770|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-5640b43c",
+      "name": "Windows 7 Professional",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Professional",
+      "sku": "Professional",
+      "fileSize": "3.04GB",
+      "hashes": {
+        "sha1": "647B26479A3A46C078F5B1364A89003A31F4AADA",
+        "sha256": "4E72B1389DE9E1CA5611991FF2E698FC65710B56A59D259F172E9C1F0589334B"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=FI4LgM06Vh-gy7d4y5acIFDSgLGujddMHvXBTT6cc7-y6o0ejN0RfVsojjbFgWvCdjapkthTHrlCbM0n409duytfXT0Hj_hdXtd8HeCilUV1Cgpn2M8FilBc3U2KzFE50epdg7LJ2zojW91ezbtbNheOC1LCPtpz&_pid=&_name=Windows+7+Professional+with+Service+Pack+1%2C+VL+Build+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1vrD-wZDwkITF_JGcGRcNhA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557312|430BEDC0F22FA18001F717F7AF08C9D5|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1mMe4U5SAuoRNnTHmo3TLJg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_professional_vl_build_x64_dvd_x15-71029.iso|3203971072|23155387CBD0771CFBA528CB1E7B170F|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-000e6756",
+      "name": "Windows 7 Home",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Home",
+      "sku": "Home",
+      "fileSize": "3.19GB",
+      "hashes": {
+        "sha1": "BB5A8A1480FE54C497601AA1DC7BE698A784BE1C",
+        "sha256": "118009194F720D7BF2BCE3D8B18E04B61FE455D7C99A54455867CC1B8CEF4537"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=iX1OwqO_dvDVANa3fFzji-KlRbFnAZVlmb7w_m-0xX_Z1l8NIRdgEiIZpEpw6zk8B1MLdu1P0POlovAurOdoRg3oaJ5hnytrmO6lirmJBQomud43COQ7n8mT4tHB02mmH0icwBu0FIQjP447Y7dykbvbQx8lflUb&_pid=&_name=Windows+7+Home+Premium+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1St1sCh3oXEIH4G5T53Rs9Q?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_home_premium_with_sp1_x64_dvd_u_676691.iso|3420557312|1A3CF44F3F5E0BE9BBC1A938706A3471|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1udMkI6_EoiX9OqWmLN44dg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_home_premium_x64_dvd_x15-65718.iso|3341268992|9F976045631A6A2162ABE32FC77C8ACC|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-8f9061b0",
+      "name": "Windows 7 Home (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Home",
+      "sku": "Home",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "1B3B55C00CA60CE00D7745BF477D523B192E78DE",
+        "sha256": "8AA21409A97EB5ED443E58B837E6C534C2755572F056DE1523425F5BCDBF1848"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=_Occx5OxavXD_HSQmYE5QsZsUF1kYuDiMkzjQ-qABMqNyFu7U-YCyiNcaBCUg58moWhtyUadrbJ2H9PmMO2WhfcDRfb9aJagpaYToEnjgxMDhC2h1ysrxqVizAUtADqZjMv1WyHB1VognLAb1vx7J2H_RbZ4_Zog&_pid=&_name=Windows+7+Home+Premium+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Pcl0wSMsGc4gTRh8bZd2rw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_home_premium_with_sp1_x86_dvd_u_676770.iso|2653276160|A8E8BD4421174DF34BD14D60750B3CDB|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1maFlTBrTXuqiWulUOc0f_w",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_home_premium_x86_dvd_x15-65717.iso|2604238848|98E1EB474F92343B06737F227665DF1C|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-08b03846",
+      "name": "Windows 7 Enterprise",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "3.04GB",
+      "hashes": {
+        "sha1": "9BA5E85596C2F25BE59F7E96139D83D4CB261A62",
+        "sha256": "D8C179D643342926BD692363E68AD0152DFD1E86C776DA34DADD7FEA702AFBF8"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=2Url9lW_8DLALvbio6GSqf_NYnry3xbO2WBqoCDozXIoikH2KZ49kgg_M1hHKZqYHg2NreZ_GJR7zABtoqQeJVMW7tWKyKdV55FQW58v43_b0aK8q8-m8ZVw-M2QrGEKHirpXS-w3cJorO-5haWp-hnqXG9C_owX&_pid=&_name=Windows+7+Enterprise+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1cxnGngTvdEEe3YblRZFN2A",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso|3265574912|E9DB2607EA3B3540F3FE2E388F8C53C4|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1q5s-fldkaVG5MnUPuYWKkw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_enterprise_x64_dvd_x15-70741.iso|3203516416|876DCF115C2EE28D74B178BE1A84AB3B|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-ebb5242d",
+      "name": "Windows 7 Enterprise (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "2.33GB",
+      "hashes": {
+        "sha1": "C488B3D72DDC4AC63BCDCA36820BB986A1E670AC",
+        "sha256": "BB62560314372343C8221D3BCF3039E66197E1394158CA99FE005D084A0A59A6"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=npTFuLn3uoytKsI_s9Ej-BmQvhnGtSg5o4rKzdbrPeVhV-gh6oEMyNYOdRw9BGMwfB45fb98S9CY2MyUyuv1Z8ZPWHm-yZqAu9ZrmkMB1oiaYNODStL5_RpBipDggOXBQv2avYKA0vKsyOM10mNfwt9hMhq8NGHW&_pid=&_name=Windows+7+Enterprise+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/10wf6j1vCwN4uyoOt4rahEQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_enterprise_with_sp1_x86_dvd_u_677716.iso|2502856704|B3C25EA4DD88D7E54F22D3C3E78C410B|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1dwg5DwDVvArKzsYNo3HlkQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_7_enterprise_x86_dvd_x15-70737.iso|2465783808|41ABFA74E57353B2F35BC33E56BD5202|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-950f43b5",
+      "name": "Windows 7 旗舰版 消费版",
+      "version": "旗舰版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.19GB",
+      "hashes": {
+        "sha1": "2CE0B2DB34D76ED3F697CE148CB7594432405E23"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/14LiNVfS2C8rB1PzX16Erkg?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/7c50c6e46202",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/iaI3uqQZFz6z（访问码：rk6h）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-29c7fb51",
+      "name": "Windows 7 旗舰版 消费版 (x86)",
+      "version": "旗舰版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "B92119F5B732ECE1C0850EDA30134536E18CCCE7"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1fnM0bc3Zp9y_XUVHIUwSwQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/713c493a9d1a",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼网盘",
+          "url": "https://cloud.189.cn/t/iy6JzqZzqIva（访问码：j92f）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-b833312f",
+      "name": "Windows 7 专业版 消费版",
+      "version": "专业版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.19GB",
+      "hashes": {
+        "sha1": "9B57E67888434C24DD683968A3CE2C72755AB148"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557312|430BEDC0F22FA18001F717F7AF08C9D5|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1uAq25_wUkpxIiYpUihPZng?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-503cfe22",
+      "name": "Windows 7 专业版 消费版 (x86)",
+      "version": "专业版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "7BB512B6AF82632D6B080C1E9C3C10CD0C738F0E"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso|2653276160|08F65018BD9B5BC8D77C1C7C5615A329|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DNnVbyIssYbioihE0Aya7w?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-bbe90ab2",
+      "name": "Windows 7 企业版 消费版",
+      "version": "企业版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.04GB",
+      "hashes": {
+        "sha1": "9BA5E85596C2F25BE59F7E96139D83D4CB261A62"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso|3265574912|E9DB2607EA3B3540F3FE2E388F8C53C4|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1sm52YM5",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-5443bbeb",
+      "name": "Windows 7 企业版 消费版 (x86)",
+      "version": "企业版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.33GB",
+      "hashes": {
+        "sha1": "C488B3D72DDC4AC63BCDCA36820BB986A1E670AC"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_enterprise_with_sp1_x86_dvd_u_677716.iso|2502856704|B3C25EA4DD88D7E54F22D3C3E78C410B|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1bqvgmv1",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-8a3f83c7",
+      "name": "Windows 7 家庭版 消费版",
+      "version": "家庭版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.19GB",
+      "hashes": {
+        "sha1": "BB5A8A1480FE54C497601AA1DC7BE698A784BE1C"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_home_premium_with_sp1_x64_dvd_u_676691.iso|3420557312|1A3CF44F3F5E0BE9BBC1A938706A3471|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1dHjhcPj",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-fc804197",
+      "name": "Windows 7 家庭版 消费版 (x86)",
+      "version": "家庭版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "1B3B55C00CA60CE00D7745BF477D523B192E78DE"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_home_premium_with_sp1_x86_dvd_u_676770.iso|2653276160|A8E8BD4421174DF34BD14D60750B3CDB|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1snp4my5",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-0ba0f8aa",
+      "name": "Windows 7 普通版 消费版 (x86)",
+      "version": "普通版",
+      "build": "",
+      "releaseDate": "2011-05-12",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.47GB",
+      "hashes": {
+        "sha1": "2E53EC6E0CD78C23FC51528CC0FED3F6191DDCE6"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_7_home_basic_with_sp1_x86_dvd_u_676500.iso|2653276160|843E7A78F2126FAC726CF5342710082D|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1oAkQDEM",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    }
+  ]
+}
