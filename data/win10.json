@@ -17,7 +17,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=afLaikP0OY6h_6b-cRAU3o9InARqEv36Q5Kl1ZDpXAWAWAsEmlnhFPzrK9KEhLL5UQC_gVrPsqlQNBvPePgyGT0-uba2j602zHlpzRcIeolXbwniz1o8a3RiJyTh3bIoXVSJBZBHcUh9ghmnvQag37Xn5BjjTmZu&_pid=&_name=Windows+10+Enterprise+LTSC+2019+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=6TjlRIcv-WZablKhu4WvLWmzNxWYV3UkXuXSZNzgJnvg5amnlrgUf2hfBsOV7yQQ6q5q3q1DZaOZ_7JO4FzoaWmQ5wsQR_GQbnlT_U-PXvutMF5JPUL6Xw4_vw-KQ7yXnBvwl5soU7ZnkuuKkNWs0vEAJAtTIWEI&_pid=&_name=Windows+10+Enterprise+LTSC+2019+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -46,7 +46,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=ojz4H3zUXD3E3uaCFnrRlHDI2rrjhD-EpxmMW2nNDHQOX57KNhFLsBeEhPYiVkj4KOXfl3HYuysiFJ69b5cN81syc1pp2Ue_voLGIIl7vLymWtIuKVQHqXzIttBx1eYnxukycGH7_CHFpOAq1mXILnIwUWDuZ1r_&_pid=&_name=Windows+10+Enterprise+LTSC+2019+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=FijRmOS5AYdJkEQs4Pria_tk0T7avRtDSLtWQkGHU-vVjEIqFCFWp7TLzwITc5CT3yKBeZqEI5gSKfuNlYy686ZtJpB031juppCZn0Yw07R8gR80J5ConJ9vAFevugeWdPXfOuJp3QEaF7bF8l1Ls8vlQk-n7MRS&_pid=&_name=Windows+10+Enterprise+LTSC+2019+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -70,35 +70,21 @@
       "sku": "LTSB",
       "fileSize": "2.62GB",
       "hashes": {
-        "sha1": "0422052F25C9C8DF983F3B287F725860AAB907CF",
-        "sha256": "C6F7C231062E190815A7A7C8FD8B80B3CA80EA3C1129A75CF44992614802452F"
+        "sha1": "0422052F25C9C8DF983F3B287F725860AAB907CF"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=8gQ2s3KbcZ4Tn8rGzR62uw_ayXyAJvOt6p_Hbqsqp_tLbMI9eELH7hwA4LdWmjIcFRVZicgqkNo2QflKbVovoiCfC7CJ-WF_J83OfTgOimWFk1ncTCJ66Q8ZC-Oyb0yKAfPktonkiUjxhaq_pBknJAsyqreWeppJ&_pid=&_name=Windows+10+Enterprise+2016+LTSB+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=UZsFOJ2IX0n3orlOSvD4vy8C_x-iO2NcEVQxMRr0oTpQuEBN4cQLOwhEMA07Etr2mDzTSNJlolQCDoXRgyZHaIm0C8oQOFAHIlfkqRfEKTVRLdigYmjOErwTpOR1np6dhMI-CVprFOVUicQRkOjlB2XrdH28Pp-X&_pid=&_name=Windows+10+Enterprise+2016+LTSB+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1fX5CU_Zhlodky1muIK2hpg",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -113,35 +99,21 @@
       "sku": "LTSB",
       "fileSize": "3.56GB",
       "hashes": {
-        "sha1": "9E405E950890D2A196565BCA35E152F9CFAD296D",
-        "sha256": "A4F454748D50D2461957D6D3B0AC80AF6E2248614147D9FADC69F2EAE83B376F"
+        "sha1": "9E405E950890D2A196565BCA35E152F9CFAD296D"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=AmOfidsBBxo4lfwccpos196y_VnbOMe9oQqRSEuAWnr6s9BZQUje7lm6uaj7KCyolLQUhwRbiT4OiCiNSI0S_YKqoDXhGaETkJCo4HCSdhy_5YJ382Ynlgdb1t-_a42EEhm8pNVJHaqB1b2WtfnDy10ktc_yYXnK&_pid=&_name=Windows+10+Enterprise+2016+LTSB+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=FxPaJS03iZQsrj0eYN2T3c8hWq2U7eYYBlRkVSzXweZgDSB3NeFmwALej6rSVA7Jx3lrwpZlXFYSSJZYpxXhha2LnA6c55GfR8Rw17gMpzLLmiWEKUQgJJDnLDi3J2NbBDsfLLTlA0VgB4WcEwWUdC3JgO7OGOOh&_pid=&_name=Windows+10+Enterprise+2016+LTSB+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1z5e7GrmAerFiXcUjNL2B7Q",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -162,7 +134,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=5I7RDNcuwUT4o8OUrNDxeYu9vatPsEOuMLtnIXjFr-CWw0gUlmcsjiIWJ60ZS5KXqLvVcNN0o3jkH9PGhdzvcQqUapJxImjO7GzivDkIOzBC7xU3i1bCyNkcaTGB-58B_CBU-yRyCp4S1B4eC__RGFRpAGQlU6cm&_pid=&_name=Windows+10+%28business+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=1vp4yk1EY0_2gmLa-R72YqlJnGA9SW1P2o1o22C5iyYaCJU8AweubGJYaOs6uvCTkbSZyjDuE92_j2fuuVYNLVHSX0Uxtp_kA7V1L-Xasc-mn3MkWRWWr1RqbvuNqnVMKvFO6r6lpvGPtFJy7Y6Rp-kbfB8TjeAK&_pid=&_name=Windows+10+%28business+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -254,7 +226,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=6l4nWbuZV9yKzu25yvwRmnkNheJ6y1y71TKHxgHpfeqkBOGOgLXlMmmasYIrE67zOg-vlg2fhtkRzG5B4aixzw2zsigJlWyhy4w9FLddNkqa3iufDKTuzhX8EWf4z-cJFaQJtJmVu2-0BRmaeSbx0H_QXY7_35D1&_pid=&_name=Windows+10+%28business+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=uHJBplyga5ggo2wBu9Igfy80BA-2x3LIoHQ2Qz13mH3GmR5zO6y3y7ZI2SchaH-Owf6mnuXSGAv6z_uyYYhdChgOUv129_13nsgq1MbpwssvQ7moEl2wo5-A7lDeWTLg7_sXUO6812tK-2x8RAFushe-UdpGeJBU&_pid=&_name=Windows+10+%28business+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -321,7 +293,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=IepW5LDRqdgnPcy-ZuDgjl_zwphHfHHiNawSJIhzowLHYg5iQmlWFU8rfS3EJj1YnEngQyBqu-Rpnrx4fY6QbgKbcCL8OzyvyP6C4cnZrVpk1ymvXattLzm8RF2dotIwtJugbRGCEpM9Z6ttp7888tRtwDDWtVTp&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=8yKQag1cYZoGwMevEM6gjI-WQnutWFjliilDPY_6XuC10UEEnL8b1jo6uapde60o3MB2nvZbituhMZ7nzV5CFaL6OpNZxdAV4Q56OhgdSa_U7V9whTSLLFkj4Qru8h9YQJQ-zyxIJE7njALDpGtrJXvwmJSaq7g3&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -413,7 +385,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=POBrBp1BalghxqNCqOKN7VKbKR-BM9FZzmr3RXfluxo6OXxKru1ZhctEOcZanJxTN1GIFFs4s70O5xOWzB4oJgrgRh89zOEtC32-sTQzYg4_glm_hwqSKxTL996kCt0La0q4kJabT_yLn9w1TBw_I-lTF8MbW8JB&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=o4PrEf3C6gTHNssXzv9hBaofGwB3-RgHAgz9vdkNr-29XQtLi68R-1pgNMQB6Wen6fMfAZF8sTxyanSA8P1p6gvH2H_mM0Q-AagfY9oB7zmodpWrlxWE1gumnbEEnF-06EAQBLfn0dJ6T6ssBCKpo8CvkXt_HDBL&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -480,7 +452,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=dvAbkNNRm_HR2w9jpxxpN5j_NQU4-ZZbtpy37DWkM9Fe_2KfQ7iErqdlcr8ZULHCHSiiNhIOHiAM5TYINQdHLNy5aUiXWFdSLyPIJZ9_h6mXAeStf7YKd0QJzytbA2JGqKGKega0OXZBV5ro8FJwgiPB-c7CkLQP&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=Y_F9aQlPtU2BsOi3vUJCNoc_hUczgmVgb-bE2JukMYZExK4JLxBQXsR1NIDZNAuAuJbBycubPiUnADWt96OcG-gCAivdzFfP2gW32vUEOoJ93c9PD99t6Sy8B073KpwbIe0maubKWLe7qqjlu-_Kovpb2CdIR0Ew&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -548,7 +520,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=gCxltdCZt1pnfBynyNTSTGZSLi3cxEWdK9XQizlBHdJip6n0e4ENx_k5Jj-q4gdlMMU14WNz3MWpw_kabGxK9RNOZVk3yt006GVDnCXxNAclAN8kQ80hflA9hmUk2kBDGrdrW0Dg4UtD7v4MHGa3uh7bj6Vmm2lo&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=i24ZRDhRpYM583y9sMh9bscDdJ4y5F8SeW--CaUokBAhO1qSqVRLOsUrEOD0mip5fC_e_m1v3MpYOsMeixphzMAxlT9ZuOJFFlp6hc78kdwAWZmc0xYjSle5s7VxdLSO0zoBuUE7ftC2IhRKoS5P1VjNjBKGr-y-&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -616,7 +588,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=4FsxT7C0REZ5qEtlUeSxZSnTMNFD77A9kivUfPSM_lxzgonLnhbPaPg5HRq9mC_qlw_JGxYmf5EjtLeNfXg5tXFULt-JHP_xCAF5RcZmVBK-vAwpkhm2iTtroh3V5zSmEfE_1ChXlatvxkmcpUfu5ENKWWGE75iL&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=NcOmJVtbLcYSEY4mdbpW4KOkUprvHswC4H3J_X2h5pTWwdnsjN0hUba-rThjlsC6BWdf_wQTJ6FGuZb0FqVuFjIqp7nPNL-2Me2A8ypalJFEkEYX0L40RFzYh9lMCGju1zS_egzbyJpSOcwEV1h8Rq3ahs-7ogWr&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -684,7 +656,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=XV0b65Av5oxSs29cRT7TCFr_GMgZwc5XVddHfkwWacon0sm8gVUdSSPiB1Rdp_EefCF4bmrBNO0IAUsH75fwp3fQkkLJxZd7SXf7u5seongooDZZK0fnLacI-Ag0K41JJ9O1jZs6DD_TBPgygW0Skl6togq9Bjmf&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=bvy8nuvDfaCiBfzIb2WMdt_EUTknwqD75e8EaAGbeaqeOFCJ_Ihp41Z-WFdyI9TwUMxkg8kK5rbxz4ptjesgvGwdv1nmJgUxIiaRD9FpDjivQ0GOo9J3VtEBD1AoideBeWp9ZnWVplJT6IRcLQpQIwGImE6JwkAU&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -752,7 +724,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=LJYNWKQRePHsAlSTphREuV0uzP0x9kP1iumYzw4c_sdO9qDFlRAXTskEY_4c_PfUcNBP10DJfgdAlj8vVoElEUQb9MJ0KcA0ILNyppJk6sDvYiu4ceZRFpvp0zD48Xee7D7jE3STOjZ6sEs61kxubkLLIsp3J2gW&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=QgXbRijWfScAv1nr4RklgtajiLD-XkicQWJUYjJobvAbA5lOGgRu1TlnnxWSVC-xlbS8_TZSvj16wgi34eXWG0MhfdC2RBjIQugywqy1wOhWVIdI3D-mN-MSYbM8ylq5vhRtuweJAfCshwGWCI55GQLgHvlBOOGm&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -808,7 +780,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=pYNNWQvxicLvJ-d-Q_AsvQqZxqTM8-JnFNKiILjH7rLx7qsyMwwPCYK_TrNh6MrUahtq9Ktxww_AO0o1F7qayf_4k6NllWVaHEdsAfZ4TVP3ZSE7sLDsO5yCk5xTfBmsvx2rxWb5bbHTMDNF7Np0UECSYlPdX144&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=73GklRLbG_l71xZsGLLrTvjayWcY6XL9y38RTkLaqABeR7vonnv_Fz-hTBU2ddHfL3qOHgPkaWHKx4DU-zk5CILb-V4h8mD24Icowtiwa7xgv2_OH6UeNaizrn_S3ELf34hAnPK7KvgW4dCH3TmGOjbYaU4igcN0&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -864,7 +836,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=HzI92DeI-d6674XsGiVHq4ynsKs-ZvBF7UEHhmCw4ro71AzA-Nd-DhKyBVCSkG7QXZrNojHRptlhemSiLPwwwZT4P3QMCwSzuLMHRmC-Sm3MRAlm-6P7lXNHYzPAR_ATrwaCr7sPfJhgufsxF-SmYZPvFADY12LA&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=MK5xaLwR9DJYV7GAQ3c2ahDQONQTxZG5ny6z3Jx5GaGoGoTTJammaKb84ljrmY4VQ0lFRp4jOD8RhXWEHs1mLL04hgBwVTx3TZlnoR2mX3IR25Hmvs0p0uXc_yZ-IL8Ab03UElYNkVS4Qt4eHQg8ltXOJudMuIo7&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -920,7 +892,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=hEuYJCbdOcvtCjMSNm-GoUORrjM5rOWXrTWYF8Q1Ligy7OouGJfSjQmqmOJBXF0YT3cduiW82YU4hYt8kjkx46DcD90tCaWvhoYw0QoFl7F_qxYESf3flr08GXXv091BhZkDPj16dsykbVIFbGvTjVaCCNkXXBX4&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=bDwvSvWoOBV-2LKf6ncdxKhs7DnNLrKJSp08MEG60ZigDxCofK2B2q9ad8JH4PNYTK9XYxfTbq8dIO10jqfPUQ78vTB94w_63Q8sXiJtCfIS7TK58GafArBRbEQvGoLezXUZ8bZemR4V8fEdX-IRIuWNU29PuD_V&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -976,7 +948,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=PrcCZFGIUcNJdT5pbjUuyEgHuB6-Hh9-P65mmIOFOuNFnMfCMqQFeQ1JbHEZkFuK5NFwBcUPNJ5I6LxfsOHusQIMf2PGKPLniHKoOuLMUUufuJq8wHpbQ0zAtaprwrexz8yEtesSlAsJlnpz3-lIJhbHEsZBR_PU&_pid=&_name=Windows+10+%28business+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=VAxeJLCmfJFzEjW0PTKeKU8c139MRFcBZnXG7mzh0PNGMsK4MUxex7wdiR0ry6Cud_uaSinwxD6cvhF3Y83nrego3xETMx-Dv-u_uRsymJwxYtnU4_6xlfmj4oKNzQcYDDi1Kkhm1WKMRIk6688Vo5aI4tmbragZ&_pid=&_name=Windows+10+%28business+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1032,7 +1004,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=XhEPo2JBb5Q7c66FfRuKR61roRjDxp6JbcmN_nIy-Xg6uLOC8jBbqiYaoDTjDhzsztJ2RYMDW2nGY-a1tQZ8tqbuhO1nzmnQDKkAmLQDjSJOtO9E7Q0Yu069iQLh1taMzJLnQSsgEWncq-kLrVMTTNu2Ua5oMDuq&_pid=&_name=Windows+10+%28business+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=sAlWSfq5PPUCT7FDgUrQsR95mFhyMWkSyT8_pem65bUiI2GVpZGjhc5zy8mFBWwnt2DNdgZor_BGFwUdLg-0x4taCIWmMhRzRdKHum-0owSvqeyz-piwHQT4DrOSK3MhEwHGXQooJLDCLWYuKPZf6uueW2uMGDqG&_pid=&_name=Windows+10+%28business+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1088,7 +1060,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=BjbIG0mgxjqlq2XQ0sjA1ITY7gci98Z5dVr-wzDsp3FHihTpf-08QqRC-h56TNSWxnJL9GIdJuIIXTJo4GYmNCzFA6RK6f5QU7Qx18X-XbKz031jT4Evup6XFcaELT3B3nhe-mwyjVxEEEKuBPoFuYwVlC_04i7v&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=PsqXnd8UIluCDS7ryBBK9oSdCElLtiumvA5Cq80oIIyfwfnLSFP6WNTolxMx3meRypKC3zMjipLHsLILkFD31Mi7nUakjXQXMagCxGHLkOprvP0fulXiQ_dITYpOOkVsGIAE6d4y5t4J9rnFpzWEAZ65kTkFJuBG&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1144,7 +1116,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=KAtYRqV2B_STAaYuz-dBuiu6NkDeW7C3doabOLlCu5J9NfWTBesavmVEy95OWebWervSJ3g4zouZw0GyEjTEPzqP64FAHEVZ_c8SXJSVuMP0qTbMBtY6hZh-4kWeUmsyofaa_MDiPVXYYjpjjc5uzv8-m7LFejOm&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=6YAaP6r5Hx6iZUVNf6_nzGDyEJX43UuVrYYtto5KTytibL5I3i8M92Q3XQdEUtjYjy0dRNfqjajUq89Qh79o5NObmQhUoD6nhGIE4nEOlKBK9Yyac-VZ0jm21tiPSyZDGXP1hNEcVdgFqvfHyQSttNOLhrEJ9Gjc&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1200,7 +1172,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=H2d2TV4Qh2BkkIpXs7-kdPtCdFajg0PNMX1Zgtv2hYT6SKq9ljZV2K2jqGx7-plSkFHkdpvlzFViy_4HB2iXeW_8JeYndpwwur9cLrtG7zhFuuSM2VzHoX1-hIGviOv_qEGbgWkP2JQpQpsISTSrNgpCDN0vYI2M&_pid=&_name=Windows+10+%28business+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=jjRAFQB92D56a8v8eLxYVZ3wm5b5I3eRd64UOgw-FtdAln06iqkXJ0ecjYSokkERzx0W3xnk05EmebXOpHXN-ZBCVtQ0WfQysfBjaGTDTNRqg7qLgv8uy4FBlQ9zQeV3VGBHXcOfVkRtfe4KaLYIAGUACKs6cZIy&_pid=&_name=Windows+10+%28business+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1243,7 +1215,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=OBiXYOxe2PFK0cc1uwKegqTEQzk8F55ewEhaVboxPCfiabLCc3-QLM036mue6cQ8VoGmvWuBpwczivud7BR8n_tYyib2k-W9BfCzV__j62i7_N3RZcWeltoMGUCVEcyPWoBkpm8a63rvkbxTiymCWZgHCny_HvuK&_pid=&_name=Windows+10+%28business+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=Zr-GBMkLg2haA7WSVQuj1jAZ65lx4nFTkrdl-RQ3hEFzsMSoi_m0BWJ9wjti4RIv9ZBi2_uB5OQnjGBP6iv-3hYy31x3w4bfTuFA2bevA6_Eh_uHD_aS4KJW0GW5j3Z2uFB6zRoTnwMHrWwe-97lZK3CrOgl9HFZ&_pid=&_name=Windows+10+%28business+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1286,7 +1258,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=AbtLLszMiKgbX9yiKZuBntn2WC5pdVPl-jKiRVGRUJ1so1uiBPf9c6sBWiSJTQHMWrWXJZKl9o19fPn0u4P0JwaXuYKv9B7PWM9w2lSx6dK85DjTxfWn0EEVmfeZOJDsOfe93RYVfM2HSg6DLU7sOrF3XhgfJTYq&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=ElZ9ntbrrrlZbXvkyKa_govbM1l9_COMGlRARuPn1Wdw9cwpJUqV2Oyop6l_ir15C6YzEIciUlwxf767_WfcOIuCahZtO5OPqj--QKHKMZWupEWn6ldSU6Rsm5y-ehlcUeIpa1_nF7VDooGTmOSuKbfiMTZanzZl&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1329,7 +1301,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=gnwkzoZGiGZF9Cc9__hjAjY5ydIWUJHQKJ59uFE6R3FqUk48TuFBLAYqA5uiLSsFZ4Xvt6IsS5iJQ2KJsboKz5nbNHuDsBQE6vMHhlhQuX_qUi1TpRwQVWFjWmBJ_dhZLtyNCuFEw4l-MmSVRUIlq_XTmEwCdj_I&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=zA94IYHKE1Unos4fzDu_5gPSrHUjnEbP0ymcR_PfNYGREke8dbb1n_5JEGFtv0j50w4EZgEKsxCptuVYg2WOeRF0CCF5peseNUsEH6sPk4ojWqaGFf2Qi6U8mJh_v2hRbLM9IcnocHRX-fLQDH9nOC6L-1PmYT3h&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1372,7 +1344,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=zVo86zJG2fA0Jbstwdn1klao23rAkKT5B1A19-3QmiPqNW-LVbi6gNw4K-KrvJZqUDHg9gQtN2y1ofMOHWVBCDTuHQnLQxhArmeyjg0EPmM4IthNyUP4AT_L8xFAtWuU56U8FHL7ANbx_q4m-ZXdyjruhKiVch6y&_pid=&_name=Windows+10+%28business+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=0-KJdVLSQlQqWq2Exdd5lCttDW-ZTkoCvk-ZZSEtVa512np9FBV2hOZB1Sxds5iQi4_gwpZ4CPM0oNs2hpz0MeNAq_kcHiNoLvidE5oR1MOdWSUesKO7bDfRfwJaBxNp2JyClaaQnmW9v82nmx61tTvVEy0vCgzA&_pid=&_name=Windows+10+%28business+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1415,7 +1387,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=oPgT2JF7GKTx-Bj4GrhhjmDnw2o6V8J-8HyX9bN8PLaNmLUfOP5B79wLlclO04LA9scOpe3gayEYrjsWdSyZK_v7hi3uYKeU6cr9AuQLNezfSk09DDdsOamdr5nOWHs1VIMms1ZiNpNQv2ewdDxOidCzavhe3pb3&_pid=&_name=Windows+10+%28business+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=wquecy2AN6p3y8G-SzdNkFs_x0U0vdwhz0B7BrCkyOfxvMlrd0wtFkPnvsZHpWpzu90vupo7A7JJZdHdIrzOON9OxODmZRw3PeN-TqG1VHoFI5kVSz0cjoDC95lrIib5CyjRVP8MPz3Qxnsp3v1h8g-QuYdP-6xi&_pid=&_name=Windows+10+%28business+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1458,7 +1430,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=ZP9aQBXkj7-0Nh26KVKZuanu9XsXZ8IVhrdXBV1IHCYYM0t1j4jdG27PMSRKfMjlf_dOVa7mQm2i6OPSQkHB_zztMaqHh_ZmHJdIUscS4ukXA4pkgDJuOJ5UZr4yhWD6lVuOSqxBV2f4XvRUvD5EDowGOb2B4axM&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=9R_ryFWccHfkacHiLw4E4tpz9YjwfivxInlStCzqqO2AkxFPyr0gSLsUKuOQcFNw4VsLWrXiBQ5NzFF33x7nwH5Y3nHwxV9htHWAjVYwfvayD1ck6Pv7sOdjvBl27fDhwVsSyCvUj9pW13CnifRoSIoPKyWJwGZ-&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1501,7 +1473,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=C9Ccts2sWFJGpKSWhzxnuJ1EB5TDwLf95w2jAOJH6BpTOVD_pI2gcNTu237ABk0w3z1faoRvDQOK-dpnk1wXOYv4Y3ODND_Yt8DH5ru6uKmIQxDo2vSed8qSMB6gUCFqxBWxhENFg3f3uBPcRKGCNFY9KXI5Q1Eb&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=4O_UGVvTv8K5kS4AkbPNs0bt9-EgSBELi4EgxYtGC367ttwh0sWfhzaBHEl-O7mIuTeYGmVeZ8iGAp67zk9Y78zCEe_j9_qlqLaWNvUdoN_MLFJ4K86xDLXshte-wsLzFw5kzO_W3d0wMSbTk87-lj-pfmuAmoQk&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1543,7 +1515,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=Ory8q6VTRh5j-6wbRqCYPIvpgR-b0m3Ym76hO0Pfn64FNgfcIW7DGVtEGIFpp9HPGF6uqYyarB-RuQh7FfJbhnmwObjIbT-xzp5Iw88OINGvheKKlhd4lcYf--jhwZsC5GphAYzYPpxb-IVDjNmGGKvK_wKOfmTG&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1903+%28updated+Nov+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=cCql-qLT6ave3o2X_xRCDG1cgVVqBpQxArDgYcxApd_NKVNYZIqBDeVZH-ZiU6Z17Uk6aFDM2XjTtiFd3Pq5qb9vvF5lLmVXwIn0rwTKgBgZ4NyESdHN15IAo3NOm4onFrv2qF44-k7BrGQSAZUj-My0UiJLlHP5&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1903+%28updated+Nov+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1585,7 +1557,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=38OAZUKQFzES41fH12u3LhSMMTvXFTBiKwnsDu1n2VZsGrNgSUsJPO_K5LwjqWaEmNGURhvY9Gqkwia11HopCkGUhYpYKxMFZEBO1H9tADjjq98Yz8X8JNkpTm9y_reJzOGyaVGc7V1mCDzkVZBJz2mxQC5S8OUH&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1903+%28updated+Nov+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=8KfHkLl7Y9kCP9uHb7KjK08Ny16tYJgkx5VyQetMqKIFeSfsnmtGK9G3fG25xgJ-4Uvz0DTrMtfJ9V5aXWUoQ9AEqhaPXMIWAhBOWuKHzO8wvQXbmzk2DobmaABCdnceNYGrxOTWoGsNC6mkmYZrWyQdxz9gpyuB&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1903+%28updated+Nov+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1627,7 +1599,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=XvGDhMEigy3Ipcgi1B9q9A6AVHPHaq3b0b1IGWLYTQJ0qw9Xx12scMJRqM8ieRj6xD3zNDoRHupfAc7AC7Y3pZqw5HCWB4SE_QmD4eB1yPnhzmfMGqoBpIQK-_LogCXbj0aziQ_Bl9HUtRUNfTZ0IyuVGlMHdhmB&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1809+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=vgqRNZDgIYRJTZmS3-QlFeP_xrYidVXr_rhbd4I2doFqPSFRzlv69MnA1BQ9PaW0cDS-yCJGpJcSAe76HcKQaNjWA8ThJ_y1YcsHiEjCXcxEaHpzdFLe8EBe7nW8IsiUduR3iIfS5Aq4TNrqJfo_FBYd__wkcOyV&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1809+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1669,7 +1641,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=OIGn_pEPt84Y72jWcQbTmEiCxkdTRKaGinCDO4Vw9s5zsyuNJePSbDR5yARCnnW-SLHFL61Z2ZA-L3vHsboz3x7lYnrQPXD2zBTUe_uAOqK6KcGjSpTUcnXuAQaqY0w9N5dUYu7pZ8iCEOYpD-aBufD-E2dLPcwk&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1809+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=vYqnZQosHUcTxHlmNsxNK28qapmao-FgCHDsTK8foblgBu4DjHhDvLPjAXz9MmBhl5CQDESlixb9m3oEXlHT4QejY9HpWEw1FD8WzJUzovTE3v106ckk6BH_HNexW3DncjW-fPeahG5gRN-nElwu2GgG4682ocIs&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1809+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1711,7 +1683,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=DHS6R7Ch4EfwS20X1Gr-G7N2sjS7FhB0QCMunaMS5sgCeoPOrhp82OovuM4QUu_GI8_ApLraLshYPID-9pjK7GseJyjxcbd7Jqeh3CzEsS8Nf8yAVT4GL2vhWmAj9jZAPgV7VokZK8whTtufjl8TE5fwLHe88d-Z&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1803+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=Oz8ozp-lxa8-otwdN9I5A6jNt2ygpSHbrkt7HQgoCPnb8g0cKS8t7okgqT0LMLOJ9n9lPo76SVVnoV2jKjaoHykIYpibMuPbxJwZzMZ9N7NGJY4Kx-uTscAQAI0elrDDlxfEs3i3VjnVyZw5t2fzkNXrw0PO16Va&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1803+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1753,7 +1725,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=RByJig9vUUcNnTAJerNXA_yjeIpuNJyzVptBEB6pUJIGcLUERlirDUrKr5qdbasEExV6tFL-1hdy1BI6duJ9NQ9vWM5xUhnG_LM0pi9QEDyVtx9p_b0leKoDWTXgBtp9ukJq9oO5lqTr1GHhi9k7FK8PJR0JCZ4G&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1803+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=5Cp6a0veIECadRue25Dtz1h0vlWhDBucphR00aGId8m3BoPniKvb695eaS8cnkgG3HaGRuzQC-8I4ckp9G-vPia3B3nWvl9lTM20eb6HKNl0pJGfOfs4D2pDHobfkjOLiZXj-E0962mfaasBpzPMSB2MXq5_Ix6D&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1803+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1795,7 +1767,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=joZ1Cwx2kcInT0i90PRtU2opnGpN1baTtUZL0MD-f8scQyNgwvAByI_TuO2_uyvDcYtivqno4JTtWRQSrUyR76ycRTSUPhR4ePWSrknhY96qML8tTtmVAdoTWwlTtlu87AzLGJPs_hUlK3-gsDcyOT1Bh4NS_ITa&_pid=&_name=Windows+10+%28multi-edition%29%2C+version+1709+%28Updated+Dec+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=vvuzTCqI0hA4-_RBU7MRrbC5vaU9PORKj-5yQUcLdXod0sxFzOISmdf1Y9zNTwS8xqR29N9DMn6DJ_BgeqgtDxihaf6PSQqlBVsQ_A1Uu8GEr3ISbCM3EO8GotRzMSZIuukNE1P6YoV0o4RvOLck4oQ_-oSdIa_V&_pid=&_name=Windows+10+%28multi-edition%29%2C+version+1709+%28Updated+Dec+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1824,7 +1796,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=zJID_CrswMmp9kzv11xKhQU0bHZ0C9kEXcQ0rpN6FgsgkiYsFppOYHIA82-eelSZj72rdaaAhCbCxUXTW6vUyHF5dL7deCqojZSqtyMl5gls6A620xc3QAG6p2UabP5IUBWu27fwCvjfc0Sk3k3YOYaINS2BYYDf&_pid=&_name=Windows+10+%28multi-edition%29+VL%2C+version+1709+%28Updated+Dec+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=BIKJ4UUwb50Bq2QHl2YYK60Clig4QIwf84MMpLGiY5YYFHLYrZADSu-8k5uTaQPnSHdNbYvUQaYm-JZoMksocb6lETvl7uwKCOjfA3TMqiISliJlQVbOQSKp6DAlIqU3NJu6Y1OT3n2h3fgpUPU3FYu5mOkUwl7s&_pid=&_name=Windows+10+%28multi-edition%29+VL%2C+version+1709+%28Updated+Dec+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1853,7 +1825,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=kVAAulCOaP6U6knZyDg7pdaviGoh7BvzSovQ4rEjdhYz8kmzRkAChRJiAC3NcZQA6_IgZ0aIzvWo5Jj8jVRo1pRq2lwTlsdpgC98X_-i__xho1OB_ov5mjmg8QP10UlsPe-5xb9e_RQpDzHhOHHZWyV5olUyYRQn&_pid=&_name=Windows+10+Enterprise%2C+version+1703+%28Updated+July+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=OhLgqHBuvAg4njEQZMv_9-5h_E5RF09McizWXsOu1YGeI9x1OodTXb5wyO7CpcGPWGoOLHxUx-lwKPTC_59cNcUAwfkfMpEq9EyIIoJYPmPm-7UeGGbjAA98-OkUIeJJM3lSfDIlsVMS3Urdxdx1G7Nss9MZgEuu&_pid=&_name=Windows+10+Enterprise%2C+version+1703+%28Updated+July+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1882,7 +1854,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=k06UpDwkVO5uCS0ar6J41gifGbwUjLTVFEoAlqQpNQOUegrWAj2Xxu6PCNcsoiLtBD6ZSdQDnemWrj3aSMWoXMJBaoGDdzkreoFKjWVEmQMI4_8u-bnwisEofHqf2sYx0ED0D_sZq7o4lXzA-9DIsnd3nl0V6s6H&_pid=&_name=Windows+10+Enterprise%2C+version+1703+%28Updated+July+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=zpoDvvGyBHRO0qmY218EmqaoTmnNDvqZV1hT9-4_gjoqEGDPOGD5zJYFXI7i5ijGvakoD72O_pGHFuwtijq6fDOdFHuD1fIBC2RwkVFTfsWRnygDlzTvk-uDp_uwttKULqyfyIN53MORz0OcSCoMMiwYwDSoDGIM&_pid=&_name=Windows+10+Enterprise%2C+version+1703+%28Updated+July+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1911,7 +1883,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=jIW0OB2UWbxnEQueedspmnqUy578B170KPcZM-rxv_rT8nKXwPcIe1koAKEmheFgt8pPLEMpBMLCYUDuvTnYG7tC9KwvLL01v5wmnh_Q7EXLejW-e5Z53mtfNA1OOQlFyCrJl8VKqJ5xVnN9_uXFWZcRS_Pru3yW&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1703+%28Updated+July+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=IXaHoGSd6n6k5wHIWBPYKhzbRJymEeDD_Ddg7lPr6SCNaBhg9TGo8wVvcOsUkcJxQfgl4XLnGUNVis0mh2lpS6_CqmjyhTsimU6RISayy17aEGdUtS7vnvbNrum1ZwMLZv-HgKXypyFjCqOX0zVpr_7-TkuciL1s&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1703+%28Updated+July+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1940,7 +1912,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=cYuxHJkkLbmgSYKNnrlYnZTiosdlRKkO7dIe7gDO6OLznM8vPRJ9SzY8SlLBkVqK1jFcoineDV3BiiWgY6fsamrEDDp-P-g7TAepVHS8QwMwrdX2T7mZI8EtRDgMh3IEC73PE2fmELUbFb7cVCfR-dDqLiG-fUla&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1703+%28Updated+July+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=qbXm9di84AI35VrvWMmtM1uD5P2hGmOdrGIV4LATerv0v8DnyN3L3UiyyPQuXtcELPuqTSK7YfbVfggAdkbKcDEnickWdNogl1z12wATaB066HLJG1bL9uGGTyY5wp2c6a217ATeQ6EOJuATC76yVbksNdmZDdwC&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1703+%28Updated+July+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1969,7 +1941,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=ZPYEyhShLRKY8SUKcdYRjOY6iLqalFyA-cuVnYMxLDHqh4OQ9JpJaJxrX1sgngV5qyq_UFofUjNjXPXl_IS_Gk9tPgpQQI1dWiYZRRduXBCUv6LRZzqVNgW_BuaUNkjJdaQvFznVJy6_6gK1ndXC6ckgYsfTpp7i&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1607+%28Updated+Jan+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=qykoVke0wC__nt_Xd9PFxQXxdCHJe0G1gxOymu6sWP4-YSwQ3a7QoJs-u6-_ueWN3HwToJ7DDLytJ7zQVinqrdP3q_OKT79CjpRBUFPMXY3cTKoAtk_GhFTM6L8LXUjGORMUJ3y2xbQx3BznTOYpPXSAUId0abKU&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1607+%28Updated+Jan+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -1998,7 +1970,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=JBbtzpRg3shEQ77gwHhYlUKG0fj-40KQ96vzcyJcEFYaDwryhkK2mrg-XVkx2htuQOywfoX7kZ_WISGrA-njKLZAQEfZ28IoyhV-X4xucY1lcUvfZhQZjnfytdpiQNP2t5IYTbxoHxAn1eRbFTBUqj2YEH-qXe-Q&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1607+%28Updated+Jan+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=r4VU2yCPK_vBVnU_OjTK71dWwgXvNo6hnDCDDVx18bhibWVstd-PHpbTnfVJHtsCLK7U4e2t74LBLsHt5e3u7G1HFeBZ3M6LWZPnCxYAll3vi3rT03ZGNStQcNV6LU7lEx1Zw1J2RETB3CXMWxeyAipsi6r_XKI0&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1607+%28Updated+Jan+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2027,7 +1999,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=3iPFbqUvfwHwmz-btESLkEleiq8QIB9W-GC-5VONSvyZQL_n7fqG0Ljrm9pt7ZPiA2043M4AGdZipLOLw7LMvObC4wujHHUOQiBQRjt7Y8N5eQqag-46YLVAmf6GJmZxh273S14CJnYDU4X7jkZIhVQ3UmE0Oib9&_pid=&_name=Windows+10+Enterprise%2C+version+1607+%28Updated+Jan+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=EcXIPwytHqr4xDxktwFT9E2QXGk2X1y1iGXseGdWj3TnMKNiR_oar2LoKh0hD-4Rul-lyMbusVNK6IZ3le20Jq1iowibSgftYpO86lAWeHDBo3U6loaIUbN766vTQlkjdTn5aasYj6qdRhyDvJU82PJnkZcyPbXI&_pid=&_name=Windows+10+Enterprise%2C+version+1607+%28Updated+Jan+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2056,7 +2028,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=5b7vtyer1Riv9d2KAJpZKwqAp1ZS_Z922n4cQQKfOE6-QYMCERo8h6fUVoNTNXY16H--pbrleQUcSCkyGl3jmCzooTxH7JTbxAYv4kFVCXBm7AARwG3qeshsvgT29jzFV2tZbTGfE-3ZCffCIa5UAggagMTsNvOs&_pid=&_name=Windows+10+Enterprise%2C+version+1607+%28Updated+Jan+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=9et4hfMke-9uVaSX7UdkAsy0ggBQuW3q9V2zZZmCIi03tj7DsnpJaa-yxAz9-UvfIW3_TPemkt87f-iwf8Cb5_07Ua6Xm8CakApwJwPYtodp5Kkp8WvtEeaSbdSDBQJXBTfYFGJGq7rVTly7yCNsXtIM1hpMRXPl&_pid=&_name=Windows+10+Enterprise%2C+version+1607+%28Updated+Jan+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2085,7 +2057,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=nFcNjGKc0xC57v6rzsuFaIUFbeQOxz4_6_iSyVpP1-xAxznc-z0oHjkyis3Z-5KqJ1ZN4n0eZByY_D3-veKEKDmbFhCyCT1pg8WYsb6jmwshUDP39-2PRI9AiBoNSoZrYNoT5TMZ4BMyu_lpiF-0AufucADo1Raz&_pid=&_name=Windows+10+Enterprise%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=tmyUolmh-rn4qet8dvb79p9KRjq1mbihoSkjyZ_1Y1TrqIaskcRfvn9-xbJ-L9bIoS0svTSHdGKaQCCI9bQboztlDgc5TDdKsnDUNYlOYwGoALvSdnGCt_-s4jMxz-xXgZ80xUnFkBBppwbU06fk6A_xq_UpTFbM&_pid=&_name=Windows+10+Enterprise%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2114,7 +2086,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=e88i2Nqo543GWgtVYWkBFI8AkLjWwZFHwEBCJ46Yt3Li0uCi6D8gZRSmfb_0P3rrdl7ttByqGXMyPM6pK733iM8LoKjd3RdvWpZkTCzb-ifqwzWWfyiAgRXwpe1U5Mqwv2qhTaf2Skj1t574OgBTrOIbDS4Oqyp5&_pid=&_name=Windows+10+Enterprise%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=3dMfOJLoHAP5sXTxJfSVyGQ0V5ZLRW19BDZ6JmEYU0SecFvmFzLhqOpT9PNb6PfPgcBjjvaWoRNHCK50ywFDamh0UG92UAPcUnUQIx-NYAl2xLvsE47Y7YfNjRjopHtaq1g7d-0bY_VvLTnZanLgQLjdRU64LLC6&_pid=&_name=Windows+10+Enterprise%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2143,7 +2115,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=LK8T73Ok1ZeILjB8xHrIXM4GiF6Bm3rKgyUZcR2OloDSsPI9EArg9Y7UsyeqHFQV0SBB0FCboz-AEPxr0o15nlUuNBPGcdSBGp3DJXTf_dGB8U1DJZhWAhD7nttEYuTj9EdCZvdIDC8gr3i37yBK1POH4_eN2lAi&_pid=&_name=Windows+10+Education%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=PFblkctgLPNy6wQqj4cK56lQM92xUB_Xcuxj31fi-z-WdDQGMxbFBpO6bu18t3dk86c2YFpOdLVVglbFiuu3_4c6iZaW-Q5fdofsorSR4F1Wo7gBNs7JnBwxa6v9VceoWwaaoc7oJFpWlV--bgF10TzjuJbXd_st&_pid=&_name=Windows+10+Education%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2172,7 +2144,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=4Nv9qa5bOm4Oaej127d2PIKaR30r5XWDfH2G3IhVvjZsnZ94_ZWGZ7PSwF2TKHmhMefFb9sThfMdkWTBXvrhbFBDgoMcc-3XqM6ZQtzWxbIlNqhNvrRqkBm8T8JTB3k8yWJh0rfBNW8Gt19d9iONFMwJeNkhSJ2b&_pid=&_name=Windows+10+Education%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=nqc1rGcw4qBU2f9_TDo5LGRCRMGAJHx7dWRpUVEdX4eKiGROLLp8ifqdU-S6fMH3uLiUnnb4d_tgBSXY3PWENQyT6hItSldgrWbedDUUXv75vV4ZuONkNLhtjDrQJtZEEySeKkPS0hB3mKj3f-_Z4vlfCiXo4BUh&_pid=&_name=Windows+10+Education%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2201,7 +2173,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=p6kyj9MW4RPRT4MLaylP-vA3GesyG6lN9SIKcBPtL4Uo3pRbCbgH7xJAyipYp4BXoQ2cmelokbVhpw_mpOFHUmVceLK99yISwIaGNjm92QBW9f9tfRzA8ZRY0JzyG_5yb2VZI8Ufd2S9OG-GalS_UCFrOevWSD7N&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=Gp4FJrhgzc9syTw2YtJ-8kYfz2DOudjBS3Lo-GgKrbVnZ97SRnREvONZZt1q1sHF_O8jQfxgOl4NPAWa8imTVftoga8sPtcGVZb2KMCRiLUFoggi8dzDW8DF0xWsrVBHWvWtf2TsAvqXvu4wjjVT9V1pozYwcmcp&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2230,7 +2202,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=sJtuHOFVz5kvnd2kTtSIEhEc9h2pLsqaEtzTsnCNAAwrTN_zdWWQQ2SWPXkvFKy_Cs4PMj2TXrzoUT8D2LZcinDtUuQKTtb7L7nPVNv5CtW44acfuCN-winctNO0xzAQIccfIWY3IJjWM4YiTVor0KGBKvBSDhwP&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=w6U0WPHl9onj9n8Ll8AFWAYxCjjaWpEyqtSIEYfGVd67pXbLi9WqNO_HxalPcZ-bjybhmLginfqV8aRojo25LV5SRZugvp5zjfS3bXKy7OILO1cjH7VgfyJSf6DU_1aRmmC-B1SfhgecmiUIuTG29_h89wSlFFwd&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -2260,7 +2232,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=eNGiK9Nt3vhLKU1crGSd91hW0E9ddfMQyP7za_6GCxk_Esh7Hcyzk-Ucu7P50bQi1yhdM6sOKwOp7FGo3m3iv3e2T1l35pBZrFMCFsc8h-J4nevj3CVt_23PcK6_2-uZjOG9VQh8IFEUw7bmK_25E9PJtIoPTbcB&_pid=&_name=Windows+10+Education+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=wCQqCdX-lVPyRJ7m-a6lxWNSZM7OvoaNCpvaD2cmJ31h9nyL6Cux8GUXFkBIpJWcIQXkplrphnZKxMQgnhq2z2y2yPMqoa62T9Y8Wy8eivYY1RyBbQE7a-R-MxpIyTjWUKYehXpQ681fnA26m6p6RK4zSpijEaRN&_pid=&_name=Windows+10+Education+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -2327,7 +2299,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=emBeRBLMSoBqJUdb1kv_S_IkNb-QaZnIdT3vWYjTE66oAilasUm4r3sg08Zfm4X3Kvnm2JoGLO5Kr3uqVXxc1qG6jLDO5uZ_HSJpbqryENfhsOkyIA6VfQ1-gKabcskG46qOiYUp1iRllsXCswyhW7la61_CJr3I&_pid=&_name=Windows+10+Education+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=gBpjd7mYePKwwVQ1ZCDw8fzsAPMDtgFD0E1g7YwO6db5Pk4slDqHnmSKpnJugfobUZifobk5w3ZZq5NxPYLlFcioLSLwxwA40jTSSXf7sdW01q-mdCY-N96zIEmw8r8z_OZW7dvRx_Eph1-iq1F_VmKiIcOQFFb6&_pid=&_name=Windows+10+Education+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -2394,7 +2366,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=i5Zewxa-Er_eTWyZ9oBDnCkkQXlFU07bkON5YSh_r-jWJ0hleyHIsYw9rAw-uWlpmjSq369Zm6lXA5TawS1pwnFwOyBjSii1FASdUF08ql8VFIOwVVHI2L-P2DgDvJ88tdyWUJmC6A9DOOON_lT32O0lDRMtPN31&_pid=&_name=Windows+10+Enterprise+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=JTy7wH7YybLJw34IG6DxpXYT8Sd0IGTIk_Sk3WFJoUr1wqesU3nBrd2GfP3MhOgHeq-M3Vr2ZYPYrcfRqLE75quQOnzozzlQzkHKpD4j97np67jGNF4nQq4BWAUYuMwTmzViGfqMr_w4-fI0dySBQ7xfGhaNy3EZ&_pid=&_name=Windows+10+Enterprise+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -2461,7 +2433,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=cBtf-hOu7edVT_ZeCFyR9OETV6fg7zer4a1eBPsGd35JVrr9AuIBm0r21qwkrwK8sbB-lhm44dSF77QgvGHoP2j9ssl1iyZfO3XGREhhnFsOaLGI5BbKNq4ihy5C837zPyPj5wuus5CBx_fahH9d7GWsIRr6PA2F&_pid=&_name=Windows+10+Enterprise+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=BR54mWxOnY0j1mQAoG2h7DLE34fb50r6JQH1EC2LKRdrRG-O3KCENzZIAmQw6GhCCt-DkLGYofGr8qp7gB66rJOYYhkF4qTJRo010Lky0n-x1FEvn8ohFdipCL-F1-oRCkybZg1S5Epq6jOurcCfinJtm41CsF8k&_pid=&_name=Windows+10+Enterprise+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -2528,7 +2500,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=3_uqqEDuLXNa3maYj_FHDQeH-0qsGIsnrbitZM2EtyEYqDtJgd5XV_-L1k68JOiHW9K7NxIAFOj_fqpTUYiooAeleqc77AFt8UQ9e-tcs5R7_NtQiDDcfG8A62pK8-wYqt96t5yRP-sOMCzOVb_zSuEDN_sFjylD&_pid=&_name=Windows+10+%28Multiple+Editions%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=TT2czkbYHIAIR_WJVHCJu0CB71r8PDxn79ml3Da-qRbgycZF5T9l-iLm_iQj8ngvYI7LmtBJ0k3b2pUFY-RvcFcg0ukOC4HinOG_q5ScA-QP46dFIVV4x03gh0sJrgpk1neNyfJkNoMLoF9Z6ec7ESv4oSc39pcj&_pid=&_name=Windows+10+%28Multiple+Editions%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -2667,7 +2639,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=BQqb9y8bZHjBpz-MPBADDZuPtjHQuf2JZIDSi4NbthWMc6qqnEzQUNYObqC6CoqXMefzRu2HA3LeXxpPoHG9VgzxLju51jYMvWy_hWStSvX0VuR8FFaWAj3IpgVF2zasIJSwxbJyJq3eIha9xplXUJTehEqRwy4z&_pid=&_name=Windows+10+%28Multiple+Editions%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=xTai_MDkYQliCqr3ghb2Cf2KBXdgRDBJrq7CTQriwi4jezCbc7NtA0udkrf3KAxGlfpvd49iLjjKeIlbNRsxG8542wkTQQySEkz1kq_SovcqeR_19SsYp1_phsH2jwQWK7OJdJxuounVtJOXG04CCTTEagCBe_t4&_pid=&_name=Windows+10+%28Multiple+Editions%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -3017,78 +2989,6 @@
         {
           "name": "ed2k",
           "url": "ed2k://|file|cn_windows_10_business_edition_version_1809_updated_sept_2018_arm64_dvd_104983b1.iso|4298262528|FE2D82693ECB2DC2804299A13DC570D5|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
-      ]
-    },
-    {
-      "id": "win-d3e8aa02",
-      "name": "Windows 10 LTSC",
-      "version": "",
-      "build": "",
-      "releaseDate": "2021-11-16",
-      "language": "zh-cn",
-      "architecture": "x64",
-      "edition": "LTSC",
-      "sku": "LTSC",
-      "fileSize": "4.7GB",
-      "hashes": {
-        "sha256": "C117C5DDBC51F315C739F9321D4907FA50090BA7B48E7E9A2D173D49EF2F73A3",
-        "sha1": "C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C"
-      },
-      "sources": [
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1h6gHa6IjDeFO8jnFgtt-dg?pwd=msdn",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso|5044211712|1555B7DCA052B5958EE68DB58A42408D|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
-      ]
-    },
-    {
-      "id": "win-1408651d",
-      "name": "Windows 10 LTSC (x86)",
-      "version": "",
-      "build": "",
-      "releaseDate": "2021-11-16",
-      "language": "zh-cn",
-      "architecture": "x86",
-      "edition": "LTSC",
-      "sku": "LTSC",
-      "fileSize": "3.37GB",
-      "hashes": {
-        "sha256": "9F855FCC4CB44C119F9CE73DABE569FCB7F4F4D85F922206BF2E108116A34F25",
-        "sha1": "50ED6860535FDDF9D0418EFD99EF7F40DAA696F5"
-      },
-      "sources": [
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1AgFTZkrTVCPzUuxnZR8nsQ?pwd=msdn",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c.iso|3621132288|F67BB339ADFEFCF6ED22400EAACBD068|/",
           "type": "redirect",
           "_source": "山己几子木"
         }
