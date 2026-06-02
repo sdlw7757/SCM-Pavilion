@@ -1,8 +1,8 @@
 {
   "totalProducts": 155,
   "recentUpdates": 2,
-  "lastUpdated": "2026-06-01",
-  "lastUpdatedPrecise": "2026-06-01 20:51:04",
+  "lastUpdated": "2026-06-02",
+  "lastUpdatedPrecise": "2026-06-02 18:16:41",
   "categories": {
     "win11": 25,
     "win10": 73,
@@ -25,10 +25,10 @@
       "systemName": "Windows 11",
       "version": "26h1",
       "innerVersion": 28000,
-      "patchVersion": "1896",
-      "updatedAt": "2026-05-08",
+      "patchVersion": "2179",
+      "updatedAt": "2026-06-02",
       "publishDate": "2026-02-10",
-      "patch": "KB5083806"
+      "patch": "KB5089570"
     },
     "windows_11_25h2": {
       "systemName": "Windows 11",
