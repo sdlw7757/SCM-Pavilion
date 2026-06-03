@@ -40,7 +40,7 @@ async function loadMetaStats() {
     </div>`;
     html += `<div class="hero-stat">
       <i class="fa-solid fa-clock"></i>
-      <span class="stat-label">${new Date().toISOString().slice(0, 10)}</span>
+      <span class="stat-label">${new Date(new Date().getTime() + 8 * 3600 * 1000).toISOString().slice(0, 10)}</span>
     </div>`;
     // 各分类数量
     if (meta.categories) {
