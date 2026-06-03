@@ -93,6 +93,7 @@ jobs:
           done
           cd "$DEPLOY_DIR"
           git init
+          git remote add origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
           git config user.name "winorigin-bot"
           git config user.email "bot@winorigin.github.io"
           git add -A
@@ -104,12 +105,24 @@ jobs:
           BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
         if: steps.scrape.outputs.has_data == 'true' && env.BAIDU_TOKEN != ''
         run: |
+          if [ ! -f sitemap.xml ]; then
+            echo "sitemap.xml not found, skip baidu push"
+            exit 0
+          fi
           URLS=$(python3 -c "
-          import xml.etree.ElementTree as ET
+          import xml.etree.ElementTree as ET, sys
           ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
-          urls = [e.text for e in ET.parse('sitemap.xml').findall('.//sm:url/sm:loc', ns)]
-          print('\n'.join(urls))
+          try:
+              urls = [e.text for e in ET.parse('sitemap.xml').findall('.//sm:url/sm:loc', ns)]
+              print('\n'.join(urls))
+          except Exception:
+              print('', file=sys.stderr)
+              sys.exit(1)
           ")
-          curl -H "Content-Type: text/plain" \
-            --data "$URLS" \
-            "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=${{ secrets.BAIDU_TOKEN }}"
+          if [ -n "$URLS" ]; then
+            curl -H "Content-Type: text/plain" \
+              --data "$URLS" \
+              "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=$BAIDU_TOKEN"
+          else
+            echo "No urls found in sitemap.xml, skip push"
+          fi
