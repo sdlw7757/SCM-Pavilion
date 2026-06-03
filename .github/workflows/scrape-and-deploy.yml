@@ -120,7 +120,7 @@ jobs:
               sys.exit(1)
           ")
           if [ -n "$URLS" ]; then
-            curl -H "Content-Type: text/plain" \
+            curl -k -H "Content-Type: text/plain" \
               --data "$URLS" \
               "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=$BAIDU_TOKEN"
           else
