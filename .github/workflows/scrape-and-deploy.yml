@@ -39,41 +39,28 @@ jobs:
       - name: 运行数据抓取脚本
         id: scrape
         run: |
-          python scripts/scraper.py || echo "爬虫执行完成（部分数据源可能不可用）"
+          python scripts/scraper.py
           if [ ! -f data/meta.json ]; then
-            echo "::warning::meta.json 不存在，爬虫可能完全失败"
+            echo "::warning file=scripts/scraper.py,title=爬虫完全失败::meta.json 不存在，所有数据源均不可用"
             echo "has_data=false" >> $GITHUB_OUTPUT
           else
             TOTAL=$(python3 -c "import json; print(json.load(open('data/meta.json'))['totalProducts'])")
             if [ "$TOTAL" -eq 0 ] 2>/dev/null; then
-              echo "::warning::totalProducts=0，无有效数据"
+              echo "::warning file=scripts/scraper.py,title=无有效数据::totalProducts=0，爬虫未获取到任何产品"
               echo "has_data=false" >> $GITHUB_OUTPUT
             else
               echo "has_data=true" >> $GITHUB_OUTPUT
             fi
           fi
 
+      - name: 数据抓取失败告警
+        if: steps.scrape.outputs.has_data == 'false'
+        run: |
+          echo "::warning::数据抓取失败或无有效数据，跳过部署。网站将显示上次成功抓取的数据。"
+
       - name: 更新时间戳
         if: steps.scrape.outputs.has_data == 'true'
-        run: |
-          BJ_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
-          BJ_DATE=$(TZ='Asia/Shanghai' date '+%Y-%m-%d')
-          if [ -f data/meta.json ]; then
-            python3 -c "
-          import json
-          with open('data/meta.json','r',encoding='utf-8') as f: m=json.load(f)
-          m['lastUpdatedPrecise']='$BJ_TIME'
-          m['lastUpdated']='$BJ_DATE'
-          with open('data/meta.json','w',encoding='utf-8') as f: json.dump(m,f,ensure_ascii=False,indent=2)
-          "
-          else
-            mkdir -p data
-            python3 -c "
-          import json
-          m={'lastUpdatedPrecise':'$BJ_TIME','lastUpdated':'$BJ_DATE','totalProducts':0,'recentUpdates':0,'categories':{},'sourceTracking':{}}
-          with open('data/meta.json','w',encoding='utf-8') as f: json.dump(m,f,ensure_ascii=False,indent=2)
-          "
-          fi
+        run: python scripts/update_timestamp.py
 
       - name: 提交并推送数据更新
         if: steps.scrape.outputs.has_data == 'true'

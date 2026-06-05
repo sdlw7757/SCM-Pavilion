@@ -158,9 +158,13 @@ function formatDate(dateStr) {
 
   if (!dateStr) return '-';
 
-  const d = new Date(dateStr);
+  // 使用 replace 避免时区偏移问题
+  const parts = dateStr.replace(/\//g, '-').split('-');
+  if (parts.length >= 3) {
+    return `${parts[0]}-${parts[1].padStart(2, '0')}-${parts[2].padStart(2, '0')}`;
+  }
 
-  return d.toLocaleDateString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' });
+  return dateStr;
 
 }
 

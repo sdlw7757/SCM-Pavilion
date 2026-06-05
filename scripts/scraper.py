@@ -15,8 +15,6 @@ import json
 import os
 import re
 import hashlib
-import sys
-import time
 import requests
 from datetime import datetime, timedelta, timezone
 from urllib.parse import unquote, quote, urljoin, urlparse
@@ -45,9 +43,29 @@ CAT_NAMES = {
     'office': 'Microsoft Office',
 }
 
-def md5_id(s):
-    """生成md5短ID"""
-    return 'win-' + hashlib.md5(s.encode()).hexdigest()[:8]
+def extract_patch_month(url_or_text):
+    """从URL或文本中提取ISO整合补丁月份，如 updated_may_2026 → 2026-05"""
+    m = re.search(r'updated[_\s](\w+)[_\s](\d{4})', url_or_text, re.I)
+    if not m:
+        return ''
+    month_map = {
+        'jan': '01', 'january': '01', '1': '01',
+        'feb': '02', 'february': '02', '2': '02',
+        'mar': '03', 'march': '03', '3': '03',
+        'apr': '04', 'april': '04', '4': '04',
+        'may': '05', '5': '05',
+        'jun': '06', 'june': '06', '6': '06',
+        'jul': '07', 'july': '07', '7': '07',
+        'aug': '08', 'august': '08', '8': '08',
+        'sep': '09', 'sept': '09', 'september': '09', '9': '09',
+        'oct': '10', 'october': '10', '10': '10',
+        'nov': '11', 'november': '11', '11': '11',
+        'dec': '12', 'december': '12', '12': '12',
+    }
+    month_str = month_map.get(m.group(1).lower(), '')
+    if month_str:
+        return f'{m.group(2)}-{month_str}'
+    return ''
 
 def make_product_id(icat, version, edition, arch, lang='zh-cn'):
     """生成产品唯一ID（标准化输入以合并不同来源的相同产品）"""
@@ -273,22 +291,31 @@ def scrape_hellowindows():
 
             # 整理下载链接
             links = entry.get('links', [])
-            sources = [
-                {
+            sources = []
+            for l in links:
+                if not l.get('url'):
+                    continue
+                s = {
                     'name': l.get('name', 'HelloWindows'),
                     'url': l.get('url', ''),
                     'type': 'redirect',
                     '_source': 'HelloWindows'
-                } 
-                for l in links if l.get('url')
-            ]
+                }
+                pm = extract_patch_month(info)
+                if pm:
+                    s['patchMonth'] = pm
+                sources.append(s)
             if not sources:
-                sources = [{
+                s = {
                     'name': 'HelloWindows',
                     'url': url,
                     'type': 'redirect',
                     '_source': 'HelloWindows'
-                }]
+                }
+                pm = extract_patch_month(info)
+                if pm:
+                    s['patchMonth'] = pm
+                sources = [s]
 
             # 添加到结果
             result[icat].append({
@@ -316,11 +343,6 @@ def scrape_hellowindows():
 
 # ==================== 数据源2: 山己几子木 ====================
 MSDN_BASE = 'https://msdn.sjjzm.com'
-
-# 标题日期匹配正则
-TITLE_PAT = re.compile(
-    r'(?:ARM64|x64|x86|32位|64位).*?(?:中文版|英文版).*?(\d{4}[-/]\d{1,2}[-/]\d{1,2})'
-)
 
 def parse_msdn_table_from_html(table_html, surrounding_text, icat='', raw_after_html=''):
     """解析HTML表格内容，提取文件信息和下载链接"""
@@ -445,6 +467,12 @@ def parse_msdn_table_from_html(table_html, surrounding_text, icat='', raw_after_
                     'type': 'redirect',
                     '_source': '山己几子木'
                 })
+
+    # 为所有链接添加patchMonth（从URL或上下文提取）
+    for s in sources:
+        pm = extract_patch_month(s['url']) or extract_patch_month(full)
+        if pm:
+            s['patchMonth'] = pm
 
     # 提取产品属性
     arch = extract_arch(full)
@@ -834,12 +862,16 @@ def scrape_xitongku():
                         if key in link_name or key.lower() in link_name.lower():
                             link_type = type_val
                             break
-                    sources.append({
+                    s = {
                         'name': link_name,
                         'url': link_url,
                         'type': link_type,
                         '_source': '系统库',
-                    })
+                    }
+                    pm = extract_patch_month(link_url) or extract_patch_month(desc_text)
+                    if pm:
+                        s['patchMonth'] = pm
+                    sources.append(s)
 
                 # 生成产品ID并去重
                 pid = make_product_id(icat, ver, edition, arch, 'zh-cn')
@@ -942,7 +974,7 @@ def scrape_xitongku_tracking():
     for (sys_key, ver_key), (inner, status, _) in TRACKING_DB.items():
         lookup_key = f'{sys_key}_{ver_key}'
         api_entry = api_data.get((sys_key, ver_key), api_data.get((sys_key, ''), {}))
-        tracking[lookup_key] = {
+        entry = {
             'systemName': f'Windows {sys_key.replace("windows_", "").title()}' if not api_entry.get('systemName') else api_entry['systemName'],
             'version': ver_key,
             'innerVersion': api_entry.get('innerVersion', '') or inner,
@@ -951,6 +983,11 @@ def scrape_xitongku_tracking():
             'publishDate': api_entry.get('publishDate', ''),
             'patch': api_entry.get('patch', '') or status,
         }
+        # 从 updatedAt 推导 latestPatchMonth（如 2026-06-02 → 2026-06）
+        updated_at = entry.get('updatedAt', '')
+        if updated_at and re.match(r'\d{4}-\d{2}', updated_at):
+            entry['latestPatchMonth'] = updated_at[:7]
+        tracking[lookup_key] = entry
 
     return tracking
 
@@ -1057,7 +1094,7 @@ if __name__ == '__main__':
             if key in xtk_tracking:
                 product_tracking[key] = xtk_tracking[key]
             else:
-                product_tracking[key] = {
+                entry = {
                     'systemName': sys_name,
                     'version': ver,
                     'innerVersion': '',
@@ -1066,6 +1103,11 @@ if __name__ == '__main__':
                     'publishDate': info['releaseDate'],
                     'patch': '',
                 }
+                # 从 updatedAt 推导 latestPatchMonth
+                updated_at = entry.get('updatedAt', '')
+                if updated_at and re.match(r'\d{4}-\d{2}', updated_at):
+                    entry['latestPatchMonth'] = updated_at[:7]
+                product_tracking[key] = entry
 
     # 合并：以产品数据为主，用系统库API补充完整字段
     merged_tracking = dict(product_tracking)
@@ -1073,9 +1115,23 @@ if __name__ == '__main__':
         if key not in merged_tracking:
             merged_tracking[key] = xtk_entry
         else:
-            for field in ('innerVersion', 'patchVersion', 'patch', 'updatedAt', 'publishDate'):
+            for field in ('innerVersion', 'patchVersion', 'patch', 'updatedAt', 'publishDate', 'latestPatchMonth'):
                 if xtk_entry.get(field) and not merged_tracking[key].get(field):
                     merged_tracking[key][field] = xtk_entry[field]
+
+    # 为 tracking 条目添加对应的产品 ID（供首页直接链接，避免前端重复加载 JSON）
+    cat_key_map = {
+        'windows_11': 'win11', 'windows_10': 'win10', 'windows_8.1': 'win81',
+        'windows_7': 'win7', 'windows_server': 'server', 'microsoft_office': 'office',
+    }
+    for key, entry in merged_tracking.items():
+        cat = cat_key_map.get(key.rsplit('_', 1)[0] if '_' in key else '')
+        ver = entry.get('version', '')
+        if cat and ver:
+            for p in all_data.get(cat, []):
+                if p.get('version', '').lower() == ver.lower():
+                    entry['productId'] = p['id']
+                    break
 
     # 近30日更新数
     recent_count = 0
@@ -1101,3 +1157,34 @@ if __name__ == '__main__':
         json.dump(meta, f, ensure_ascii=False, indent=2)
 
     print(f'\n爬取完成！总计 {meta["totalProducts"]} 个产品，已保存到 {DATA_DIR} 目录')
+
+    # 动态生成 sitemap.xml（包含分类页和所有详情页）
+    SITE_URL = 'https://517757.xyz'
+    cat_pages = {
+        'win11': 'pages/win11.html', 'win10': 'pages/win10.html',
+        'win81': 'pages/win8.html', 'win7': 'pages/win7.html',
+        'server': 'pages/server.html', 'office': 'pages/office.html',
+    }
+    sitemap_urls = [
+        {'loc': f'{SITE_URL}/', 'priority': '1.0', 'changefreq': 'daily'},
+        {'loc': f'{SITE_URL}/pages/guide.html', 'priority': '0.7', 'changefreq': 'monthly'},
+    ]
+    for cat, page in cat_pages.items():
+        sitemap_urls.append({'loc': f'{SITE_URL}/{page}', 'priority': '0.9', 'changefreq': 'daily'})
+    for cat in CATS:
+        for p in all_data.get(cat, []):
+            sitemap_urls.append({
+                'loc': f'{SITE_URL}/pages/detail.html?id={p["id"]}&cat={cat}',
+                'priority': '0.6', 'changefreq': 'weekly',
+            })
+
+    sitemap_xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+    sitemap_xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+    for u in sitemap_urls:
+        sitemap_xml += f'  <url>\n    <loc>{u["loc"]}</loc>\n    <priority>{u["priority"]}</priority>\n    <changefreq>{u["changefreq"]}</changefreq>\n  </url>\n'
+    sitemap_xml += '</urlset>'
+
+    sitemap_path = os.path.join(DATA_DIR, '..', 'sitemap.xml')
+    with open(sitemap_path, 'w', encoding='utf-8') as f:
+        f.write(sitemap_xml)
+    print(f'sitemap.xml 已生成，共 {len(sitemap_urls)} 个 URL')

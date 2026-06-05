@@ -120,6 +120,7 @@ async function loadMetaStats() {
         const patchVer = info.patchVersion || '';
         const updatedAt = info.updatedAt || '';
         const patch = info.patch || '';
+        const productId = info.productId || '';
         let buildStr = '';
         if (innerVer) buildStr += innerVer;
         if (patchVer) buildStr += `.${patchVer}`;
@@ -138,14 +139,8 @@ async function loadMetaStats() {
         };
         const cat = catMap[sysName];
         let detailHref = '#';
-        if (cat) {
-          const data = await loadData(cat);
-          if (data && data.products) {
-            const match = data.products.find(p => p.version.toLowerCase() === version.toLowerCase());
-            if (match) {
-              detailHref = `pages/detail.html?id=${match.id}&cat=${cat}`;
-            }
-          }
+        if (cat && productId) {
+          detailHref = `pages/detail.html?id=${productId}&cat=${cat}`;
         }
         latestBuilds.push(`
           <a href="${detailHref}" class="hero-stat-link" title="来自系统库版本追踪：该版本已包含累计更新补丁后的完整版本号，与实际可下载的ISO版本可能存在差异">
@@ -154,7 +149,7 @@ async function loadMetaStats() {
               <span>
                 <span class="stat-label">${sysName}:</span>
                 <span class="stat-value">${verDisplay}(Build ${buildStr})</span>
-                <span class="stat-label"> 最新补丁: </span><span class="stat-patch">${updatedAt}${patchDisplay}</span>
+                <span class="stat-label"> 微软最新补丁: </span><span class="stat-patch">${updatedAt}${patchDisplay}</span>
               </span>
             </div>
           </a>

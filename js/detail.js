@@ -98,16 +98,49 @@ function renderDetail(product, category, tracking) {
   const sourceGroups = groupSourcesByWebsite(product.sources || [], product._source);
   const sourceEntries = Object.entries(sourceGroups);
 
+  const sourcesList = product._sources || (product.sources ? [...new Set(product.sources.map(s => s._source || '未知'))] : []);
+
+  // 从追踪数据中查找当前产品的补丁信息（必须在 sourcesHtml 构建之前）
+  const catVersion = product.version || '';
+  let patchInfo = null;
+  if (tracking) {
+    const trackingKeyMap = {
+      win11: 'windows_11',
+      win10: 'windows_10',
+      win81: 'windows_8.1',
+      win7: 'windows_7',
+      server: 'windows_server',
+      office: 'microsoft_office'
+    };
+    const tKey = trackingKeyMap[category];
+    if (tKey && catVersion && tracking) {
+      const lookupKey = `${tKey}_${catVersion.toLowerCase()}`;
+      const t = tracking[lookupKey];
+      if (t) {
+        patchInfo = {
+          innerVersion: t.innerVersion || '',
+          patchVersion: t.patchVersion || '',
+          patch: t.patch || '',
+          updatedAt: t.updatedAt || '',
+          latestPatchMonth: t.latestPatchMonth || '',
+        };
+      }
+    }
+  }
+
   let sourcesHtml = '';
   if (sourceEntries.length > 0) {
     for (const [srcName, links] of sourceEntries) {
       const cfg = SOURCE_CONFIG[srcName] || { icon: 'fa-solid fa-link', color: 'var(--text-muted)', label: srcName };
       let linkIcons = { ed2k: 'fa-solid fa-plug', magnet: 'fa-solid fa-magnet', 'redirect': 'fa-solid fa-download' };
+      // 系统库来源的 Build+补丁版本号
+      const xtkVer = srcName === '系统库' && patchInfo && patchInfo.innerVersion ? (patchInfo.patchVersion ? `${patchInfo.innerVersion}.${patchInfo.patchVersion}` : patchInfo.innerVersion) : '';
       sourcesHtml += `
         <div class="source-group" style="margin-bottom:20px;">
           <div class="source-group-header" style="display:flex;align-items:center;gap:10px;margin-bottom:12px;padding:10px 16px;background:rgba(255,255,255,0.02);border-radius:10px;border:1px solid rgba(255,255,255,0.04);">
             <i class="${cfg.icon}" style="color:${cfg.color};font-size:1.125rem;"></i>
             <span style="font-weight:600;font-size:0.9375rem;color:var(--text-primary);">${cfg.label}</span>
+            ${xtkVer ? `<span style="font-size:0.75rem;color:#22c55e;font-weight:500;font-family:var(--font-mono);">${xtkVer}</span>` : ''}
             <span style="margin-left:auto;font-size:0.75rem;color:var(--text-muted);font-family:var(--font-mono);">${links.length} 个链接</span>
           </div>
           <div class="download-links" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:8px;">
@@ -124,28 +157,6 @@ function renderDetail(product, category, tracking) {
     }
   } else {
     sourcesHtml = '<p style="color:var(--text-muted);">暂无可用下载链接</p>';
-  }
-
-  const sourcesList = product._sources || (product.sources ? [...new Set(product.sources.map(s => s._source || '未知'))] : []);
-
-  // 从追踪数据中查找当前产品的补丁信息
-  const catVersion = product.version || '';
-  let patchInfo = null;
-  if (tracking) {
-    const trackingKeyMap = { win11: 'windows_11', win10: 'windows_10' };
-    const tKey = trackingKeyMap[category];
-    if (tKey && catVersion && tracking) {
-      const lookupKey = `${tKey}_${catVersion.toLowerCase()}`;
-      const t = tracking[lookupKey];
-      if (t) {
-        patchInfo = {
-          innerVersion: t.innerVersion || '',
-          patchVersion: t.patchVersion || '',
-          patch: t.patch || '',
-          updatedAt: t.updatedAt || '',
-        };
-      }
-    }
   }
 
   container.innerHTML = `
@@ -166,7 +177,19 @@ function renderDetail(product, category, tracking) {
         </div>
         ${patchInfo ? `
         <div class="info-item">
-          <span class="info-label">最新补丁</span>
+          ${(() => {
+            const patchLabelMap = {
+              win11: 'https://learn.microsoft.com/zh-cn/windows/release-health/windows11-release-information',
+              win10: 'https://learn.microsoft.com/zh-cn/windows/release-health/release-information',
+              server: 'https://learn.microsoft.com/zh-cn/windows/release-health/windows-server-release-info'
+            };
+            const url = patchLabelMap[category];
+            const labelStyle = 'color:#22c55e;font-weight:600;text-decoration:none;';
+            if (url) {
+              return `<span class="info-label"><a href="${url}" target="_blank" rel="noopener" style="${labelStyle}">微软最新补丁</a></span>`;
+            }
+            return `<span class="info-label"><span style="${labelStyle}">微软最新补丁</span></span>`;
+          })()}
           <span class="info-value" style="font-family:var(--font-mono);color:var(--accent-green);">
             ${patchInfo.patch || (patchInfo.innerVersion ? `${patchInfo.innerVersion}.${patchInfo.patchVersion}` : '暂无')}
             <span style="color:var(--text-muted);font-size:0.75rem;margin-left:8px;">${patchInfo.updatedAt}</span>

@@ -1,8 +1,8 @@
 {
   "totalProducts": 155,
   "recentUpdates": 2,
-  "lastUpdated": "2026-06-03",
-  "lastUpdatedPrecise": "2026-06-03 20:12:06",
+  "lastUpdated": "2026-06-05",
+  "lastUpdatedPrecise": "2026-06-05 20:10:43",
   "categories": {
     "win11": 25,
     "win10": 73,
@@ -19,7 +19,9 @@
       "patchVersion": "",
       "updatedAt": "2024-10-01",
       "publishDate": "2024-10-01",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2024-10",
+      "productId": "win-7a72b1ec"
     },
     "windows_11_26h1": {
       "systemName": "Windows 11",
@@ -28,7 +30,9 @@
       "patchVersion": "2179",
       "updatedAt": "2026-06-02",
       "publishDate": "2026-02-10",
-      "patch": "KB5089570"
+      "patch": "KB5089570",
+      "latestPatchMonth": "2026-06",
+      "productId": "win-fa0f8c26"
     },
     "windows_11_25h2": {
       "systemName": "Windows 11",
@@ -37,7 +41,8 @@
       "patchVersion": "",
       "updatedAt": "",
       "publishDate": "",
-      "patch": ""
+      "patch": "",
+      "productId": "win-422a9e36"
     },
     "windows_11_24h2": {
       "systemName": "Windows 11",
@@ -46,7 +51,8 @@
       "patchVersion": "",
       "updatedAt": "",
       "publishDate": "",
-      "patch": ""
+      "patch": "",
+      "productId": "win-ce4f74ae"
     },
     "windows_11_23h2": {
       "systemName": "Windows 11",
@@ -55,7 +61,8 @@
       "patchVersion": "",
       "updatedAt": "",
       "publishDate": "",
-      "patch": ""
+      "patch": "",
+      "productId": "win-2ca86b24"
     },
     "windows_11_22h2": {
       "systemName": "Windows 11",
@@ -64,7 +71,8 @@
       "patchVersion": "",
       "updatedAt": "",
       "publishDate": "",
-      "patch": ""
+      "patch": "",
+      "productId": "win-cdde347f"
     },
     "windows_11_21h2": {
       "systemName": "Windows 11",
@@ -73,7 +81,8 @@
       "patchVersion": "",
       "updatedAt": "",
       "publishDate": "",
-      "patch": ""
+      "patch": "",
+      "productId": "win-9364cf27"
     },
     "windows_11_ltsc": {
       "systemName": "Windows 11",
@@ -82,7 +91,9 @@
       "patchVersion": "",
       "updatedAt": "2024-10-01",
       "publishDate": "2024-10-01",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2024-10",
+      "productId": "win-c876e874"
     },
     "windows_11_arm": {
       "systemName": "Windows 11",
@@ -91,7 +102,9 @@
       "patchVersion": "",
       "updatedAt": "2024-10-01",
       "publishDate": "2024-10-01",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2024-10",
+      "productId": "win-84e86dbe"
     },
     "windows_11_beta": {
       "systemName": "Windows 11",
@@ -100,7 +113,9 @@
       "patchVersion": "",
       "updatedAt": "2021-08-13",
       "publishDate": "2021-08-13",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2021-08",
+      "productId": "win-5cd3d199"
     },
     "windows_10_ltsc 2019": {
       "systemName": "Windows 10",
@@ -109,7 +124,9 @@
       "patchVersion": "",
       "updatedAt": "2019-03-15",
       "publishDate": "2019-03-15",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2019-03",
+      "productId": "win-acf4a2c5"
     },
     "windows_10_22h2": {
       "systemName": "Windows 10",
@@ -118,7 +135,9 @@
       "patchVersion": "7291",
       "updatedAt": "2026-05-18",
       "publishDate": "2022-10-18",
-      "patch": "KB5087544"
+      "patch": "KB5087544",
+      "latestPatchMonth": "2026-05",
+      "productId": "win-6944dd83"
     },
     "windows_10_21h2": {
       "systemName": "Windows 10",
@@ -127,7 +146,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-2012a855"
     },
     "windows_10_21h1": {
       "systemName": "Windows 10",
@@ -136,7 +156,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-aeea47ab"
     },
     "windows_10_20h2": {
       "systemName": "Windows 10",
@@ -145,7 +166,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-687cbfe7"
     },
     "windows_10_2004": {
       "systemName": "Windows 10",
@@ -154,7 +176,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-1a56df63"
     },
     "windows_10_1909": {
       "systemName": "Windows 10",
@@ -163,7 +186,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-0071da7b"
     },
     "windows_10_1903": {
       "systemName": "Windows 10",
@@ -172,7 +196,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-5903ebf8"
     },
     "windows_10_1809": {
       "systemName": "Windows 10",
@@ -181,7 +206,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-0bc6e1d0"
     },
     "windows_10_1803": {
       "systemName": "Windows 10",
@@ -190,7 +216,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-755f547f"
     },
     "windows_10_1709": {
       "systemName": "Windows 10",
@@ -199,7 +226,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-10183c09"
     },
     "windows_10_1703": {
       "systemName": "Windows 10",
@@ -208,7 +236,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-02756db1"
     },
     "windows_10_1607": {
       "systemName": "Windows 10",
@@ -217,7 +246,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-e532efe6"
     },
     "windows_10_1511": {
       "systemName": "Windows 10",
@@ -226,7 +256,8 @@
       "patchVersion": "",
       "updatedAt": "已停止服务",
       "publishDate": "",
-      "patch": "已停止服务"
+      "patch": "已停止服务",
+      "productId": "win-241f4b6b"
     },
     "windows_10_ltsc": {
       "systemName": "Windows 10",
@@ -235,7 +266,9 @@
       "patchVersion": "",
       "updatedAt": "2019-03-15",
       "publishDate": "2019-03-15",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2019-03",
+      "productId": "win-a5458017"
     },
     "windows_10_ltsb": {
       "systemName": "Windows 10",
@@ -244,7 +277,9 @@
       "patchVersion": "",
       "updatedAt": "2016-08-11",
       "publishDate": "2016-08-11",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2016-08",
+      "productId": "win-dc88c234"
     },
     "windows_10_arm": {
       "systemName": "Windows 10",
@@ -253,7 +288,9 @@
       "patchVersion": "",
       "updatedAt": "2023-01-17",
       "publishDate": "2023-01-17",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2023-01",
+      "productId": "win-5c8b8b3c"
     },
     "windows_7_旗舰版": {
       "systemName": "Windows 7",
@@ -262,7 +299,9 @@
       "patchVersion": "",
       "updatedAt": "2011-05-12",
       "publishDate": "2011-05-12",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2011-05",
+      "productId": "win-950f43b5"
     },
     "windows_7_专业版": {
       "systemName": "Windows 7",
@@ -271,7 +310,9 @@
       "patchVersion": "",
       "updatedAt": "2011-05-12",
       "publishDate": "2011-05-12",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2011-05",
+      "productId": "win-b833312f"
     },
     "windows_7_企业版": {
       "systemName": "Windows 7",
@@ -280,7 +321,9 @@
       "patchVersion": "",
       "updatedAt": "2011-05-12",
       "publishDate": "2011-05-12",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2011-05",
+      "productId": "win-bbe90ab2"
     },
     "windows_7_家庭版": {
       "systemName": "Windows 7",
@@ -289,7 +332,9 @@
       "patchVersion": "",
       "updatedAt": "2011-05-12",
       "publishDate": "2011-05-12",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2011-05",
+      "productId": "win-8a3f83c7"
     },
     "windows_7_普通版": {
       "systemName": "Windows 7",
@@ -298,7 +343,9 @@
       "patchVersion": "",
       "updatedAt": "2011-05-12",
       "publishDate": "2011-05-12",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2011-05",
+      "productId": "win-0ba0f8aa"
     },
     "windows_server_2025": {
       "systemName": "Windows Server",
@@ -307,7 +354,9 @@
       "patchVersion": "",
       "updatedAt": "2024-11-19",
       "publishDate": "2024-11-19",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2024-11",
+      "productId": "win-8f8a7ff6"
     },
     "windows_server_2022": {
       "systemName": "Windows Server",
@@ -316,7 +365,9 @@
       "patchVersion": "",
       "updatedAt": "2024-06-18",
       "publishDate": "2024-06-18",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2024-06",
+      "productId": "win-b766421c"
     },
     "windows_server_2019": {
       "systemName": "Windows Server",
@@ -325,7 +376,9 @@
       "patchVersion": "",
       "updatedAt": "2020-07-21",
       "publishDate": "2020-07-21",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2020-07",
+      "productId": "win-21c9770e"
     },
     "windows_server_2016": {
       "systemName": "Windows Server",
@@ -334,7 +387,9 @@
       "patchVersion": "",
       "updatedAt": "2018-02-15",
       "publishDate": "2018-02-15",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2018-02",
+      "productId": "win-92edc310"
     },
     "microsoft_office_2019": {
       "systemName": "Microsoft Office",
@@ -343,7 +398,9 @@
       "patchVersion": "",
       "updatedAt": "2018-10-03",
       "publishDate": "2018-10-03",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2018-10",
+      "productId": "win-9bf8356d"
     },
     "microsoft_office_2016": {
       "systemName": "Microsoft Office",
@@ -352,7 +409,9 @@
       "patchVersion": "",
       "updatedAt": "2015-09-22",
       "publishDate": "2015-09-22",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2015-09",
+      "productId": "win-e77890cc"
     },
     "microsoft_office_2013": {
       "systemName": "Microsoft Office",
@@ -361,7 +420,9 @@
       "patchVersion": "",
       "updatedAt": "2014-03-18",
       "publishDate": "2014-03-18",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2014-03",
+      "productId": "win-b9c8ecc5"
     },
     "microsoft_office_2010": {
       "systemName": "Microsoft Office",
@@ -370,7 +431,9 @@
       "patchVersion": "",
       "updatedAt": "2011-10-25",
       "publishDate": "2011-10-25",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2011-10",
+      "productId": "win-ed4f0b44"
     },
     "microsoft_office_2007": {
       "systemName": "Microsoft Office",
@@ -379,7 +442,9 @@
       "patchVersion": "",
       "updatedAt": "2007-03-30",
       "publishDate": "2007-03-30",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2007-03",
+      "productId": "win-81c7b737"
     },
     "microsoft_office_2003": {
       "systemName": "Microsoft Office",
@@ -388,7 +453,9 @@
       "patchVersion": "",
       "updatedAt": "2010-04-03",
       "publishDate": "2010-04-03",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2010-04",
+      "productId": "win-99fe84e2"
     },
     "microsoft_office_2024": {
       "systemName": "Microsoft Office",
@@ -397,7 +464,9 @@
       "patchVersion": "",
       "updatedAt": "2024-09-20",
       "publishDate": "2024-09-20",
-      "patch": ""
+      "patch": "",
+      "latestPatchMonth": "2024-09",
+      "productId": "win-ce857bff"
     },
     "microsoft_office_2021": {
       "systemName": "Microsoft Office",
@@ -406,7 +475,8 @@
       "patchVersion": "",
       "updatedAt": "",
       "publishDate": "",
-      "patch": ""
+      "patch": "",
+      "productId": "win-1b3c46b0"
     }
   }
 }

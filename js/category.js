@@ -62,11 +62,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   ]).then(([data, meta]) => {
 
-    // 构建补丁查询表: version -> { patch, updatedAt }
+    // 构建补丁查询表: systemName_version -> { patch, updatedAt }
     if (meta.sourceTracking) {
       for (const [key, t] of Object.entries(meta.sourceTracking)) {
         if (t.version) {
-          patchLookup[t.version.toLowerCase()] = {
+          const lookupKey = `${key}`;
+          patchLookup[lookupKey] = {
             patch: t.patch || (t.innerVersion ? `${t.innerVersion}.${t.patchVersion}` : ''),
             updatedAt: t.updatedAt || '',
           };
@@ -282,7 +283,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     resourceBody.innerHTML = filteredProducts.map(p => {
 
-      const patch = patchLookup[(p.version || '').toLowerCase()];
+      const trackingKey = `${category.replace('win81', 'windows_8.1').replace('win11', 'windows_11').replace('win10', 'windows_10').replace('win7', 'windows_7').replace('server', 'windows_server').replace('office', 'microsoft_office')}_${(p.version || '').toLowerCase()}`;
+      const patch = patchLookup[trackingKey];
 
       return `
 
