@@ -97,19 +97,18 @@ jobs:
             exit 0
           fi
           URLS=$(python3 -c "
-          import xml.etree.ElementTree as ET, sys
+          import xml.etree.ElementTree as ET
           ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
           try:
               urls = [e.text for e in ET.parse('sitemap.xml').findall('.//sm:url/sm:loc', ns)]
               print('\n'.join(urls))
           except Exception:
-              print('', file=sys.stderr)
-              sys.exit(1)
+              print('')
           ")
           if [ -n "$URLS" ]; then
             curl -k -H "Content-Type: text/plain" \
               --data "$URLS" \
-              "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=$BAIDU_TOKEN"
+              "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=$BAIDU_TOKEN" || echo "百度推送响应异常，但不影响部署"
           else
             echo "No urls found in sitemap.xml, skip push"
           fi
