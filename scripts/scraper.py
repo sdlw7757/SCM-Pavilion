@@ -1181,7 +1181,8 @@ if __name__ == '__main__':
     sitemap_xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
     sitemap_xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for u in sitemap_urls:
-        sitemap_xml += f'  <url>\n    <loc>{u["loc"]}</loc>\n    <priority>{u["priority"]}</priority>\n    <changefreq>{u["changefreq"]}</changefreq>\n  </url>\n'
+        loc_safe = u["loc"].replace('&', '&amp;')
+        sitemap_xml += f'  <url>\n    <loc>{loc_safe}</loc>\n    <priority>{u["priority"]}</priority>\n    <changefreq>{u["changefreq"]}</changefreq>\n  </url>\n'
     sitemap_xml += '</urlset>'
 
     sitemap_path = os.path.join(DATA_DIR, '..', 'sitemap.xml')
