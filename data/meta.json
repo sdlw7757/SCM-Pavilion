@@ -1,15 +1,15 @@
 {
-  "totalProducts": 155,
+  "totalProducts": 154,
   "recentUpdates": 2,
-  "lastUpdated": "2026-06-17",
-  "lastUpdatedPrecise": "2026-06-17 03:34:20",
+  "lastUpdated": "2026-06-18",
+  "lastUpdatedPrecise": "2026-06-18 02:14:02",
   "categories": {
     "win11": 25,
     "win10": 73,
     "win81": 6,
     "win7": 18,
     "server": 8,
-    "office": 25
+    "office": 24
   },
   "sourceTracking": {
     "windows_11_ltsc 2024": {
