@@ -1,0 +1,1918 @@
+{
+  "products": [
+    {
+      "id": "win-7a72b1ec",
+      "name": "Windows 11 LTSC",
+      "version": "LTSC 2024",
+      "build": "",
+      "releaseDate": "2024-10-01",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "LTSC",
+      "sku": "LTSC",
+      "fileSize": "4.92GB",
+      "hashes": {
+        "sha256": "2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC",
+        "sha1": "AB7CD740E6CD495A69E3A90FCD7FB56BA0C5C62E"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=pIyInB09OTzaTeuFaTfKVnIAGj637TGAi_ehhDehAIEdpb8Key0nlTRbH7PXfV96ESU8pg0YYZOkUAUmYIa9MqJPsip9IUjDB1rK6vPAbFlC3mkQ55DHQkaSojjC5fTG9xqfmF6ZFrtCly5jXvfUsIFZusvDawgD&_pid=&_name=Windows+11+Enterprise+LTSC+2024+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-fa0f8c26",
+      "name": "Windows 11 (arm64)",
+      "version": "26H1",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "7.8GB",
+      "hashes": {
+        "sha256": "D79BDE33B0FB8580A8563D256E73F3DC3D52A1A0A88562D34D780CA51D168448",
+        "sha1": "5D0EE9B47DB049FE7049CA72A96D93E1E1F0D49F"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=-VvQSMUtopDudv0339x8Pg3bHnuG8F-s4jPOKPHao_VvYDCzaYhUKv3CJhe1YKVPzgmYYLyhcKLZ1WPGtg_UgdY8WuUIoGRowKFBfgoF8W_IF9FPckRlc0oCO_9Q0Ks8jpnyDZ5NTdQ5qnqknVZBVF9onkdN1OsU&_pid=&_name=Windows+11+%28business+editions%29%2C+version+26H1+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/G1yxsvC42zN",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/KNwPMtEu",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1g9lWveJTZRfhSpAEwopjnQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/iQnEjimuYJbm",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBNoFx9U33t",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_26h1_updated_june_2026_arm64_dvd_72dd14a5.iso|8370331648|BE0AC4B020DD879DDBEE56D87756DEB1|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-044cdb4f",
+      "name": "Windows 11",
+      "version": "26H1",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "7.56GB",
+      "hashes": {
+        "sha256": "1FC21EC116D6AEBD94353ED460E3EB2D960B40989B0F70371D4236CF9614AEAB",
+        "sha1": "7A0B5E286A2E1A018AF867D69D7EE34CE9BF9AC0"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=3ZlcVHvf4qltQiIsUYmvkXioOCe_hMzFw9d_cXoZYl7hu4KQHeDfDauZcEJQaHaC6AA1N6aIe0xZT1XckGR2up4VEZclBbEtqQ2hCzifGzjxvaekMg1hoOoNGXMgX7nZuo-L0Jff8AHbqtCdYmFGX7Sw15uT837y&_pid=&_name=Windows+11+%28business+editions%29%2C+version+26H1+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/G1yxsvC42zN",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/KNwPMtEu",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/13ZkZhKVl0tVhZAfI1dIbxA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/iQnEjimuYJbm",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBNoFx9U33t",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_26h1_updated_june_2026_x64_dvd_4759e6b0.iso|8112902144|20A52F7C7FC0A4FA566D1FCFF7FB4A37|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_26h1_updated_may_2026_x64_dvd_b733cc65.iso|8030121984|CA927940D9A5108729AC29C4C827A044|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:d4313a35407b9590a4b74105398fb946578f4c1c&dn=zh-cn_windows_11_business_editions_version_26h1_updated_may_2026_x64_dvd_b733cc65.iso&xl=8030121984",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/1xlnVYcHU64aGnkqXpGFjyA?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f8280cdef11a",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://1825222424.share.123pan.cn/123pan/MSGsjv-bERi3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/reUzIrRnYnim（访问码：wq2r）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-faff1da1",
+      "name": "Windows 11 (arm64)",
+      "version": "26H1",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "7.87GB",
+      "hashes": {
+        "sha256": "A93E57971884F1EA8C196507676BFF7D9688E9CF90F8D3CC9651DF3F217E4A16",
+        "sha1": "BDE7D27B5E66024F286592D524C747117729A447"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=YP8pXQPmo3m95HagQ6_bwidJUlRv1k3PMqiK0_HW4CK6R-RyavhD3NQs0dOsbxLhPckuW8iMt919RXgEvhVqhuVTPbCCamcIrdl8nkJqhWOBMO51yq7t2Bu1mQHpcUf6WVFZ0OXriFRyxzvRO8x5Rhlwlt8wXyJ4&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+26H1+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/G1yxsvC42zN",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/KNwPMtEu",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1J2hojMhta_rL2sUCrtXTJA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/iQnEjimuYJbm",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBNoFx9U33t",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_26h1_updated_june_2026_arm64_dvd_72dd14a5.iso|8450439168|CD61DD947403B6C4E99D25EE1E4386C9|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-494dd34a",
+      "name": "Windows 11",
+      "version": "26H1",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "7.64GB",
+      "hashes": {
+        "sha256": "DDBF505183C2C08E040DBF60A9DB71A7287E97C997D9A3CA7913D6D2AF7EDD1C",
+        "sha1": "FDA5A955618149B38E8B890D353B3C9DBBA4B039"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Nj7yq_KOsJLWC1lDqJE1qaMLrjEiRmRwDJN0T2dntYDe4TelfO65lAtsMAyzgw3yeCxTpneVx-W_kbEOAz2hAwDDEJ8o78fdu9RsAdrbPUEho3nQ2jOMl3UWscorukjt37LdcwEvSXTcCKr8FuMxBiyY8TAveolh&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+26H1+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/G1yxsvC42zN",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/KNwPMtEu",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DQLn4x5cTPX62zq0xyPyUA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/iQnEjimuYJbm",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBNoFx9U33t",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_26h1_updated_june_2026_x64_dvd_72dd14a5.iso|8205539328|433DC884366ECE45F5FB2F78ADC72766|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_26h1_updated_may_2026_x64_dvd_b733cc65.iso|8123025408|F7672B81433B0DB776B84D20777B8EDC|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:2985595aebf4fa5cee9c6b94c11289be241451ac&dn=zh-cn_windows_11_consumer_editions_version_26h1_updated_may_2026_x64_dvd_b733cc65.iso&xl=8123025408",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1G2HGhAYbEJfldSQ3GLvCng?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/c731f13f1e73",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://1825222424.share.123pan.cn/123pan/MSGsjv-qIXi3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/JzA7J3e6j2Q3（访问码：neu7）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-422a9e36",
+      "name": "Windows 11 (arm64)",
+      "version": "25H2",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "7.87GB",
+      "hashes": {
+        "sha256": "66DFA11545EC8242CBBF30CD02223EC6391EF60E092AC07A82423C4F6C3287B8",
+        "sha1": "9249711A590369C2777BDC536A8748E8B6C871B0"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=BZjGPHdP6k9n_AjfbUiSBqZ9E8qm2LYpC4_hwdEBE1JKgDJ9Bu7lB7dGz_gZNsk-k0SiTdYqC41Nb8O77n0qI5jtA1rBM68Q2eS-700hhMC-zqGnVx2fwcsYNypbbopoD3sTMX8dwMXlhpaCWvCR6e-AQgTtGa1J&_pid=&_name=Windows+11+%28business+editions%29%2C+version+25H2+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/Rm82k35sEuk",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/6pacA2Gc",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1MWDf9gAm1CZI3-bau-pJuw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/2uI3AvQz6zEj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjj8fv",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_25h2_updated_june_2026_arm64_dvd_669c2513.iso|8452272128|46DC5D1A6C0DC244956C5B807011EC46|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-527513f4",
+      "name": "Windows 11",
+      "version": "25H2",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "8.08GB",
+      "hashes": {
+        "sha256": "C4E279353C839FBDE638BC72A62D4A772F2312C6C6C432487B41DF4876296251",
+        "sha1": "F878AFFAB8F758CB77EE884CA3597537B0254E89"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=7KkFgilnRVAwHuhw86dLblIPuR6ezQBceGQTu7RIB7SgcZFcuhsXQtNYIUeUbLwjgfjYf68gnUCqJI-05oPuettLFfiE5Ru6x54aiqb7u1SwieBZhEl5t4X4AERh4z2yqc8kMOKAQoQSND_KbG3fFHvXm1fCwICP&_pid=&_name=Windows+11+%28business+editions%29%2C+version+25H2+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/Rm82k35sEuk",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/6pacA2Gc",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WI4BaDzAx8fOmbuXCg0nfw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/2uI3AvQz6zEj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjj8fv",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_25h2_updated_june_2026_x64_dvd_d0e09c94.iso|8672753664|1BFFC6C4C609D8F0A616ACC411C85179|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_25h2_updated_may_2026_x64_dvd_4e896038.iso|8601344000|7241DA6676C83A16DE7F074BE513792F|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:da3924d7d07aee3fd1ac900b619b393bf798b26d&dn=zh-cn_windows_11_business_editions_version_25h2_updated_may_2026_x64_dvd_4e896038.iso&xl=8601344000",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/177cJ3HMOryYZ3rG9DyoRkA?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/aed608f6d9ad",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://1825222424.share.123pan.cn/123pan/MSGsjv-cERi3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/ZRnYrqfMbEnm（访问码：gjf6）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-62883c65",
+      "name": "Windows 11 (arm64)",
+      "version": "25H2",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "7.95GB",
+      "hashes": {
+        "sha256": "615EB1FE40DCB024171BBA4C13462D140DCEC58137F672E63D07A92F5E622AD7",
+        "sha1": "C9A080BE1EC0EFD767D34C6B4E47886C74C6AB70"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=ndLhmtgra3oG6vKjQjq_eWzfCwHFesWbObNInAma575UavHexrq8zv00h7Q-FMei9B48e0O5UWM3THh3MDDZyJxTnenUL1g_ovPwa0V9O67VCRneq3iRsdljgen5B8cbM7gBywXE1VpQ2esN8orHkrKEV5Eh2n4e&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+25H2+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/Rm82k35sEuk",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/6pacA2Gc",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1i-n71Odye3XMFOBWlQv0xg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/2uI3AvQz6zEj",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjj8fv",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_25h2_updated_june_2026_arm64_dvd_2045a41c.iso|8537210880|B0CF1131306B654AE046BD90A0AA9B4F|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-37f7d246",
+      "name": "Windows 11",
+      "version": "25H2",
+      "build": "",
+      "releaseDate": "2026-06-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "8.16GB",
+      "hashes": {
+        "sha256": "16ECF36DFA514A4FE727659DA822CD0978D7B8CAE92369818594363AD139ABEE",
+        "sha1": "805169B73BAB878D557C0FBC4BB9FB0F140CA2C0"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=0voFJADmQpZooUpWomY00dTtC5TUwjZVzrPLG2hFQm32b9e0hlyEGuJXU8viZYZz7O4TjSTSr4_bqUBwOf9HnkKa8nMbKAjpNeoulCkECkwCHVPGjGGBNkJ1D5oz6Ae-opsgVNUgbT7n33HbkLi2cgRpz2rHqSiM&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+25H2+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/Rm82k35sEuk",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/6pacA2Gc",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1e_F31nShsLCA_nfDTo7UNg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/2uI3AvQz6zEj",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjj8fv",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_25h2_updated_june_2026_x64_dvd_2045a41c.iso|8762877952|16A6CA55372BD38A9BB576D0E3991FEF|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_25h2_updated_may_2026_x64_dvd_ceef8999.iso|8700340224|2C26BA17D74D1A7439EBDED8D6D6F949|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:f8bf56ece5e3a27bf3b77a776ac61c9a9282e282&dn=zh-cn_windows_11_consumer_editions_version_25h2_updated_may_2026_x64_dvd_ceef8999.iso&xl=8700340224",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/1OyIo_h-GPBzvtRk_xHIg6g?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/093c587b6df1",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://1825222424.share.123pan.cn/123pan/MSGsjv-hl1i3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/j2uYn263aQFz（访问码：i9ex）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2026-05"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-ce4f74ae",
+      "name": "Windows 11 (arm64)",
+      "version": "24H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "7.01GB",
+      "hashes": {
+        "sha256": "ABC82163ED3577FD45B42B2A9027F8CC10A4E18687C74F7F82233C8329265BF6",
+        "sha1": "ED6D7309DF7A5F7B3F18A061BD7DFBE26778EBA8"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=TPV3INwEKO7rc3dc1UDWrLk8ddUG3D23Huy6VNF7_qj9K52F3F4cHdow2ca_nFLneL6zfsVxwXDwuLC8rARkmRLRMXz5BN0varoUZDn-3X9X9vMoltTMZ9micfQ2GMmq6D8HCqqOWdQhb-UicWmKhc3-N2uHzgq1&_pid=&_name=Windows+11+%28business+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/6H2Gxwd9VT9",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/ALe8bhCB",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ifqabmaJNtm3TRutIXI2Hw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/mYF7VzFviyya",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjjr4z",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_24h2_updated_june_2026_arm64_dvd_00daf0e0.iso|8420798464|F89AA8DDDEA1C3DC5AAD363A1555AF7A|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-e0c3038f",
+      "name": "Windows 11",
+      "version": "24H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "7.2GB",
+      "hashes": {
+        "sha256": "52E6A63E9C38F60A3E4F25605915FB00DDCE8CD88C45B02D27F586AC3765E519",
+        "sha1": "521A26D193B8AC12501CFD408A953298FB78AE3E"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=dzpsM1cruWaog3x0qzDdRu4YM6CZEZqV6MUab6cma6ak-_RiRBqrb7WplEPwtjD7pfm_UZkcz52Yj3PG_rgej5HKhUFM4-Ds_LSUCzAhRD59JmeZsfk18fm-lNkF5UrNMfixN9IOKmLdzIMbx0f1_IzayLMPhPPu&_pid=&_name=Windows+11+%28business+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/6H2Gxwd9VT9",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/ALe8bhCB",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1iaSWZIfcCfs3pcoF70WTSg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/mYF7VzFviyya",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjjr4z",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_24h2_updated_june_2026_x64_dvd_a55a638a.iso|8651898880|73FAE63D161C88D49AB5B904A9BF9509|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-06"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_24h2_updated_sep_2025_x64_dvd_84877922.iso|7635443712|17E35D41CA6F7ECF38963F3B9E6DB7EB|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:be345f30a36e2ded0ce84c548b2eab04c5da0221&dn=zh-cn_windows_11_business_editions_version_24h2_updated_sep_2025_x64_dvd_84877922.iso&xl=7635443712",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/1SENjnWezTFNkTE98aqLpbg?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/9ba5a2c7d5cc",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123912.com/s/MSGsjv-qq0c3",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/V7ZviqJrm2Mv（访问码：5isc）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-f36dd59f",
+      "name": "Windows 11 (arm64)",
+      "version": "24H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "7.1GB",
+      "hashes": {
+        "sha256": "5E1E21AC5D47BBDD0BBCA4D93AD2F748507545D232565452CA6737CAF854BEA3",
+        "sha1": "2AC9340C17F95C1C4402B967BED8485CACC348AE"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=7xPQTI61Qqvanopr7skqTbIDFWETDJvD8JYjFtA51ocx8VSLHsKbaMg58UdwmyFWoXneGX1aPopEWCF_qHoSlrwFR2XRWX54C7R7xgs-TBgS3rJ1QdcfHELrwf5nsr1oHhV4jR1oV4mBZQrJX98k8agy0-recHVn&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/6H2Gxwd9VT9",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/ALe8bhCB",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Wos367lw2pP7msqFMoDQxw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/mYF7VzFviyya",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjjr4z",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_24h2_updated_june_2026_arm64_dvd_66533f53.iso|8503908352|73D278FBD028487B2EFC77B90A8B0383|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-baf1d43b",
+      "name": "Windows 11",
+      "version": "24H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "7.28GB",
+      "hashes": {
+        "sha256": "9F019BB45F11C80E50C78411C7A3DA4432EC1632E2A11CBA15552C9384DF830F",
+        "sha1": "FA9B4253273D95058AC907D3A9B69ED67D53D23E"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=labTOx0ml6ur3IUX-KRAHe1baWsxWxXoI828kclrMNyu--pbOrbvxAf4Ha0pxbZUFUodTSvZrflN60qIw0OSuq_R-e_R3_Fk0VgSWiCicckW4bC5FSLAkLarteZf5LdPIQ-4v73-5d-BSMd2JUacvO0b5ha536SY&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/6H2Gxwd9VT9",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/ALe8bhCB",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1BiO2RLXCD2fkwAFe50YVWA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/mYF7VzFviyya",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2vMBLPyAjjr4z",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_24h2_updated_june_2026_x64_dvd_66533f53.iso|8738025472|36554AA800E9A71E928C46FC01DAF12A|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_24h2_updated_sep_2025_x64_dvd_6d1ad20d.iso|7726176256|3280EF04F8C092FA4232B425BCBB7730|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2025-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:55301cf0b81c417d57ee44680aca72726d66e33f&dn=zh-cn_windows_11_consumer_editions_version_24h2_updated_sep_2025_x64_dvd_6d1ad20d.iso&xl=7726176256",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2025-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1sHwrDIo9XdhTK5SWA3cgQg?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-09"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d90542b369ce",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2025-09"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123912.com/s/MSGsjv-5q0c3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-09"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/IV367bmiuEbm（访问码：8cw2）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-2ca86b24",
+      "name": "Windows 11",
+      "version": "23H2",
+      "build": "",
+      "releaseDate": "2024-09-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "6.61GB",
+      "hashes": {
+        "sha256": "1EF8F2F5ED0922069364525C45BE188F36FD1DD87A52F78CDDA3D1C4764E86CE",
+        "sha1": "3E2CDB1C0B2104465289D8F582FFE4E69AF14725"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=lNV7R6G2FLIkSSy-R4I81ozxMuCYgHJGhpDOMpCzpWfmzrFfhtTNd8mOa1C1t5BJGYnQQRJME9iZcxSRDDzIAd3cN3_DGYROm8PsZjzbtbphzkkXLQXlPv4VTZ4binKk7_wBCSiQ9I73YXyQmINLE9X1upXYZalM&_pid=&_name=Windows+11+%28business+editions%29%2C+version+23H2+%28updated+Sep+2024%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/5bk3QKUFZfu",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/5hgg1guO",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1jXTxkKI4gUe6F6VHThbBiQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/w/i/2qidYqaM4Nzak",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_23h2_updated_oct_2025_x64_dvd_abe6f894.iso|7428610048|D8AEC6E3419D0395431A8ED54EC7ACE8|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "BT磁力链接",
+          "url": "magnet:?xt=urn:btih:a851073c49368a93987618418f719d809020ec81&dn=zh-cn_windows_11_business_editions_version_23h2_updated_oct_2025_x64_dvd_abe6f894.iso&xl=7428610048",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_23h2_updated_aug_2024_x64_dvd_6ca91c94.iso|7075129344|299D31DCFF10D9F0243EDDED3B8C49B7|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2024-08"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:5000578644d5dc655cb4795dc92242763f10c56e&dn=zh-cn_windows_11_business_editions_version_23h2_updated_aug_2024_x64_dvd_6ca91c94.iso&xl=7075129344",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2024-08"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/10VH2arE5FBWY-EwJIAjBwg",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123pan.com/ps/MSGsjv-VPRc3",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-424689e1",
+      "name": "Windows 11",
+      "version": "23H2",
+      "build": "",
+      "releaseDate": "2024-09-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "6.69GB",
+      "hashes": {
+        "sha256": "39387329CE56E5BDEC912A701947F52401DE7FF011AF6399051438607219D18B",
+        "sha1": "E9EA08DA0FCE4EEE537ACAB6949924455E107178"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=EIAzgNZ9Uy7QVvEpY48BOWIYPwbY0NFE9maBmhed1ACXSsxANO_ll-9zFT9fT8dJhkOP2juiFuOoQNg1AEwubKJUY7onosQKDo9N_VEF7Ps0h4XKcOR8gjWuHxtsdzAT44RP4cz6Ep8O6w41k4uvU-Vy7tTUc_Ul&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+23H2+%28updated+Sep+2024%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2024-09"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/5bk3QKUFZfu",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/5hgg1guO",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1vWIpt4qLiKD3EBYUyqhmZg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/w/i/2qidYqaM4Nzak",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_23h2_updated_oct_2025_x64_dvd_8deeaabd.iso|7525928960|4F5D19E4F0E32473BFF2A9DA1CF008E7|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "BT磁力链接",
+          "url": "magnet:?xt=urn:btih:448ab82f9050b1a7a66ab5425c005eb58dbe3e39&dn=zh-cn_windows_11_consumer_editions_version_23h2_updated_oct_2025_x64_dvd_8deeaabd.iso&xl=7525928960",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_23h2_updated_sep_2024_x64_dvd_edcefbe4.iso|7183915008|C7EDA8C62FA0A8020C100C89D0583D25|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2024-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:c0dbf0b64fd2f16c9fbca08e123edf75eff5582e&dn=zh-cn_windows_11_consumer_editions_version_23h2_updated_sep_2024_x64_dvd_edcefbe4.iso&xl=7183915008",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2024-09"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/17VzS7LJxUzZyWjNPMLOQdA",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2024-09"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123pan.com/ps/MSGsjv-yPRc3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2024-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-cdde347f",
+      "name": "Windows 11",
+      "version": "22H2",
+      "build": "",
+      "releaseDate": "2023-10-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "6.16GB",
+      "hashes": {
+        "sha256": "1933F02C3FA3DBB04B13DD88C5A47C4D45688804C8E17CE7A65E81081AEF8CA6",
+        "sha1": "330A085E02F4FC9E47E81E6B8EA6F8DFD5F85939"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=thq7dWmCxrbwQmb5qQQSbUiy8hV3LNEyitfRtqSp8RVNULdlsCaVnfcUvDXrSTdEBol_bZQKxw-ZIa1t0t7bSg3gjg4F5o6gefOvSGiaYUcDaHifdw9WKg9jfHAd22D6Xa3QYCPTWEHkIO4pPh-I5KPExOMe75kr&_pid=&_name=Windows+11+%28business+editions%29%2C+version+22H2+%28updated+Oct+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2023-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/FbDX9oPSNrj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2024-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_22h2_updated_sep_2024_x64_dvd_c185bd8a.iso|7087554560|B33ADCD3A54C24F652AD45211B91604B|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2024-09"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_22h2_updated_oct_2023_x64_dvd_370ed1b7.iso|6615459840|8F46CEFA55F43404535AF960B4784E67|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2023-10"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:538f373c02ca9a71616bf9c6cc354f0a9a3edb88&dn=zh-cn_windows_11_business_editions_version_22h2_updated_oct_2023_x64_dvd_370ed1b7.iso&xl=6615459840",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2023-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/10XprBtFLJwPJNNsJG6KryQ?pwd=hipc",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2023-10"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-4ebc86a4",
+      "name": "Windows 11",
+      "version": "22H2",
+      "build": "",
+      "releaseDate": "2023-10-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "6.26GB",
+      "hashes": {
+        "sha256": "0BCD152A571F28326C3F015E29E39EE00181FF7B01546B2812BD141AE394FDC6",
+        "sha1": "2C8741C897E85D9AE9D7F06A1B071280E9824D1E"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=vEdw6gLxBw0JRdGnXtTZ9oYoBQXpgFUP4ZFzUosUDL92Rne9YJBHRg4Dje0ZkVJLI9uMI61-12fmqpvLqpL2EwZ72S7xM8Ppa-mLZAHXhL1xP2qS75uZnwDbQIUP5WaTwfoemfNbbpOvneViAu9y73_xKZfcCoGm&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2023-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/FbDX9oPSNrj",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_22h2_updated_sep_2024_x64_dvd_190226f3.iso|7182639104|E5E3B0F9449776027B821A2320AA88EF|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso|6720722944|568A10305F47C4C375E6899E84BD7066|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2023-10"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:ea744fbd2cc3108e39b881b852e1442592004042&dn=zh-cn_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso&xl=6720722944",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2023-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1GLvH3n9gy5Vuk6otdpEYeA?pwd=hipc",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2023-10"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-9364cf27",
+      "name": "Windows 11",
+      "version": "21H2",
+      "build": "",
+      "releaseDate": "2022-08-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.38GB",
+      "hashes": {
+        "sha256": "CCD44E1218D653D39AA8C4EBB90FBFC233FDABD2FBB2F0B5EB1C4007F641C649",
+        "sha1": "BCA0F565F22CB87984A9ACF47417B38FF5CCEEC5"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Uxkmp-8ry9rRoHmr_nQwiNnpvt9sj2NtFu5uUeB3tSXK0WCvNIzXYUrcVC8Co6DV5h2uSgJ-cbg6t2bLYL2v8EFkKmdZmDkiKabqDWXuxJZhWPo2LgRkvDwp6r2FitscGFK4-Lp8NBVGyxVv9_CiY5G-BO5cpJ3g&_pid=&_name=Windows+11+%28business+editions%29%2C+version+21H2+%28updated+Aug+2022%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2022-08"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/LvNWc8GMpti",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2023-08"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1FB08FEfPI6W0jAz3CvQcmA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2023-08"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_21h2_updated_aug_2023_x64_dvd_d8841050.iso|5941757952|7E4563AE602465D37EAEEBF19E15D811|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2023-08"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso|5726638080|5BCD33031B86AC693B2CE3C6CF11CB90|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:f869202a016c0e3e2fd5e41ffb010696ff5d2c02&dn=zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso&xl=5726638080",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WMHMqAw3f4KTlqjb6VOHUg?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-2759dbbf",
+      "name": "Windows 11",
+      "version": "21H2",
+      "build": "",
+      "releaseDate": "2022-08-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.49GB",
+      "hashes": {
+        "sha256": "388B22C7BF9CD56A7C1B279DF55DCE05DA2AB463FE1476B5E04007986A590D76",
+        "sha1": "50046A07AECFCD40E90EEF6CF387963D740650F3"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Fi-SiscxTIW2yRr3gmOvCLBuL8-MTMzEAGWhAqctleIfPrTBADXrizvwpgQ82OocQRJgWgdUeyZRcGZF3SaXxuJ2mOt1MuIYt1zRhluWeWjecJR4z2S2GNOII_yXcRuChLSFRKj7Qqdhw8EBXRsCxwzt3d2r4NO0&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+21H2+%28updated+Aug+2022%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2022-08"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/LvNWc8GMpti",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2023-08"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1LQqe9dXeBv9iGCkDdbi4YA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2023-08"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_21h2_updated_aug_2023_x64_dvd_9a14081c.iso|6069225472|2E4E7D18DE6E764B2FD1BF44750AF230|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2023-08"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_updated_june_2022_x64_dvd_feb134e8.iso|5846282240|97A13666AFAA727661829B987C145E2F|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:3c464c3d91cea96759602f69c9b300b03dec2d8b&dn=zh-cn_windows_11_consumer_editions_updated_june_2022_x64_dvd_feb134e8.iso&xl=5846282240",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1KqIAaScoXgKlAiKbhdHQ3g?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-4858dcb2",
+      "name": "Windows 11 Professional",
+      "version": "24H2",
+      "build": "",
+      "releaseDate": "2024-10-01",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Professional",
+      "sku": "Professional",
+      "fileSize": "5.22GB",
+      "hashes": {
+        "sha256": "84D9B60C5CF7BBFEFE56C530C373CEB35A593750FB8FF0F79345F110E2D32668",
+        "sha1": "BAEA08FF3FFE14B4061ECB944296F44310C694E5"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/XBe8uSj6aA5",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/190WGIUf5sxETTK0oQaKKrQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|Win11_24H2_Pro_Chinese_Simplified_x64.iso|5606453248|1B20C6FADEF04DE45934A339AD6A6596|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-e75de2b6",
+      "name": "Windows 11 Home",
+      "version": "24H2",
+      "build": "",
+      "releaseDate": "2024-10-01",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Home",
+      "sku": "Home",
+      "fileSize": "5.16GB",
+      "hashes": {
+        "sha256": "47E6049E0EB085C779EC8A2BDE1723CED563CF541E4E49F147725E87DA020753",
+        "sha1": "E8FD7640F8191274468CB83C2B193E0FFC0EB369"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/XBe8uSj6aA5",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Oy613zyRMvx3kpZnJyclTA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|Win11_24H2_China_GGK_Chinese_Simplified_x64.iso|5541251072|34FC53C2D903A397596F3DDBEC0C10AA|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-c876e874",
+      "name": "Windows 11 LTSC 消费版",
+      "version": "LTSC",
+      "build": "",
+      "releaseDate": "2024-10-01",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.92GB",
+      "hashes": {
+        "sha1": "AB7CD740E6CD495A69E3A90FCD7FB56BA0C5C62E"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso|5287520256|D6E4FE0BA5FD8A2F22FC9C0326481791|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WM0Rj35l2bkq3jMvmAWX0A?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/b86d1f078946",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/6jmiEbEv2iaq（访问码：dr5v）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-84e86dbe",
+      "name": "Windows 11 ARM 消费版",
+      "version": "ARM",
+      "build": "",
+      "releaseDate": "2024-10-01",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.28GB",
+      "hashes": {
+        "sha1": "5A761FE1015CBADF932E7D74901E95CCCEAB5EB7"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_consumer_editions_version_24h2_arm64_dvd_4b5c8070.iso|5674188800|DECEDD47859B1857AF8C7B443BF2034D|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:7aa30070e35c2e38491a7f7addb014623818f2e5&dn=zh-cn_windows_11_consumer_editions_version_24h2_arm64_dvd_4b5c8070.iso&xl=5674188800",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1G3hJplQSBIRjR91BwqWEvA?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e0398ad33bb7",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123912.com/s/MSGsjv-AkKc3",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/FfUbayzUjuAj（访问码：xtu8）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-aa693a58",
+      "name": "Windows 11 ARM 商业版",
+      "version": "ARM",
+      "build": "",
+      "releaseDate": "2024-10-01",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.22GB",
+      "hashes": {
+        "sha1": "74EEB6BEEFC058D3C45417FEF39546BCAF7ED307"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_24h2_arm64_dvd_9696a5e8.iso|5602701312|0E8A2CD17F1A376A56426C4FA5CB9C35|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:b5deab2081085340df7bd2221bf7182aac7eb962&dn=zh-cn_windows_11_business_editions_version_24h2_arm64_dvd_9696a5e8.iso&xl=5602701312",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/1jcAB0VG26Kykmrf57CGY3w?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/9791f7b23c41",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123912.com/s/MSGsjv-9kKc3",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/mAZ7veEfaem2（访问码：2aq3）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-5cd3d199",
+      "name": "Windows 11 Beta 消费版",
+      "version": "Beta",
+      "build": "",
+      "releaseDate": "2021-08-13",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.12GB",
+      "hashes": {
+        "sha1": "3A73C3C8133BE4D47D450937EAA0780423FAAB26"
+      },
+      "sources": [
+        {
+          "name": "百度网盘|hipc",
+          "url": "https://pan.baidu.com/s/1nb8WetVnwiQjsdohggLDeA",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/jmaAn2vMjaEb",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    }
+  ]
+}
