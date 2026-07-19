@@ -1,8 +1,8 @@
 {
   "totalProducts": 155,
   "recentUpdates": 2,
-  "lastUpdated": "2026-07-19",
-  "lastUpdatedPrecise": "2026-07-19 00:51:23",
+  "lastUpdated": "2026-07-20",
+  "lastUpdatedPrecise": "2026-07-20 00:52:10",
   "categories": {
     "win11": 25,
     "win10": 73,
@@ -27,11 +27,11 @@
       "systemName": "Windows 11",
       "version": "26h1",
       "innerVersion": 28000,
-      "patchVersion": "2340",
-      "updatedAt": "2026-06-30",
+      "patchVersion": "2525",
+      "updatedAt": "2026-07-19",
       "publishDate": "2026-02-10",
-      "patch": "KB5095091",
-      "latestPatchMonth": "2026-06",
+      "patch": "KB5101649",
+      "latestPatchMonth": "2026-07",
       "productId": "win-fa0f8c26"
     },
     "windows_11_25h2": {
@@ -132,11 +132,11 @@
       "systemName": "Windows 10",
       "version": "22h2",
       "innerVersion": 19045,
-      "patchVersion": "7417",
-      "updatedAt": "2026-06-30",
+      "patchVersion": "7548",
+      "updatedAt": "2026-07-19",
       "publishDate": "2022-10-18",
-      "patch": "KB5094127",
-      "latestPatchMonth": "2026-06",
+      "patch": "KB5099539",
+      "latestPatchMonth": "2026-07",
       "productId": "win-6944dd83"
     },
     "windows_10_21h2": {
