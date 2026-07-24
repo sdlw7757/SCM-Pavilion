@@ -1,0 +1,3677 @@
+{
+  "products": [
+    {
+      "id": "win-acf4a2c5",
+      "name": "Windows 10 LTSC",
+      "version": "LTSC 2019",
+      "build": "",
+      "releaseDate": "2019-03-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "LTSC",
+      "sku": "LTSC",
+      "fileSize": "4.17GB",
+      "hashes": {
+        "sha1": "24B59706D5EDED392423936C82BA5A83596B50CC"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=fYVCDeGsyOU__wp-BIoS2yj_faK2NR1FuCsZIfr6-tCjv05FNugCZSVDGh0kX9Kh6z93xo2ekx-qKrI8RIGOcpLzN2KkFONNE0S-SZNmSCZ0AQdjFGnVQjC15JybrWB4vFohKkRsz1n_rcmz3Rrfig91CEFuRXPY&_pid=&_name=Windows+10+Enterprise+LTSC+2019+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-bb15e950",
+      "name": "Windows 10 LTSC (x86)",
+      "version": "LTSC 2019",
+      "build": "",
+      "releaseDate": "2019-03-15",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "LTSC",
+      "sku": "LTSC",
+      "fileSize": "2.98GB",
+      "hashes": {
+        "sha1": "BA2169EDD94F123211CD4AACA68352F1AB6195D9"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=z-NkbmUoWsmzadzit9YeeOBa3yDreiCOqGOq1VGKJowyVwy9Z2tF2Z-dZl1YEqMtlh85wLNNOcITvz8KFn448YRE5251lRmi4vqnn-pqS6vz9gADGmBEr0MhXf_FJdYs-R-89lhR5EzaPQQxeNaBg9X164Ld_Rlp&_pid=&_name=Windows+10+Enterprise+LTSC+2019+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-27497965",
+      "name": "Windows 10 LTSB (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2016-08-11",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "LTSB",
+      "sku": "LTSB",
+      "fileSize": "2.62GB",
+      "hashes": {
+        "sha1": "0422052F25C9C8DF983F3B287F725860AAB907CF",
+        "sha256": "C6F7C231062E190815A7A7C8FD8B80B3CA80EA3C1129A75CF44992614802452F"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=VbHI6U7Jwi4nqisUbxJjs2DsVKyVqXvUghMliUFh7o0Z15GPEcRU5H2AmcGhaJEqRQa0_VzmkHbsOmfLvrGH8vIpGcpB2HrYSC7-3BGUQZxynXuBrStO4mO8LM_hR0FSOtJG--sm2rVZ3gYeh7D-WpisCWFHq_ms&_pid=&_name=Windows+10+Enterprise+2016+LTSB+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1fX5CU_Zhlodky1muIK2hpg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-9aa1fa09",
+      "name": "Windows 10 LTSB",
+      "version": "",
+      "build": "",
+      "releaseDate": "2016-08-11",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "LTSB",
+      "sku": "LTSB",
+      "fileSize": "3.56GB",
+      "hashes": {
+        "sha1": "9E405E950890D2A196565BCA35E152F9CFAD296D",
+        "sha256": "A4F454748D50D2461957D6D3B0AC80AF6E2248614147D9FADC69F2EAE83B376F"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=klpEjZDpEN4foeBntpyXVrcZkzEUUaKt2qAEZhAgmlKCZXiBUC7LyZ28UrrG506RBs3-xhtcdbl8a90G_XpFEzE2O2Y3Tq_74iC8q99l3AxAJTxSAjA7_ugzyzSj8hs62iGESGlklonKEEQDRcqEUwTusPE-bzeX&_pid=&_name=Windows+10+Enterprise+2016+LTSB+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1z5e7GrmAerFiXcUjNL2B7Q",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-6944dd83",
+      "name": "Windows 10",
+      "version": "22H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "6.51GB",
+      "hashes": {
+        "sha256": "2C026F88B826BE82EC0FB5A084B822298FBA026EEF9D8CFF8441E822FC72205E",
+        "sha1": "FA15E803EEDA7F0856203F27DA81AF6468902477"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=eLI_bUx358BNQJP0TxPLyPUxdnRJ3Bas3av9hzP6nvmx27s6RClFCNJYOYvNbeExmKd6KC0s34XthMU3fLB17cYcYuSwviEqEsVf1CofhRuUQ-gPRsYFcD5a90AHZ5XOVXoZBB3EmSO9Hg3R7AjBTgl0Cf9U8Ze3&_pid=&_name=Windows+10+%28business+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/86kcGoFBogc",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/lfM9aDtP",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Uz93xCjsPOvgYFRyLEEz5Q?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/w/i/2qidYnaxL4j3b",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_oct_2025_x64_dvd_d4e92df7.iso|6985566208|B50B6640516921F413482D1D468690A7|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "BT磁力链接",
+          "url": "magnet:?xt=urn:btih:add214ebefa6e473b3aa2012a2051edde2783114&dn=zh-cn_windows_10_business_editions_version_22h2_updated_oct_2025_x64_dvd_d4e92df7.iso&xl=6985566208",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/11sR4Oqe1ZBCDI4ycpbSOLQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0a6f67c44d19",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123865.com/s/MSGsjv-mGKc3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/ZRZjMfzeInMz（访问码：4vsx）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-05546c1e",
+      "name": "Windows 10 (x86)",
+      "version": "22H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.58GB",
+      "hashes": {
+        "sha256": "1A9142046AD47759F5871DC21808F7F78C86F164981FD784E9D7088D035F9F33",
+        "sha1": "D7F506BE3EF730AC55D62D29ADDAB620B125664A"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=BEUTrIwi3Ys3E5Ap3WcUw6WUnOmZG_byUxqn7krT3NkRj2sRicCxIJNoywLL9QOek-moCZ4FYzrPMU6xDx3Cqu39YDeb8dtmrsPVXEIljgR0PFXJk_zscQPQk-dJaCO5AKyb0f9SnBLGbmSA2adoQZPlc-nqegwX&_pid=&_name=Windows+10+%28business+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/86kcGoFBogc",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/lfM9aDtP",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1HFek5nAnb9bmfGaYMy-bmw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/w/i/2qidYnaxL4j3b",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_oct_2025_x86_dvd_80ad3e99.iso|4916905984|3351BCD1C4886435791ECE46522C30E0|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "BT磁力链接",
+          "url": "magnet:?xt=urn:btih:2d37a67fa3ffc1040a84b7e647737652a82f4cea&dn=zh-cn_windows_10_business_editions_version_22h2_updated_oct_2025_x86_dvd_80ad3e99.iso&xl=4916905984",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-43e4d4d8",
+      "name": "Windows 10",
+      "version": "22H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "6.68GB",
+      "hashes": {
+        "sha256": "D9B1AFE76231E3BF3C7E067864CDDCEE669085FA2FD8396CBB6154B11E0A2D3F",
+        "sha1": "452F8C85016FF85439D55B4AED766B0DB31D709E"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=kfc7PBcQVIJGvbhZtBrbphYkXVrEBev9VC8EKNDIha8VZqvGO_F0fp0bAcDdHnRsyLUPIJ6smhxmvrixzgAIhQQrXvoqirkzH6uo8aYhmycXLukalg1IGPEeTyUFwersb4G8B7gXMZYcMaf-NM-1ezh5WLpT6fE_&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/86kcGoFBogc",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/lfM9aDtP",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ZQzuaGrsPFucQajUb0j-ZQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/w/i/2qidYnaxL4j3b",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso|7168839680|C16CA4505649F9128F6F42A1DE2D7526|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "BT磁力链接",
+          "url": "magnet:?xt=urn:btih:3a8a09a5aae8aca84d3990ce62a2c664e2ef5892&dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso&xl=7168839680",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1szhdmIp9rOCHeLjSnZJPSg?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/eabc3b8ef6cd",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123865.com/s/MSGsjv-1GKc3",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/32yaUrbYbmea（访问码：5rd6）",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2025-10"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-3d2f15a9",
+      "name": "Windows 10 (x86)",
+      "version": "22H2",
+      "build": "",
+      "releaseDate": "2025-10-21",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.66GB",
+      "hashes": {
+        "sha256": "3A2BA8548C6BF76926B68FF3013FDD0BD94A42867F0E658CAFF2239EFB5435BC",
+        "sha1": "150C30290389244041515D77B17BEBA6D7B3E36B"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=ygU0DQ1MCd1NMnfFMvAj_83nNTBKEH4fgJ6DyWgulw8LZgYsKhMahsZ5aPhVQ0NMWiIEknpXaQ47jsConXNxedsvy-qgO8a9MrE5nMIYHvy_4TJAX3UX1H3yuEPpiZdQ8yqdYPDw7af6tVMdt55kVW8RtgJvpsrA&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2025%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/86kcGoFBogc",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/lfM9aDtP",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1cW7u05jUvdCBPeqSp4aOAQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/w/i/2qidYnaxL4j3b",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso|5006340096|D47C99F7CDD07F9F00B2ACFD97150B4A|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        },
+        {
+          "name": "BT磁力链接",
+          "url": "magnet:?xt=urn:btih:792c213da858c15828f98d965c3aeb7ef63daf95&dn=zh-cn_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso&xl=5006340096",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2025-10"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-2012a855",
+      "name": "Windows 10",
+      "version": "21H2",
+      "build": "",
+      "releaseDate": "2023-06-20",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.58GB",
+      "hashes": {
+        "sha256": "6E35C5C828B13A0C81D83DF606218CD70EFFCA4EC0DC6EBF905D8E5B2C7913E4",
+        "sha1": "C570AFAA5F068F07FF6E635152F12C27E94B80BE"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=fZ1yUz56p4RyHB2nIVitkHUjZj1-_dd_qAO6z-5wQQMnuiqWc0kbMFtobTDjiybVSVginY5euDmg3I7ik2Xrf_KIo16zuWlmTWI8vsmTuHCUYMvQ-J_uvvQUKNyFdsh5WrD-6Pzg5i1gotEqpsveBIwC9YrxIDaa&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/pjAsaGr43dp",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ZNMjqLqcEnxT_ODiIVmjLQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_sep_2022_x64_dvd_1015341c.iso|5953437696|675DE5A0347441218A10C1270BF75035|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_june_2022_x64_dvd_93f8d9f6.iso|5889005568|0383A1639B72F28B14A19E83DA41A630|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:aad25f5bd96ad09e3487860a13c75664f8b89c8e&dn=zh-cn_windows_10_business_editions_version_21h2_updated_june_2022_x64_dvd_93f8d9f6.iso&xl=5889005568",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_xzfHRhhHyyvd5YEGZKhoQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-f7d6481f",
+      "name": "Windows 10 (x86)",
+      "version": "21H2",
+      "build": "",
+      "releaseDate": "2023-06-20",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4GB",
+      "hashes": {
+        "sha256": "83E71078A46BCC2ABACAC222F39DEDCF413BC89C312B739C84457C7435AE8E1B",
+        "sha1": "DCBA7CB7F9F0FB33BA32ABFD509130B63A400016"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=cB9mpJbiCGfZRqbUZPLa7-CsTHz6laJREyn9Jm7p2diPdaPmW9YZESaQQRC-meX4GXKcfH6tw_6Mj2JVIZpDJO92qtZzAwqBKezQMjOgXqfQ4ryWh0SBYjtagQ2wkV6zbLpe4AskEbDzyRmRjuCkHTCxTalzuXUL&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2023-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/pjAsaGr43dp",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2022-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1uras-sIud34bmjjXidL9dw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2022-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_sep_2022_x86_dvd_4e336364.iso|4271532032|367D93614C07DC0E54E10EC6F8C05F0B|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2022-09"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h2_updated_june_2022_x86_dvd_de305856.iso|4224161792|6DCBBB47F96C2B68228A589B4B23EC64|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:461e598d558406cfe4037c8d36633537582e1b9d&dn=zh-cn_windows_10_business_editions_version_21h2_updated_june_2022_x86_dvd_de305856.iso&xl=4224161792",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/11FXE_BQ_7xOf-TCCf-Uufw?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2022-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-8e49b049",
+      "name": "Windows 10",
+      "version": "21H2",
+      "build": "",
+      "releaseDate": "2023-06-20",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.7GB",
+      "hashes": {
+        "sha256": "9B9C4F9408EC7D1F07119B855E11E6D214295DAFFA487334516A6EA965E686DA",
+        "sha1": "4A57B45682DBED093D3FE24C0F22BCD4B6366715"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=K2VBfSNMM4qHeoJ6E7YzsObPbWa_INvXcHz3-h3tfF9o5rck9M9WXFQbpIYeTr-QggizMBUktIXj4jhpn87X9zU_QL1DILe4540p98x82xBkQzotVwaB5nqhN6VCA1NG2nXADNXaodApYB7p0ur63JYvxlkFgl0L&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2023-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/pjAsaGr43dp",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/16ekuZbzgWq_E10Oa6hOWeg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_sep_2022_x64_dvd_7583ae16.iso|6078312448|1282F44DDB156D88F5490C5BFD5CE851|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_june_2022_x64_dvd_469593c1.iso|6004480000|A1CF0505EC944074F143F4E8A4327522|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:740bc41e5f9d30fe054c50393a2a216c79659539&dn=zh-cn_windows_10_consumer_editions_version_21h2_updated_june_2022_x64_dvd_469593c1.iso&xl=6004480000",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/19Goq5-UCQMxLZBw01Z8qGg?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-1cd9ab79",
+      "name": "Windows 10 (x86)",
+      "version": "21H2",
+      "build": "",
+      "releaseDate": "2023-06-20",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.08GB",
+      "hashes": {
+        "sha256": "1C9A0C73912B3024A95E58599D35695132171BAA3396B294F790C2027A9A0B62",
+        "sha1": "1434C1233D0ADE0601A05F3F6017C865D8F90A75"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Qmq1qjN-OykceNAn5nY4NTJlBQRSGJANcYuXRMgdKqlb1GG5tYEb6U7hDWxnUyuqmWlB4OVX2EPzUsa6feLpejs3UXoo7zirI-yB7SpskJlZem2OzOA3g4v-yYmseKCM1JZHSfRZX558CKFJbqZdzlXM6S_Y4DZC&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H2+%28updated+June+2023%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2023-06"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/pjAsaGr43dp",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2022-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/191FVgc5C-73U-pvg3leE7w?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2022-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_sep_2022_x86_dvd_8c72014b.iso|4350418944|9E578E950CF765571085EE4B4178915A|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2022-09"
+        },
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h2_updated_june_2022_x86_dvd_2106cf02.iso|4310464512|20A8E347E932FFF8B2E7877A001C314E|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:311c57c026132cdbf7d5559f9ebdfe9762cda1bc&dn=zh-cn_windows_10_consumer_editions_version_21h2_updated_june_2022_x86_dvd_2106cf02.iso&xl=4310464512",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1YYq7JsdWfh0OQOjO1S9NDw?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-aeea47ab",
+      "name": "Windows 10",
+      "version": "21H1",
+      "build": "",
+      "releaseDate": "2021-09-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.32GB",
+      "hashes": {
+        "sha256": "F9BEF0CC4C558785B753EBA8EFCDE3D5256DAAC124C27636FFF7D93020F66FFD",
+        "sha1": "3A656F7209547468FBB5B794D78F216C7603E16C"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=S0U4GWnbdYX_gdoUe0X7XejbJ0GNZUP2azufMzN3VCzyMGMYXCvNXceacj3GZqT0pZIwtxPR_SZblLQeNQ4mpxsokEtwycFJBSEWJwr9a0Y9EBQF65DDw2PJiJ15tvUkBOGhQdcPOS0NKg_Cudy9shd7r6h8HNPf&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Pf0cAeXzqr1Xu6Ay_kEAcA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x64_dvd_023d42d3.iso|5709488128|B09B1BA01F76C80E2BD8E798C9E89E7D|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h1_updated_jul_2021_x64_dvd_f49026f5.iso|5682900992|D68E08920C0BD9295B8CA31FF72F1308|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2021-07"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1b4exHECiDowayIiIIH2EfQ",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2021-07"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-06340c05",
+      "name": "Windows 10 (x86)",
+      "version": "21H1",
+      "build": "",
+      "releaseDate": "2021-09-21",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.86GB",
+      "hashes": {
+        "sha256": "CD6343F48457B3BC49083412AF5D22DB78E7773DAC9C04B1004C6BB2A8685900",
+        "sha1": "4DBD9B92E185D3A07EB802FEE2FB42FBCE707A0A"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=vWShbGnIgjvWUz215GiLNRCQulGEtBqd93sHeb1bh6AePJnYjMZLcSVkUTkp9tYNs2RuaS6dvAStKaqmzbcTKzOMYfmwiZZ8bhTkCtNVEQA41sK8AFMOaeJxlOSCoJAH1E4X0TxvgBArpWUUqFjd-wXcLRajLRhi&_pid=&_name=Windows+10+%28business+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/12Q3wIlFjdkQWw4-d3T6t3g?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_business_editions_version_21h1_updated_sep_2021_x86_dvd_3a0314c9.iso|4140279808|01B1F60FBCCC8BA61F0208D0F4957949|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_21h1_updated_jun_2021_x86_dvd_221c0541.iso|4126455808|93F9F107810DC0C0615C4C7CF1CD0E7D|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2021-06"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1Q2UF737Y_nnMnUt2vIdlJA",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2021-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-8dffc08f",
+      "name": "Windows 10",
+      "version": "21H1",
+      "build": "",
+      "releaseDate": "2021-09-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.42GB",
+      "hashes": {
+        "sha256": "613EC08B7B23361220AFC02F5BCF1A2FF21499F56567C7517EF04053394DD26A",
+        "sha1": "38497D3F479F6A31775E55256D02D224D2BC9F30"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=s17TiuO-8L8M2rGVh_-VR25ufc55eEXD9kpmwEDeyRYX6km9_AcYytvgHpUccG_7hZgkFU78lL3hzNpsJer792IJVmASsoKg6jDt_Yt86mjX62Q-t00_DSE7LOA3ty8onXGIh0nDgxjslIiMXQjEQARr1I3AnAh2&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1xnOHRmK235vRInQ7unREeA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h1_updated_sep_2021_x64_dvd_991b822f.iso|5823694848|AC1C0056604BB66643A25360AF585A7E|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h1_updated_jul_2021_x64_dvd_339520da.iso|5797066752|5824D69CFA131271621E8340EF745725|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1kKaO8v8Qzl4353nlZkBI-Q",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-d650b6bf",
+      "name": "Windows 10 (x86)",
+      "version": "21H1",
+      "build": "",
+      "releaseDate": "2021-09-21",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.93GB",
+      "hashes": {
+        "sha256": "9B16EE0AA76F85A0FC017A3236CAAA1D8CE4BA1C07F424764F3501DAE5C167CA",
+        "sha1": "13F7FAA8C3C56CC2D57A150AD548619229142E68"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=uESS7k0e976ZRtyF0V_pMD6DLFlhfud95d0Bgp71-l5d2bBvBkL84wx-CQNaEa2C9TQdAtyIDmo9Grhnw9laIVs8Es3HocCs3BetcQkMNesyhLkjfo1mm8-c7kJHCdHflLtmpCYzyZptvIdF0XXl5BIZ_HJB6jw0&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+21H1+%28updated+Sep+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/185VpgGK8zPq3MmRR4cG9Yg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h1_updated_sep_2021_x86_dvd_b64c8b01.iso|4221437952|9E85D3EA2D467AB36A9B0DDD6A7BADE3|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|zh-cn_windows_10_consumer_editions_version_21h1_updated_jul_2021_x86_dvd_84395ac8.iso|4199538688|10CA67918A3FECCF4B55F0D24F85D32B|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1gDPqYUtuk7nbQliifvc7CQ",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-687cbfe7",
+      "name": "Windows 10",
+      "version": "20H2",
+      "build": "",
+      "releaseDate": "2021-04-20",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.74GB",
+      "hashes": {
+        "sha256": "BDE6B20DA09C98D5A168725981163DA87290EE241B37543D147D64124A144873",
+        "sha1": "DF9154C57636C65EB44DB5F2D520196FEAF55DB8"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=cPXWFJ-Vply6_ziiBO2pU_JS6MCYp4c58G_BjVUX48RM4LwoJhPw7c49EKEvt8TMFQvqYTdgqALR2iRM23idwnEJWtf4cZ4xskI4-YVmX3HQ7NDfpgfpStM5lvpvQCluKMQu-Y4wwFDzRRpq8TQmsk_IJCDgfBD1&_pid=&_name=Windows+10+%28business+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1XRIcHAi213WV9EXD-r9AgA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_20h2_updated_april_2021_x64_dvd_0a0fc490.iso|6165831680|9B4B918A840F845A43DD476FCEC3E421|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:7B2619ADF4319D3AD93F0BA195805D34280433A4&dn=cn_windows_10_business_editions_version_20h2_updated_march_2021_x64_dvd_ca61aaaa.iso&xl=6074574848",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2021-03"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1OK5O3mD1inbRhex6KoiqMg",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2021-03"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-54e68764",
+      "name": "Windows 10 (x86)",
+      "version": "20H2",
+      "build": "",
+      "releaseDate": "2021-04-20",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.23GB",
+      "hashes": {
+        "sha256": "8D26408385162D396F049D354718431E3753C994967E2D1D883441923330E54C",
+        "sha1": "52F79CEEE2184976478767F6C0E6CDFB60AC0064"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=qFtgysIlz3_z8XPh-5BoydcaWLNkJA6NUkNWsBItPtOEsnugN3bcr3CUEfLhFbAgdZP9MZsvxAnHBE9m11ny_Ka69wwV2zhy2z_zxxo34xIGBJIg2sHPtg3SOLwEtqoF2JTKNYoteHGhdrJ3BbvdslZ7ImdEzli4&_pid=&_name=Windows+10+%28business+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1suSglcFlKIDUhTUkv0jtmg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_20h2_updated_april_2021_x86_dvd_0e94b33c.iso|4538742784|A738DBE77137DB9AECD8C5650001174B|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:3C81ACA97C5FB1BFC9D99E4DB007374BEA0CFE8C&dn=cn_windows_10_business_editions_version_20h2_updated_march_2021_x86_dvd_130708b1.iso&xl=4442451968",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1_eDcyJE_1-xPqZubvhhFDw",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-99bd047d",
+      "name": "Windows 10",
+      "version": "20H2",
+      "build": "",
+      "releaseDate": "2021-04-20",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.9GB",
+      "hashes": {
+        "sha256": "4224BF4282B4979ADB5348CFD2755F2165BE44B0F5F33392790B732A447E6FBE",
+        "sha1": "5B0AC1265A339D1F72DB41A21283EB2839642020"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=qsUMm55mfty9HfUYB-1uWinp4kISQoq8PI4UIW810STZx78RgfA5wpEqH1iBG3e42MAi2oHTKtXojdt4Y2HX0JU0QrE-BiwFtRarG3lRTHo6NyabdGH9e_TZQ14g4PosNdt2avY5qK_8JiWAcn69c0ecxLtUIcb9&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WngUuKu4BXJPdp75QeBkDw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_20h2_updated_april_2021_x64_dvd_ace7e59c.iso|6330411008|94F8A6EF403063C48EC5267133B7A3E1|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:5E572DCD268B36022029D4B9E0E8EE318C2E6D11&dn=cn_windows_10_consumer_editions_version_20h2_updated_march_2021_x64_dvd_44f9742b.iso&xl=6239178752",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2021-03"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1f2tGMDY50snqMPBYh_W6fw",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2021-03"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-181b88ed",
+      "name": "Windows 10 (x86)",
+      "version": "20H2",
+      "build": "",
+      "releaseDate": "2021-04-20",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.32GB",
+      "hashes": {
+        "sha256": "EBB28062549D6AC484C7FE1E183E69687831938CA5E4685D39EF053A25A94998",
+        "sha1": "8210466DCBF591A63E7928779DEF08E17A362CD8"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=TEVtRawx0ltweoqaVRUHAYqYgbFo_yjmxdyZvN9r8pXS_aBenHLHjHSyLsKerpCoVWOpogwEGd3hkqk3Nl_ej068w79xSHH2x6Qo94Bc7drdyCEvjBMjHEVY4P58MjX1q4pijM5CbNcxTlBWwmlXT2DaDGrtGr1p&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+20H2+%28updated+Apr+2021%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Sx7IVGqpFTfVzXPZYGTipg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_20h2_updated_april_2021_x86_dvd_f483b6ca.iso|4643172352|355CEA37FAD577D7283AB3739E1F7D6F|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2021-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:AC6BE2C5BDA510944C7DF39CB065916540DA5C6F&dn=cn_windows_10_consumer_editions_version_20h2_updated_march_2021_x86_dvd_fc7fc415.iso&xl=4549464064",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2021-03"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1FTg2N1W7H0xDLdURHbD6sw",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2021-03"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-1a56df63",
+      "name": "Windows 10",
+      "version": "2004",
+      "build": "",
+      "releaseDate": "2020-09-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.95GB",
+      "hashes": {
+        "sha256": "E9872C5A571624E9FBB6B660B415FD214DD67364AE2A584ADBC4C1D037E565F7",
+        "sha1": "BF0874FFE0FAE1C557E65F49B83B5E83BE7DBF24"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=IGhMtp56vAe4yzDkvBMj5aJcGT0qDms9m5FOdCSTTSx9lUtjboh2RF9Rh2TvbmMOWzWUEVS_Yi_MnUsRSh2zHSMZxormLgXcN9aXVC7uM_Op-p33R7SLp2br6pYF9Rpk4XawmysdSi-ww0wtiZJfQs9D_nDEzb0d&_pid=&_name=Windows+10+%28business+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso|5313628160|7CF0E7C3324B4209663B8B971A5ACEF2|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1_3XVgTqjHiL3qWSsUPM5cg",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-7c0a9319",
+      "name": "Windows 10 (x86)",
+      "version": "2004",
+      "build": "",
+      "releaseDate": "2020-09-15",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.55GB",
+      "hashes": {
+        "sha256": "84D98216B2B15713B56692CADF1106BC0ABD47A15AD60AFCA73923A8BBCBB144",
+        "sha1": "3DF30BEE3D105E5B5F70204D3E7402FA61C4D937"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=T4IkvY-u0xAkzNoG6gdS0p_B6LjLr838FRhPWhaMFym0BopoxvDj0q0XsBLH00aHz6x5T6koEFy5VDOq6P07Pf9SUFrm6FsgmGAYh9QIoF3_WDy5IoJNMZscw0I_GZyNW2hIyczHacIBAb2giXO0_yyf4vqzB8GS&_pid=&_name=Windows+10+%28business+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_31186d54.iso|3815186432|AD69BE7D54BA87FCDADBDF5054249094|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1owbfF0tRY4qywUPlT6p7Hw",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-e834b238",
+      "name": "Windows 10",
+      "version": "2004",
+      "build": "",
+      "releaseDate": "2020-09-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.05GB",
+      "hashes": {
+        "sha256": "B4306B451599A0B98BE02DAE5EA54D78CBC0F3CCFD7CEE6EB54F7744BE3350D8",
+        "sha1": "B5121926EF2FBBA7F198E30F3D7F293A20A1C144"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=8S5ruKCrvYVLl_me9H-TZdywPzRN4e1Pi7jstfO0yMk9yN1l2zFOK83SGejfXF5DGhvvJVsGDnscVolTESXblFHJiah4gobil7miiBa8XTL94Y_mJPNkA7MDQ34B4hNk4dlkldnsITJkvFQiqi7VysipqZK1xp4k&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_049d70ee.iso|5424910336|9100F2CD41FED19B3314FFCF182DF026|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1KBxDuPOHlareTr39TpgBYg",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-29ed9b68",
+      "name": "Windows 10 (x86)",
+      "version": "2004",
+      "build": "",
+      "releaseDate": "2020-09-15",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.63GB",
+      "hashes": {
+        "sha256": "EB65235F9CE130CCF604B118BECCA84BF7CCDD707E82459E693F63E253739DFF",
+        "sha1": "FBF3932595AF8ACE99FF9F1DAA353F5F321C4630"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=u2RxoBfSYu4WEXPMfyTJDGREAi_Sfwacqw3jtQMz_ji3a42xtcJGeMs660mOZjOdxIrL-5k5Rke8oGfWjEiRIun0U9CmZImk2bK59V5qVexzW9l_cHYdVP6ceK6I_QiEn6toauYMIIuJJUb12SC9gssvTOwNSZZF&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+2004+%28updated+Sep+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x86_dvd_8a8fe8c0.iso|3893041152|B6C95CA453EE875C0C4A6F19125FC5D2|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1TgoDLSnSk7YXTgpYiQWQ2g",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-0071da7b",
+      "name": "Windows 10",
+      "version": "1909",
+      "build": "",
+      "releaseDate": "2020-04-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.05GB",
+      "hashes": {
+        "sha256": "85B544BE019D9335D137F58B3442BB1150ECC2520C2C168717765A0B9D734394",
+        "sha1": "7E62BA8BC2DCDFB970F5B77965F0D08D6228DA1A"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=evKydf6sisDjX3iTK9YnSkeDMQjaLqbvZoil7y8Af9UdkkS3f9iHZtMvtSR3E16w9BF6_iH4BPJhtJcUoX3WadjUQFcI5GCt2ZNybqbkq3z9NBKZLUuK1a3cRyU2YKczg1vtGv3E00858lBuE9ZJaRlsChvaOiE-&_pid=&_name=Windows+10+%28business+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso|5420953600|84FD19F3A4E817CE6037ACF99F8B0401|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "百度网盘|jmjw",
+          "url": "https://pan.baidu.com/s/1zLaW_yq_MWV-T6m8k21GZQ",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-04"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-fdfbf4fa",
+      "name": "Windows 10 (x86)",
+      "version": "1909",
+      "build": "",
+      "releaseDate": "2020-04-21",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.65GB",
+      "hashes": {
+        "sha256": "B6409A03203C5DE6B3A9EA4A1E7B699B27DC127BEFBE4FDC8B2B9FBEB55D284D",
+        "sha1": "6A93B92793E0875CEC951E2096D97B348B9A5879"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=6rtpua0psOapFEEiskb8SUtkSWS33AF3zDpH6BYN1No2X6kVZRnHwGBXGibB7scUUIxPGTM_Tt4WJ6EkijXUe9vDGEhMVcHT28St06Fj0EZ2Vmo3p7-UE5f88bBwZUo9SNTy-Wd7GIHOA2R_0qgA4guMpoc0pQBl&_pid=&_name=Windows+10+%28business+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso|3923351552|A1BC6B5D4730D05020C3AD936118CF91|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|0qed",
+          "url": "https://pan.baidu.com/s/1RN5wY6gzhbRMsstsar2I_A",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-4fd95d7e",
+      "name": "Windows 10",
+      "version": "1909",
+      "build": "",
+      "releaseDate": "2020-04-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.16GB",
+      "hashes": {
+        "sha256": "3BA759CB91A1D7F363B8C81618954968824BB7F53776930816109F36620D17C9",
+        "sha1": "6CEF4FCCD7556D8F9BB112F636C3ECDBD2F5278C"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=VBu2ipEBzeoUCJxWlebL9JNg_8-k_1GiTAlqfhGbK_UQ6QC7cvy34riF-e7HF1qdpYhYsw9I5eRB2843TplT6EI72xkqXS7wPbwWLeqMJ5IK9v-6kilufHUOr3YQwh9uo3s-g74-i1HgW5J6neepKAyneW68dOYW&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso|5536696320|7186FF25DD5DC27C951F20945360A3C1|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "百度网盘|7b90",
+          "url": "https://pan.baidu.com/s/1r6ya1JnMgmpgD5JJQnhBvA",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-04"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-4a30c75f",
+      "name": "Windows 10 (x86)",
+      "version": "1909",
+      "build": "",
+      "releaseDate": "2020-04-21",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.73GB",
+      "hashes": {
+        "sha256": "F25D936BC6F27CA3B3F8ED930CB6A4ABCBC477CFA6E6B690487B844D8565DD8D",
+        "sha1": "611D5E68936B4CEA6DF6DCAAC1730C9F83F7DA67"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=quK2Aswn1ZVU7ktchib6ojlWXAfplUCOkedC4hZUot_04roNAfgLebTgCicqYE5Sn4ZH22Sa8ltY5qRU1kZo48b4CM1Bwu9DWteF88Q5bDpbwKDY4eLM40HpKXxr8tWMnk5TqpgfthvNC41IgsGfv2MGj7lFPT-G&_pid=&_name=Windows+10+%28consumer+edition%29%2C+version+1909+%28Updated+April+2020%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso|4001820672|3DF6FEDFC3190AD9267D4F5A97882AF1|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "百度网盘|5ubt",
+          "url": "https://pan.baidu.com/s/1WUTbdaWT_gqrNbnxgAcJ5Q",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-5903ebf8",
+      "name": "Windows 10",
+      "version": "1903",
+      "build": "",
+      "releaseDate": "2019-11-19",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.94GB",
+      "hashes": {
+        "sha1": "B27EE26DD4A486AA290F060C79302DDB71F039C2"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Nx1C2Vo8lKJn0ssas7r-9GHcsb3KwR0SfJTEbDvOo1Iluz6vUPZ7sbGTGQbXipVx0JOJSd0pJ_kf5BvkU2gjSmgYjSEeYkIzGWobhvVme3vIPx9IUb7V7sISQ-vCf6RRgD0I70om2zvtFi6u56kV_IuVySn_cLlJ&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1903+%28updated+Nov+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1903_updated_nov_2019_x64_dvd_59670fa0.iso|5299363840|09A8B4CA5A06F4A69F580BB92E72C365|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1KqKqnGr54syddupp5atvMA",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-db764279",
+      "name": "Windows 10",
+      "version": "1903",
+      "build": "",
+      "releaseDate": "2019-11-19",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.04GB",
+      "hashes": {
+        "sha1": "84CEABC065B49A54334DA4ED540630FA4A66AD66"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=eQJxPW4oXMxG6Ct7x5VkL62DL-xetq3Pu04B6sh_CWGxb3gVSXcZd5grZs8TDLRQervBwULsnn5IG0telx9nIFhSJh5rB3MxjDnsK3a38s3n49y6raidICT8o2ES0mpkRrSS8Qw9qILvbmCK7q1pHs6vOZKyaclo&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1903+%28updated+Nov+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2019-11"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1903_updated_nov_2019_x64_dvd_055b3530.iso|5409650688|EBA2C4E4A7B30C55FA9C042DB7461675|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-11"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1fMhLAw-YXhowI8S9N7O1hw",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-11"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-0bc6e1d0",
+      "name": "Windows 10",
+      "version": "1809",
+      "build": "",
+      "releaseDate": "2019-09-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "5.07GB",
+      "hashes": {
+        "sha1": "975F1B3ACBEECE56B5AD1526345A0657109F4043"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=W7AQp19GK918DDCUTMxC7Q-8EoVh_l8-1PDiAT5Vm_Bw3EWZwykCjZLR5_9LZfDT6VOmNto0k4D1p5fwHAyFYXA_3MkvhKmfg-Ae62AFIjFiK3IVjroFgC3X5GG6R_RmkwtU2N2tf0eB975OhSBIf4FB2UZJ8_hx&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1809+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1809_updated_sept_2019_x64_dvd_f873d037.iso|5444462592|BF3C1964141BCF6ACD40EC6AAF2A0940|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1QUCRKQf-h8gTn7s18K6NSw",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-3551176d",
+      "name": "Windows 10",
+      "version": "1809",
+      "build": "",
+      "releaseDate": "2019-09-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.19GB",
+      "hashes": {
+        "sha1": "86BB431C68F38AEECAF925C8C42D130F5E747C02"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=yRWFrGqrQURGX7D04-yvPY6FfPEbeXOpcL9Qcz4BUhDUHt-P-nnZyR5QaAtPqQ4WTw-VxOPhxnerv7DBR1m3QA62jSaglb1KjGqaX5YbnxontcHB2ecNE5NLPRvde5u0AJGi47IUlkpfvme8LeRcd8gqWimfgTJs&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1809+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_ecb7b897.iso|5571874816|915CADD0234B759920255AA8CC5984FB|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/11j3ErTl3Zgy1K0qPcY5L3w",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-755f547f",
+      "name": "Windows 10",
+      "version": "1803",
+      "build": "",
+      "releaseDate": "2019-09-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.99GB",
+      "hashes": {
+        "sha1": "02422641F2E9FF5D03158D1DEBA4F60E0334E598"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=s8xtlxaw31WjQblVx4xUGJB2QQbbW3X0bogzaEJuu8g3eciZa6XxmYdvfhYof8tIrHC4bSm8Vxuaunax6d8OYIcWPpwbMgisYsjaOtXKyK1N_xpNkz-yKKnjFHwpCN_LD7bDiTGuw7I3ATZibZgDMqQLjlFctNSt&_pid=&_name=Windows+10+%28business+editions%29%2C+version+1803+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1803_updated_sept_2019_x64_dvd_91248a41.iso|5359147008|E4C3B32A46D09D969E79A3FF05CC893F|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/11Uu4y0RLoINvN54YI_Vfmw",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-544f2781",
+      "name": "Windows 10",
+      "version": "1803",
+      "build": "",
+      "releaseDate": "2019-09-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.06GB",
+      "hashes": {
+        "sha1": "3D86BFB2359FB6F58F196FC2146B0CFA9571B357"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=MGQ9aP2E5wuQBBzrCJfcP7pcw9Hp4wLwsek_Y0SlMc_RcikKBhAEgN_W6N2_cQlJEPSSF-bfcTrXNtX_JhT5W0mictYV8k03rPvpyCFhjU1jNuBjuQU6EZNOwKwD5wIADUzmsvQnxVKto9TgaBI7ia4GSzm-IKem&_pid=&_name=Windows+10+%28consumer+editions%29%2C+version+1803+%28updated+Sept+2019%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_56edef2c.iso|5427798016|5F38E07E290ED1FBD6D612579A104DBA|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1oaGnBuStpvx__RMGkfvMPw",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-10183c09",
+      "name": "Windows 10",
+      "version": "1709",
+      "build": "",
+      "releaseDate": "2017-12-19",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.88GB",
+      "hashes": {
+        "sha1": "5CC6E158A9D90B9C474ACE8A55B66F88BD16221D"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=YQCo_71R1JcA1XcU5w94uZ1YbrqaMWHY8LT01mmmIDvxSlZ_4ekBnCz9ZqLkNCx5TB8TnsK4bH-oi6qc-5E4jcC-DC_SstuwziOt4hTaKCJKUJNaQKCbo9-hQf3hwUDHInS2iLf1wC0GAsDUHfu7IPtSY4mSiJjA&_pid=&_name=Windows+10+%28multi-edition%29%2C+version+1709+%28Updated+Dec+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-4cf82411",
+      "name": "Windows 10 (x86)",
+      "version": "1709",
+      "build": "",
+      "releaseDate": "2017-12-19",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.63GB",
+      "hashes": {
+        "sha1": "EFCF3B81076990951DCFEA08AB387E9099813CEB"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Qj5sIMbv2Nc2P2iqvqkeU1XWxdcqdOPLlDXU9nuYXEAPA5hyiyT74CrTwG19vptIjk0PLBa9vuZZlNAOz-r_rpkBSltDgoW_v-Z9Xn8kWCix0FuMhBajeC237IGlHLyhQfgZ4m4xaRhc2inmIsUyqJ8RNyQ8cBEH&_pid=&_name=Windows+10+%28multi-edition%29+VL%2C+version+1709+%28Updated+Dec+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-02756db1",
+      "name": "Windows 10 Enterprise",
+      "version": "1703",
+      "build": "",
+      "releaseDate": "2017-07-27",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "4.71GB",
+      "hashes": {
+        "sha1": "D1B4BA887936EAEC41D7A4F1ECD836FBA8DD0BF9"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=q4YujG57bEVr99BfWPY3hE_Fax9P-8DBHVg_tmRSC4EBg8HRE977ble2I5aEmtjTLx6HV_HVhRjEEJnGcTHHDZfHiPzSb0EO8PkQ30K5svTjecfjz9qF6JIOvLLwQLXH8JgtexdU9kGP9QmBjfCs8hdkom-JuDWZ&_pid=&_name=Windows+10+Enterprise%2C+version+1703+%28Updated+July+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-725f87d0",
+      "name": "Windows 10 Enterprise (x86)",
+      "version": "1703",
+      "build": "",
+      "releaseDate": "2017-07-27",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "3.53GB",
+      "hashes": {
+        "sha1": "F715426F60226AC70417875FE4DFA3766D0C1E59"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=f-7iGeFhCYbUvLPyCzI5Oieizd5nkBh3nfmhlU7c3z3vFjhcQpwem_0rP8WTLD1wBtKh4EmTcl7i3JcfEF68FlR5V05D5oDroPEEwOW8ttNsusQZkqHxcigM7nb7mED_xkGMpowBGGzmKvh2xgnStqmBp-E0rsnt&_pid=&_name=Windows+10+Enterprise%2C+version+1703+%28Updated+July+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-0a04127d",
+      "name": "Windows 10",
+      "version": "1703",
+      "build": "",
+      "releaseDate": "2017-07-27",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.45GB",
+      "hashes": {
+        "sha1": "77051E8DEF254447BF91003E581317382D979B7B"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Nlc9NfNGAL8FnkoO533noY_k77vMrP6bDkqNOc8kv78y8AumLk2bu9qT6KUn-rYiESWtwbOYDDW2Ntij1wAFAcakRXrml4gxjWIxh-gKygAPEYeUQYyXtY6eELKpDLeyeZN3RWdo16U2H-pMx5PKr8-PL2fuArut&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1703+%28Updated+July+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-88c1bd6f",
+      "name": "Windows 10 (x86)",
+      "version": "1703",
+      "build": "",
+      "releaseDate": "2017-07-27",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.11GB",
+      "hashes": {
+        "sha1": "CB9D41095FFAA29D39928085396632F43F60D4CA"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=2WNrlL55ipkxVkg6IC2wFho02AeBE62x3kIn2v953Ja15PpXOtR6n6uQzMl7hicHeAgGn9WBiRb5m3DXjvvTNFK8eXBk9J8Ox3tg7T-JaHE7hjpE-7a3PhIl2tJGdsEj5O5X2u1pcMBTcuckDXWOPFX5-hhHNFVS&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1703+%28Updated+July+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-e532efe6",
+      "name": "Windows 10",
+      "version": "1607",
+      "build": "",
+      "releaseDate": "2017-01-19",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.42GB",
+      "hashes": {
+        "sha1": "163DE39B1E40C02C1E774BBFF6448FB439F61AC0"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=IBcaVUZ7A-ND74v5P2L39RKWt1oo8eoux_gjy9UpjIywzlW6m0PycVFAqNXwcW3bDaZd1Y6H_DUKdSzLgw7Yot_EQvtcOqy00KAIPdbFcO13qbdWzBn26ozb5bN6PoVWCyoI1eOaYj7yjaUFQpscPTTGIQhvnQXF&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1607+%28Updated+Jan+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-39d3c9cf",
+      "name": "Windows 10 (x86)",
+      "version": "1607",
+      "build": "",
+      "releaseDate": "2017-01-19",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.37GB",
+      "hashes": {
+        "sha1": "28CD2AE3CE63144ACD8FB2BFC19D1C96B55FBEC7"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=XQ7GqndklVnPZxFiV2OeuyddYhPFhy58MCGfiuKFlj8rqc7nfGDfU28jrNDxWIdD7hXDci13r0KGKt1GjDjhYYRA6IngJnI7Qno5mngN6duhf_GqzIYLSzirzCiB6yeN2DgQc1XADBL2Wfw0Os9e_e2agZeREJei&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1607+%28Updated+Jan+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-2071436d",
+      "name": "Windows 10 Enterprise (x86)",
+      "version": "1607",
+      "build": "",
+      "releaseDate": "2017-01-19",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "3.1GB",
+      "hashes": {
+        "sha1": "E830FCB0E2EA69C8F2733479FDB05778456C63CE"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=JB3XSWsPoa-uFHJNWd2pxo4yO5xRE1-rCiXHK7Dq1C2JSDExM8gBHUY91uPBEmx13rUFcNwlN9o3ZJHkRakgsoZWqvHYtwZE9NSjRN78ER0yhB5aT0Ah40Hee-Ve6sA9njPkRCCxQ1JocI8zqxLNYIb3MlKX4UGb&_pid=&_name=Windows+10+Enterprise%2C+version+1607+%28Updated+Jan+2017%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-cdc26295",
+      "name": "Windows 10 Enterprise",
+      "version": "1607",
+      "build": "",
+      "releaseDate": "2017-01-19",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "4.17GB",
+      "hashes": {
+        "sha1": "570A5347A2318C533891967120CC21451BD8A6BA"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=_X9fFGLMrYf9iUOL22zy7l72dhoZJvmml22eHxW-Z47RrUHIC5AKv_nEzhcvfomu8nIgmNf_XEmdLM_Iza6EBRJCquvPSgBTYkuGVU5MOtACJEhjCfS1jBiqMs1jthBgAcMN0cmKlcYYwk3uwBzPO1b4riBa5h6H&_pid=&_name=Windows+10+Enterprise%2C+version+1607+%28Updated+Jan+2017%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-241f4b6b",
+      "name": "Windows 10 Enterprise",
+      "version": "1511",
+      "build": "",
+      "releaseDate": "2016-05-23",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "4.15GB",
+      "hashes": {
+        "sha1": "CE10EE453BDD40D04D9EB8A65D0BE46B8E1D8916"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=63j-PnHUBUbGfDTdt6a24D4YaIJFjrwJGI0t_xUHX77vIe95qUPA7dkRYgbKM5naLLQUAC11Leo5f8bK5Lwchlyx5FQUTpben--4L4Wr75rrWHmaZHd14h9vYwLhfcWYOFiKpiPAUlwbOHegPQNgOfIVDNk4wXaE&_pid=&_name=Windows+10+Enterprise%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-08bd2ac7",
+      "name": "Windows 10 Enterprise (x86)",
+      "version": "1511",
+      "build": "",
+      "releaseDate": "2016-05-23",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "3.1GB",
+      "hashes": {
+        "sha1": "6C0CAAAB92E01B9DE6D808C6DC50E87FFFCB5857"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=fbD4E4mSwYvxSBX5hXFlDfxoMEH7xJqjdbBv1p0ez8Rv8oz09_Fj2GGbqgrIaJiTwouAuqNK0t42UH06dJcnC3HIBtedi1oYeurg654mnrVFSywi_TpsW9uwiWzhkmMD9Fi0Rx8EDR_oD2jfGPLB_OvrgRPaIHOc&_pid=&_name=Windows+10+Enterprise%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-7f792dc4",
+      "name": "Windows 10 Education",
+      "version": "1511",
+      "build": "",
+      "releaseDate": "2016-05-23",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Education",
+      "sku": "Education",
+      "fileSize": "4.15GB",
+      "hashes": {
+        "sha1": "762FF610775B27309CD2F4EE1759D05BE9425A5B"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=rRIjIQmklHNx4R7Om3S9-Qm6yeOK6L_AmHwR8-wyWjCBkx3o5qREV085VzsuJ3vNWJPg5Dx9DJAh2eX6QKkzxnz2384iImzncE6HzUi5JfMqpWjEmMWqcjvb_RrDL21EvxmzdTX8W4q1Xq1tKLyb2bepsnqQSllZ&_pid=&_name=Windows+10+Education%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-84950c4a",
+      "name": "Windows 10 Education (x86)",
+      "version": "1511",
+      "build": "",
+      "releaseDate": "2016-05-23",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Education",
+      "sku": "Education",
+      "fileSize": "3.11GB",
+      "hashes": {
+        "sha1": "1BD2334B986AAF6E5AD90BF677CD50DBE9D29F3C"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=COTZ8Epk1UF-2OUmdfH9xjr5c2tjsa_jh9xFPruCy2towCiUyKhDeIaoU1dzk3gruI09MCPJQEucZXYAlIM4evlX0WhycOlYFQxOQ3qSfj6ywOm3Hpf6xi3n-ptiOF1vUF8bEFfXxHMrdnO2logm18sSDrGSKdrA&_pid=&_name=Windows+10+Education%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-467edbec",
+      "name": "Windows 10",
+      "version": "1511",
+      "build": "",
+      "releaseDate": "2016-05-23",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.35GB",
+      "hashes": {
+        "sha1": "BBED33CC7BA79F94DF330F331BB76A610AD7C133"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=bKsb7NL_zfIIILR9NoZGKEIizRdAJwjl6wCNue7G5GuBAu8tbekskVv3HE-PYIILct3L7mtocjcp9GQ7fV30nBcN0zKQBcqH0VVAokI0R-yFXuXZnoBZfzlGdzb4MWIjFhrONke9iLoC4F7VcXLuQovKSbsYa4Za&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1511+%28Updated+Apr+2016%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-f4e81653",
+      "name": "Windows 10 (x86)",
+      "version": "1511",
+      "build": "",
+      "releaseDate": "2016-05-23",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.3GB",
+      "hashes": {
+        "sha1": "D070DEE253512267ED8F0F1039DBA121531725DA"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=_Xkvd3lmq_nhEaOmWkPg7d8SDQZU2CfGSbY_VRJqwVM4uKuhdlkCBkwFento1RRDlR5Agfu0ZmtyorH4HBRTCPuOjW7TgJFzwn7vaHoJnU6ci7hCsk2q5h00aZJ95ZvKU_PXSsd92UL6AoXhur3XAAO4vH7XMgSF&_pid=&_name=Windows+10+%28Multiple+Editions%29%2C+version+1511+%28Updated+Apr+2016%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-35090055",
+      "name": "Windows 10 Education",
+      "version": "",
+      "build": "",
+      "releaseDate": "2015-07-29",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Education",
+      "sku": "Education",
+      "fileSize": "3.87GB",
+      "hashes": {
+        "sha1": "C948D930E229AB277AAFF9233CBD46F125AAC179",
+        "sha256": "9860FF2916E250192DA2EE011F05FA5EF122F9D3CA23E15ACF9FC910453FAEF7"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=q30LXKeWUYmTCdKFqdPWaNJziLbvf42_XomZotC5mNKh_KO-u90ezyK8WBQA_qJD9OkNSOCeIbetCx_789u31GgY1M4eGlHncj_rt-XQ0EPrlEQbVr8IGUIxjeJLmcVFk1YoWIlzMziFb2HHlYaI3d85hSJIqKfD&_pid=&_name=Windows+10+Education+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1o5K074xdYPHNfz1SYHT6MQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_education_version_1703_updated_june_2017_x64_dvd_10720997.iso|4943917056|EC41C7986E39B42C028B680A0F139278|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1_Gjz44FocBKy1tjKEbBMZg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_education_version_1607_updated_jul_2016_x64_dvd_9056220.iso|4150953984|AD0737D5F182082C37E6D1DB7CCDBB77|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1h7QTTUCvoC2cAZhZtU3VzQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_education_version_1511_updated_apr_2016_x64_dvd_8713899.iso|4459569152|DFA89CE728141023DF81F36B9ABA817A|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-11bd0477",
+      "name": "Windows 10 Education (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2015-07-29",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Education",
+      "sku": "Education",
+      "fileSize": "2.88GB",
+      "hashes": {
+        "sha1": "F5E5B26C03180D492E32872B5D0E16DCFC134DA8",
+        "sha256": "BCCBE797C8A0415BEC1F89281C38ACD3D449C828763C0C57945DA98204D2EE82"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=Be1_VJFpJw0-WYPcgcus5Co1B8qRJS4GHLrUmGCE606j-x0aCTxDq9hekepaEE8KJ4c0RrpXxmcdrutRCBU81OrpQ3zRuHvrylgY0Aq6T-Zl-khfwkMIkxqK2HRQyjZCLwNzA7vFpwI2lFV-drBfX03AndnUH85u&_pid=&_name=Windows+10+Education+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Wp46MtLYb7cbpPh4hCCgrA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_education_version_1703_updated_june_2017_x86_dvd_10721047.iso|3734099968|69030CC7AC346DE4C3E9DE2526B213BE|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1vzBkEL3gp38PA-YMAUyDDw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_education_version_1607_updated_jul_2016_x86_dvd_9056381.iso|3103516672|BA95618BB3D14C0B91A7D6D2518DCCFC|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1y1h5zgQCNor4zj6HoYlS2Q",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_education_version_1511_updated_apr_2016_x86_dvd_8730220.iso|3337048064|0261C4B08BDB0FED8D383576F81D4583|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-630442df",
+      "name": "Windows 10 Enterprise",
+      "version": "",
+      "build": "",
+      "releaseDate": "2015-07-29",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "3.88GB",
+      "hashes": {
+        "sha1": "071A2B6CB634D46E12DC2B287DCFDB737A615281",
+        "sha256": "E911F1CE138F0CE99D70F375410337407A3999700D82A4EC2B71D479698BD331"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=syzgNs4TUnwfRiF1LPc30UQqfttAf6HBGB4oAZR-ozzdcfVcUL8E0EOBJhGfxn6fy0PvJiihMPpwCK4hsYpiozHaXR-9uD57dozI30r9Hu3EUGyGwZkXT64eEV1PUvsM6lDP6VinkcGsyisfZT0zxUgty0h54R6N&_pid=&_name=Windows+10+Enterprise+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1QXqe67qrPkQQ5VfgYktaJQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_version_1703_updated_july_2017_x64_dvd_10925390.iso|5057685504|C57CF8BE5700DE2ACB7DCF229632120B|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1VnKxP_zUI0sLM_7W_hSKww",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_version_1607_updated_jan_2017_x64_dvd_9714414.iso|4474976256|21E442B2D57E3F1C15C13DBE9F4A09AD|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/13BKSprszW11Hn6upWT5acw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_version_1511_updated_apr_2016_x64_dvd_8710041.iso|4453720064|41F07B071685E4035206F0F986B8451D|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-bf0087f0",
+      "name": "Windows 10 Enterprise (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2015-07-29",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "2.89GB",
+      "hashes": {
+        "sha1": "83797D3477E3E5346F804D65E46EF227A4535B1D",
+        "sha256": "CFC412D98A3AA1B6885F5496A08F82BB4BA9137BC801391939311F821993F6BB"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=HSxGjjhrXahA9bLcUS7ziktum5fPC5CmxcZHoKp88TyEewdah3COiL5tNWyMRTVww3hi0phVsjBf6usCq3kjhVyMBU5ZyiLJI6QJMcNtRfbxcGPX-Q-zTWjKoFTwif3CPRw8VUHYcKuutz2vD3o0AsM7ldQvWcw5&_pid=&_name=Windows+10+Enterprise+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1dwfFKWktEB56W1zbn1z3ng",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_version_1703_updated_july_2017_x86_dvd_10925421.iso|3790645248|2609A56EB3C599A2715D815DB02D9CBA|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/14WX9QOwRSwgld4xK-2-lkg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_version_1607_updated_jan_2017_x86_dvd_9718258.iso|3332915200|A679B9E58A187746F4226F4F67BDFC4A|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Rj3kfAqN38GUIyN1QPQFtA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_enterprise_version_1511_updated_apr_2016_x86_dvd_8712610.iso|3327528960|CB0F13BF634C19ECB90C86AFACE43458|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-b988fc53",
+      "name": "Windows 10",
+      "version": "",
+      "build": "",
+      "releaseDate": "2015-07-29",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.01GB",
+      "hashes": {
+        "sha1": "C71D49A6144772F352806201EF564951BE55EDD5",
+        "sha256": "B4306B451599A0B98BE02DAE5EA54D78CBC0F3CCFD7CEE6EB54F7744BE3350D8"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=YYmd4PbF33RKpF8ypGI3soHOPgvNKl3RSFC-_ydsHdTArPzStSGb56W8QACRMwIN3Ybxy_tPOxFdEy5l7OYyw2bsr1vVEQ3WN5iSBnmh2MppWXeZVdhnJIwbx9bsZ7nmPzPagYbroDx-WbUI3B-OhMBiW-ejolH0&_pid=&_name=Windows+10+%28Multiple+Editions%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1qU24O-TVQHg1KxbVFw_-7g?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_049d70ee.iso|5424910336|9100F2CD41FED19B3314FFCF182DF026|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1C-g0KAqU9wxEFdqboXsnMQ?pwd=3e5z",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_d4f1cee8.iso|5536696320|7186FF25DD5DC27C951F20945360A3C1|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1YPvWLUP9lJQvdcpBPm7Reg?pwd=sea8",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1903_updated_jan_2020_x64_dvd_64162e80.iso|5415028736|515DC7E31E1127A08AED46E02FD6A158|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1TNU30LvfVrTP9vfqGzG7jQ?pwd=a4ey",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1809_updated_jan_2020_x64_dvd_59885fa8.iso|5649281024|50243160E71EB2994EED452A23FCE510|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1twOIKbc_dN_W7APnRGdakw?pwd=9adg",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_56edef2c.iso|5427798016|5F38E07E290ED1FBD6D612579A104DBA|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2019-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/122anxoTVUKnx5L_H4wSqtQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multi-edition_version_1709_updated_dec_2017_x64_dvd_100406696.iso|5242322944|7D89E63B0C4B5881DBCDB042FF1EB8F3|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1bOTb8W27BH3ZUv22a9iatQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multiple_editions_version_1703_updated_july_2017_x64_dvd_10925382.iso|5849513984|D4A186940512939EAF72EF91FE74C0F8|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/17Ok8qnRy8EygjwvV3XabMA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multiple_editions_version_1607_updated_jan_2017_x64_dvd_9714394.iso|4747692032|27841B07666580185078EE62915191A1|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1-2yQwD34qyniutpyzxE-Qg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multiple_editions_version_1511_updated_apr_2016_x64_dvd_8712460.iso|4668538880|C24CABC107DAB4956A947BA336A10DD9|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-cb4c6d3f",
+      "name": "Windows 10 (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2015-07-29",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.01GB",
+      "hashes": {
+        "sha1": "21B824F402927E76C65160B62EB8A4EBBABE9C6E",
+        "sha256": "EB65235F9CE130CCF604B118BECCA84BF7CCDD707E82459E693F63E253739DFF"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=SWVBg44lnQp6VNsovVkrUvs-PSfOwIgXWvcXCUmSU67H0kxzlQYt09SZxtMWLAf8M_SQBxzmbF-FMCWX9tDzeXOdiehpKcvKbd7842Ecj7VoT-KHpyCg_ozSen0FiD89Edg_ULS8r5vgiE0A2S27-0dIKqM4ptVp&_pid=&_name=Windows+10+%28Multiple+Editions%29+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/18aX6oiN8dy8cGLgkHg6zjg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_2004_updated_sep_2020_x86_dvd_8a8fe8c0.iso|3893041152|B6C95CA453EE875C0C4A6F19125FC5D2|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-09"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1dNJQ9pnHFtnqs3QBXse5rA?pwd=ukrx",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1909_updated_april_2020_x86_dvd_1a597dcc.iso|4001820672|3DF6FEDFC3190AD9267D4F5A97882AF1|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1z4QQVk6ykc8uaTdFDmVNbw?pwd=t6k1",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1903_updated_jan_2020_x86_dvd_39fc60a2.iso|3883943936|1DBBEB546761D312BD39ADF8929516C5|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/130gp9oHsiZiBHYHFq_7htA?pwd=am9p",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1809_updated_jan_2020_x86_dvd_0323728a.iso|4608868352|C7E4820364CB67B1230696B45F7A13E7|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1WKUID1b-7OHWIiYbfNMFzA?pwd=l2lg",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2019-03"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_edition_version_1803_updated_march_2019_x86_dvd_6fdd5a7b.iso|4163999744|FA6EC68A5D86553F1380765067752412|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2019-03"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1DZjkUR0x6z9McODi5eWjsg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multi-edition_version_1709_updated_dec_2017_x86_dvd_100406742.iso|4056664064|5FCF7887A5B9C001B1A55A9A1D8EC32E|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1UwEkdI-tp43DVYnIf6aGCg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multiple_editions_version_1703_updated_july_2017_x86_dvd_10925372.iso|4414928896|3454A17F236E56401A0B9BB62CE49760|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/16Pl_gTuyZw4aK0gz_jLjtA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multiple_editions_version_1607_updated_jan_2017_x86_dvd_9714392.iso|3621646336|99C607CB5DEA2B245D131F03E5F6522F|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/15wUDEeMWnzdwvfzpnm0YDw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_multiple_editions_version_1511_updated_apr_2016_x86_dvd_8712808.iso|3540477952|9F5C03A7B60E8292FA50A80F5FE57D34|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-91f3eee8",
+      "name": "Windows 10",
+      "version": "",
+      "build": "",
+      "releaseDate": "2020-09-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4.95GB",
+      "hashes": {
+        "sha256": "E9872C5A571624E9FBB6B660B415FD214DD67364AE2A584ADBC4C1D037E565F7",
+        "sha1": "BF0874FFE0FAE1C557E65F49B83B5E83BE7DBF24"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/19z9gqz99rPgZyzlC0gasCg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x64_dvd_7134ba4b.iso|5313628160|7CF0E7C3324B4209663B8B971A5ACEF2|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ZV6dEs3g-tBRA3Bd9BGu9g?pwd=gksj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1909_updated_april_2020_x64_dvd_5d3fcf2e.iso|5420953600|84FD19F3A4E817CE6037ACF99F8B0401|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-04"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1W9kdevD5IUNz0-dU-VXb1A?pwd=35i8",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1903_updated_jan_2020_x64_dvd_9e0cca89.iso|5307998208|B163C68A412CB2B84F3DD081E77642FA|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1S15mHNf_2EdapMVfa2zJ4A?pwd=hy2j",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1809_updated_jan_2020_x64_dvd_2d540786.iso|5519874048|6ECB1B7D385BC2DEE4389168F32620F1|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/11OcltXhwHu3ScBUTpIwSxw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1803_updated_sept_2019_x64_dvd_91248a41.iso|5359147008|E4C3B32A46D09D969E79A3FF05CC893F|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-681dfbca",
+      "name": "Windows 10 (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2020-09-15",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.55GB",
+      "hashes": {
+        "sha256": "84D98216B2B15713B56692CADF1106BC0ABD47A15AD60AFCA73923A8BBCBB144",
+        "sha1": "3DF30BEE3D105E5B5F70204D3E7402FA61C4D937"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1wVEB1n3d2jgA6kQ_eCPw9g?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_31186d54.iso|3815186432|AD69BE7D54BA87FCDADBDF5054249094|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1etfmYYXNp_hMSsqVdnBmEw?pwd=dwn5",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1909_updated_april_2020_x86_dvd_20841959.iso|3923351552|A1BC6B5D4730D05020C3AD936118CF91|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1p6fGeBa3HJozOPAckTWwKg?pwd=xsqo",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1903_updated_jan_2020_x86_dvd_e81c9c72.iso|3805505536|1FEAAE0305309E1D005DD024B4CDDCBD|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1peb5dCM-Cz9pAquG_AbkXw?pwd=zm8z",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1809_updated_jan_2020_x86_dvd_363b3929.iso|3932286976|58B4DB12A460C8BADC69B3A2BDD7D955|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2020-01"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1PdYy63ZPDiwsXQay4WXiLw?pwd=4tf4",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2019-03"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_edition_version_1803_updated_march_2019_x86_dvd_fc8b74ee.iso|4165126144|9AB1E772B95939A78F1D275058402A3D|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2019-03"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-cbec423b",
+      "name": "Windows 10 (arm64)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2018-11-16",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.18GB",
+      "hashes": {
+        "sha256": "74129175F2C0223420613B148136CC263A1B5F62DF728135315B121430B67222",
+        "sha1": "713D68852DE1F90565AAD5C8742123F299E636E2"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1TA39fND-oHgXx0PR1ti0Kw",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2018-09"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_sept_2018_arm64_dvd_5cb8a85a.iso|4487870464|CBBCB4F2FA4FFABE0C52404ED93A41E7|/",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2018-09"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-0757dbff",
+      "name": "Windows 10 (arm64)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2018-11-16",
+      "language": "zh-cn",
+      "architecture": "arm64",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "4GB",
+      "hashes": {
+        "sha256": "420E311EE7417A56D87E9C032580E4ABA3179B3B0268E7E011F1DCF002E09DFD",
+        "sha1": "0406D5E05D6438CC2A532378D0C93CB54E32BEED"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1oWD3mfhHghuPzQSgi79ODQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_10_business_edition_version_1809_updated_sept_2018_arm64_dvd_104983b1.iso|4298262528|FE2D82693ECB2DC2804299A13DC570D5|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-d3e8aa02",
+      "name": "Windows 10 LTSC",
+      "version": "",
+      "build": "",
+      "releaseDate": "2021-11-16",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "LTSC",
+      "sku": "LTSC",
+      "fileSize": "4.7GB",
+      "hashes": {
+        "sha256": "C117C5DDBC51F315C739F9321D4907FA50090BA7B48E7E9A2D173D49EF2F73A3",
+        "sha1": "C19D7DAFBAFEB26C36E31D97C465E87C7A6E8A4C"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1h6gHa6IjDeFO8jnFgtt-dg?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso|5044211712|1555B7DCA052B5958EE68DB58A42408D|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-1408651d",
+      "name": "Windows 10 LTSC (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2021-11-16",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "LTSC",
+      "sku": "LTSC",
+      "fileSize": "3.37GB",
+      "hashes": {
+        "sha256": "9F855FCC4CB44C119F9CE73DABE569FCB7F4F4D85F922206BF2E108116A34F25",
+        "sha1": "50ED6860535FDDF9D0418EFD99EF7F40DAA696F5"
+      },
+      "sources": [
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1AgFTZkrTVCPzUuxnZR8nsQ?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c.iso|3621132288|F67BB339ADFEFCF6ED22400EAACBD068|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-a5458017",
+      "name": "Windows 10 LTSC 消费版",
+      "version": "LTSC",
+      "build": "",
+      "releaseDate": "2019-03-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.17GB",
+      "hashes": {
+        "sha1": "24B59706D5EDED392423936C82BA5A83596B50CC"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1ZFzALppR7rkNmQJFjFc9Sw",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "购买U盘",
+          "url": "https://item.taobao.com/item.htm?ft=t&id=630955432595",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-5e6a59f1",
+      "name": "Windows 10 LTSC 消费版 (x86)",
+      "version": "LTSC",
+      "build": "",
+      "releaseDate": "2019-03-15",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.98GB",
+      "hashes": {
+        "sha1": "BA2169EDD94F123211CD4AACA68352F1AB6195D9"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1WjyuAEJ54HC-_5LDcSNnsA",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-411421c8",
+      "name": "Windows 10 1903 商业版 (x86)",
+      "version": "1903",
+      "build": "",
+      "releaseDate": "2019-07-16",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.45GB",
+      "hashes": {
+        "sha1": "0E8B28AF6C9A3134E880134C63030768B43F75D6"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_editions_version_1903_updated_july_2019_x86_dvd_81a0945b.iso|3703326720|575FF245531FAD9D2C9661CABA83F3C2|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-07"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1SHY2GA3xYN8ZXlcMADfZAw",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-07"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-14174adc",
+      "name": "Windows 10 1903 消费版 (x86)",
+      "version": "1903",
+      "build": "",
+      "releaseDate": "2019-07-16",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.52GB",
+      "hashes": {
+        "sha1": "CB13FA78FC8A3036245E3D84A427885E52237A98"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_editions_version_1903_updated_july_2019_x86_dvd_3995e09a.iso|3781146624|F48A0E973223A3DFA99A1F9A83C3394F|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1VJZXDC9qOFo2VuUGt21WgA",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-9f9e5b9b",
+      "name": "Windows 10 1809 商业版 (x86)",
+      "version": "1809",
+      "build": "",
+      "releaseDate": "2019-05-27",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.57GB",
+      "hashes": {
+        "sha1": "9A4D2FD78D91211F13A03521A3493175A2AE9A8F"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_edition_version_1809_updated_may_2019_x86_dvd_9f17e077.iso|3835998208|F8656A31D9E82F13D46ABEA678F770A2|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-05"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1gIUXPzTmSesUQ5QG0OgV7g",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-05"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-9886d141",
+      "name": "Windows 10 1809 消费版 (x86)",
+      "version": "1809",
+      "build": "",
+      "releaseDate": "2019-05-27",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.66GB",
+      "hashes": {
+        "sha1": "C05463BCC79D9412A30243238F02A9F32A08B4C3"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_edition_version_1809_updated_may_2019_x86_dvd_42f826ad.iso|3925567488|663AEA7751416BC598D05505E14B9A9D|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-05"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1QyNw52uJmvlggmOVmmp0-w",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-05"
+        },
+        {
+          "name": "购买U盘",
+          "url": "https://item.taobao.com/item.htm?ft=t&id=630955432595",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-05"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-11b4667f",
+      "name": "Windows 10 1803 商业版 (x86)",
+      "version": "1803",
+      "build": "",
+      "releaseDate": "2019-03-20",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Business",
+      "sku": "Business",
+      "fileSize": "3.88GB",
+      "hashes": {
+        "sha1": "5E5F495D74A12CFAC48A421D87BCE6CD9B03CEFF"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_business_edition_version_1803_updated_march_2019_x86_dvd_fc8b74ee.iso|4165126144|9AB1E772B95939A78F1D275058402A3D|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-03"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1e4ElQzfJT2KCc_IGgSP6SQ",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-03"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-f19b453b",
+      "name": "Windows 10 1803 消费版 (x86)",
+      "version": "1803",
+      "build": "",
+      "releaseDate": "2019-03-20",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.88GB",
+      "hashes": {
+        "sha1": "F24C2389AA3DD34814DA2EF471D29094F5BB311A"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_consumer_edition_version_1803_updated_march_2019_x86_dvd_6fdd5a7b.iso|4163999744|FA6EC68A5D86553F1380765067752412|/",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2019-03"
+        },
+        {
+          "name": "百度网盘|",
+          "url": "https://pan.baidu.com/s/1tQ4bucqxKFPap4vpSYBwWg",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2019-03"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-dc88c234",
+      "name": "Windows 10 LTSB 消费版",
+      "version": "LTSB",
+      "build": "",
+      "releaseDate": "2016-08-11",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "3.56GB",
+      "hashes": {
+        "sha1": "9E405E950890D2A196565BCA35E152F9CFAD296D"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.iso|3821895680|FF17FF2D5919E3A560151BBC11C399D1|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1bqZWvd2jwB7OX3cUfTMZaw",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-ac1e1d2a",
+      "name": "Windows 10 LTSB 消费版 (x86)",
+      "version": "LTSB",
+      "build": "",
+      "releaseDate": "2016-08-11",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "2.62GB",
+      "hashes": {
+        "sha1": "0422052F25C9C8DF983F3B287F725860AAB907CF"
+      },
+      "sources": [
+        {
+          "name": "磁力链接",
+          "url": "ed2k://|file|cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.iso|2817034240|67C3865D03E765BDD4845BA2CB7649F8|/",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1Zlm2YUwU5HE-RciMOTro8Q",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-5c8b8b3c",
+      "name": "Windows 10 ARM 消费版",
+      "version": "ARM",
+      "build": "",
+      "releaseDate": "2023-01-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "4.97GB",
+      "hashes": {
+        "sha1": "89B311A99EACE51345FD8C032412F5BD3133D729"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|SW_DVD9_Win_Pro_10_22H2.3_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-36949.ISO|5333610496|401601D6C86121111B85019BAB8CD79D|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:1254374ee4000b9e8fed508fe2fdcdd8f49c2161&dn=SW_DVD9_Win_Pro_10_22H2.3_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X23-36949.ISO&xl=5333610496",
+          "type": "magnet",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘",
+          "url": " https://pan.baidu.com/s/1eHfjDJa0qtg977bitRwKYA?pwd=msdn",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/62d5abd96429",
+          "type": "pan.quark",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123912.com/s/MSGsjv-HkKc3",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/N3maUn77b6r2（访问码：n4wn）",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "products": [
+    {
+      "id": "win-1eacba3f",
+      "name": "Windows Server",
+      "version": "",
+      "build": "",
+      "releaseDate": "2026-03-17",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "7.98GB",
+      "hashes": {
+        "sha256": "0C781C9083411A8AEE6C0101455B2AA09A5AE0BD91ACBE0F91CF66A1EAD881F2",
+        "sha1": "386EA69D0CFA1946B0996413279912212B4B7476"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=U1bwBsGz6YHUwuzAlOpZG9axFaOcxR53Yb8aKvhDmx8bwvPYct68m8ChuAgYGMyxeb73zbYJkjtcweVfWh2f1y04S2EBrqiRK99cFuTQlV48X__TTJx0LhdXZOjZh1a31yJaXIJfR1EPdt_rFKUEvLOZqlHsF33O&_pid=&_name=Windows+Server+2025+%28updated+March+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2026-03"
+        },
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=kUgBZ2xenuRsPtpFzEFc0DJ9NYwZEmPRmxadPC0gK6VqO5QalQXQjaAKgJ-nn1i29GIhGmRQa1mqmMmlb3lLNgjZ939rH078QyFDmhYyju-h0DdXmrp7SoglZ1C4Ic8na4RppHfcKSWZ6uUXEuk&_pid=&_name=Windows+Server+2019+%28Updated+July+2020%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows",
+          "patchMonth": "2020-07"
+        },
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=ZrVQgHF-VObFrPuw4HlVIm9I6ZGqjysFGhvHxMal2RmVxw7fHyB3Qsw6sXuUr45voUhc3Gtrcqhy6xuCVWDD2jvr_hya1sSK59CD5ZZtcOHIwTA338ML8ICTDKCfWUnCLRmBobHvXEvAAuciURY&_pid=&_name=Windows+Server+2008+R2+HPC+Edition+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-ba81b827",
+      "name": "Windows Server (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2012-10-09",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "570.74MB",
+      "hashes": {
+        "sha1": "8BD8AA2F16ACACE9C8064FF4DE538B2A5091C763"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=6EuoAiF9iHgY0Ck8BaTk_FX_pu07GwGz9B1KG-NdXmJ4tUYksmWvFS_Lci1UDHCl3ha-Lh7MNKpUilgVZJY1b8Cj-tpZpLIMvWFf-0AEVMOFyZ54o2WFfZZsGeXmNjmAn-dJuZC6s82I_9154p0&_pid=&_name=Client+Restore+Disc%3A+Windows+Server+2012+Essentials+%28x86+and+x64%29+-+CD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        },
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=DHeJ2MctfU5xt-_stYsEO1vqIVHhWPuPZMXX8cT56DbQYe_I-ei9LyBOvRq-q103iZlhSXAAzAVrwaw_MkMme0ynQYdul1mWlnzdQnMecdOtCCk5yXjTZ0yx0ROF8CEXvZ9-7RMoQhUpCZsBUD8&_pid=&_name=Windows+AIK+for+Windows+Server+2008+%28x86%2C+x64%2C+ia64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-fcdbe720",
+      "name": "Windows Server Enterprise",
+      "version": "",
+      "build": "",
+      "releaseDate": "2011-02-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "3.14GB",
+      "hashes": {
+        "sha1": "38BFF8DA3BEAA742ECA54A6F584403BD253444B5"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=SFg5j_DsU_xGwcW7lx7IUjHESkKNx024SBO3DTCY-iD0GBH_yfhf-dBp8R07NTO8S5RPqZ9RQP_ogqldIcc5BBplMSnyoGdkfxw0zbSzhcqE3HFqxQhcHQXTmyCN8apvvrMhpwL11Snn4FrJnqI&_pid=&_name=Windows+Server+2008+R2+Standard%2C+Enterprise%2C+Datacenter%2C+and+Web+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-d034f2e8",
+      "name": "Windows Server Enterprise (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2009-06-16",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Enterprise",
+      "sku": "Enterprise",
+      "fileSize": "2.04GB",
+      "hashes": {
+        "sha1": "80F1E47364AD05C28763EA29D7A11527C8067A3F"
+      },
+      "sources": [
+        {
+          "name": "迅雷网盘",
+          "url": "https://hellowindows.cn/link?target=zl7nQqzzuZs82BZH3WaLlozqeRbu8RBolAIlEfZJglOu6F4Xnz96haDNSxLVFqBsagYwFRby3jOOs5y3Ay9RjpDX4JtpzwwkQbRMJ64L0N_qAs59rE28rGeV-xQ93EHzDEiJU8YFx2aKJ7YCubY&_pid=&_name=Windows+Server+2008+Standard%2C+Enterprise%2C+and+Datacenter+with+Service+Pack+2+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "type": "redirect",
+          "_source": "HelloWindows"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "HelloWindows",
+      "_sources": [
+        "HelloWindows"
+      ]
+    },
+    {
+      "id": "win-8f8a7ff6",
+      "name": "Windows Server 2025 消费版",
+      "version": "2025",
+      "build": "",
+      "releaseDate": "2024-11-19",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "6.9GB",
+      "hashes": {
+        "sha1": "0AA97E2E6D3BD6BE5F57E64FBAB7820F5B0515DE"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso|7409489920|99613B37CAE109360D15F7EDC178175E|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2024-11"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:0d5de325f2fbb455f8e3bf177fc38df6debf2635&dn=zh-cn_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso&xl=7409489920",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2024-11"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1jPHmLRWvOXJdH3_23bCEDA",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2024-11"
+        },
+        {
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f5d079ad7b27",
+          "type": "pan.quark",
+          "_source": "系统库",
+          "patchMonth": "2024-11"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-b766421c",
+      "name": "Windows Server 2022 消费版",
+      "version": "2022",
+      "build": "",
+      "releaseDate": "2024-06-18",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.72GB",
+      "hashes": {
+        "sha1": "A7B293CF84E26BE04526C747B221413F3C101078"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|zh-cn_windows_server_2022_updated_june_2024_x64_dvd_8c5a802d.iso|6141788160|E13ECD2566D8B75A610AA0901FB52C9C|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2024-06"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:8eb14d724278778d76109b12a26806c6d1117d1b&dn=zh-cn_windows_server_2022_updated_june_2024_x64_dvd_8c5a802d.iso&xl=6141788160",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2024-06"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1eLaCWp0a4FffMLuWdEXirg",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2024-06"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123pan.com/ps/MSGsjv-A5Oc3.html",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2024-06"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-21c9770e",
+      "name": "Windows Server 2019 消费版",
+      "version": "2019",
+      "build": "",
+      "releaseDate": "2020-07-21",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.29GB",
+      "hashes": {
+        "sha1": "A2021F99E0B49D4AF5C5B83A8BC6B8A664AD1BC0"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso|5675251712|19AE348F0D321785007D95B7D2FAF320|/",
+          "type": "ed2k",
+          "_source": "系统库",
+          "patchMonth": "2020-07"
+        },
+        {
+          "name": "磁力链接",
+          "url": "magnet:?xt=urn:btih:22A410DEA1B0886354A34D19E995BECBB7EBA15E&dn=cn_windows_server_2019_updated_july_2020_x64_dvd_2c9b67da.iso&xl=5675251712",
+          "type": "magnet",
+          "_source": "系统库",
+          "patchMonth": "2020-07"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/10XwmY2AQtB8FWI43ihVJ8Q",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-07"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123pan.com/ps/MSGsjv-95Oc3.html",
+          "type": "redirect",
+          "_source": "系统库",
+          "patchMonth": "2020-07"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    },
+    {
+      "id": "win-92edc310",
+      "name": "Windows Server 2016 消费版",
+      "version": "2016",
+      "build": "",
+      "releaseDate": "2018-02-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Consumer",
+      "sku": "Consumer",
+      "fileSize": "5.86GB",
+      "hashes": {
+        "sha1": "8D1C867B19C4EAE7DD79EB544FDD5DBFBD9812FE"
+      },
+      "sources": [
+        {
+          "name": "ED2K",
+          "url": "ed2k://|file|cn_windows_server_2016_updated_feb_2018_x64_dvd_11636703.iso|6294265856|4077CEBEBB40AFA5A66017D2EC7A9CD5|/",
+          "type": "ed2k",
+          "_source": "系统库"
+        },
+        {
+          "name": "百度网盘|msdn",
+          "url": "https://pan.baidu.com/s/1PcwAG0tL8umKyB7vd4xNIQ",
+          "type": "redirect",
+          "_source": "系统库"
+        },
+        {
+          "name": "123云盘",
+          "url": "https://www.123pan.com/ps/MSGsjv-E5Oc3.html",
+          "type": "redirect",
+          "_source": "系统库"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "系统库",
+      "_sources": [
+        "系统库"
+      ]
+    }
+  ]
+}
