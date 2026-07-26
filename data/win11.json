@@ -18,7 +18,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=W8LzDgbXIqe4iQLAnR4JkRpSEAXmK5Xc_Qvpf6HHZIiPZQEjGy882fxrOmfK_6lCLMkaDBFlv2r6ql5u4DWpFkLUV5xr9nrkiuMwlzBnXaMebjy_vp1r5p7Cme8Mr9jXUXkicAEOEAHrS7cq2MImTbuZPQRkFaix&_pid=&_name=Windows+11+Enterprise+LTSC+2024+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=N_kRU82mR_jBLgJiCf8DLx9DIutpG6pb2sXx2ak6oxENIosl9UVcEI1epsVVdm4Xt2U6YoQ99XsNJ263dOuY3ELZVyoIMpUpXe8Rjl8KYzCCS9_AqH81EO-wYR5LfGCJr9O5urpUkKGILSfcNyicyl2lls_BEJ7I&_pid=&_name=Windows+11+Enterprise+LTSC+2024+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -48,52 +48,52 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=9_E6vcvyA1CXq2atQJ4bEcAiwDbQlRp3fe8w0-2mgj797IUAn1mBEVBDIzkYHXs5PtlhzT5jDdTxwkoz0-u-HutMBZhDunjNApKOTk0cpw4vGw0W7mEJrVKG3Z8d4qKNAC7WLcTnZHSyrVUcDGlQd3q2Jgi1uV63&_pid=&_name=Windows+11+%28business+editions%29%2C+version+26H1+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=em2_cxgx9c1jLI4ZSU25ac_E98rEBnKTcxUqhpkPdZxhGOmxqG33FRuiWKdHvDpq16ZBVOTRrDbZ4p4P6N9YaPr6M5xdlvHjQbeuvxUgjlt7HN3MaCjsEQTe4BM09cCiMQk6hBCjsH1QMpITi46MoVF7ThKQrgFs&_pid=&_name=Windows+11+%28business+editions%29%2C+version+26H1+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2026-06"
         },
         {
           "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/G1yxsvC42zN",
+          "url": "https://www.alipan.com/s/W78JJQ6uASS",
           "type": "redirect",
           "_source": "山己几子木",
-          "patchMonth": "2026-06"
+          "patchMonth": "2026-07"
         },
         {
           "name": "腾讯微云",
-          "url": "https://share.weiyun.com/KNwPMtEu",
+          "url": "https://share.weiyun.com/l5ubqcMd",
           "type": "redirect",
           "_source": "山己几子木",
-          "patchMonth": "2026-06"
+          "patchMonth": "2026-07"
         },
         {
           "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1g9lWveJTZRfhSpAEwopjnQ?pwd=msdn",
+          "url": "https://pan.baidu.com/s/1YhdstsvQUbIwEFM7kowlig?pwd=msdn",
           "type": "redirect",
           "_source": "山己几子木",
-          "patchMonth": "2026-06"
+          "patchMonth": "2026-07"
         },
         {
           "name": "天翼云盘",
-          "url": "https://cloud.189.cn/t/iQnEjimuYJbm",
+          "url": "https://cloud.189.cn/t/3yaM7zJVVFB3",
           "type": "redirect",
           "_source": "山己几子木",
-          "patchMonth": "2026-06"
+          "patchMonth": "2026-07"
         },
         {
           "name": "移动云盘",
-          "url": "https://caiyun.139.com/m/i?2vMBNoFx9U33t",
+          "url": "https://caiyun.139.com/m/i?2w2KTKXMZxYif",
           "type": "redirect",
           "_source": "山己几子木",
-          "patchMonth": "2026-06"
+          "patchMonth": "2026-07"
         },
         {
           "name": "ed2k",
-          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_26h1_updated_june_2026_arm64_dvd_72dd14a5.iso|8370331648|BE0AC4B020DD879DDBEE56D87756DEB1|/",
+          "url": "ed2k://|file|zh-cn_windows_11_business_editions_version_26h1_updated_july_2026_arm64_dvd_f69a9a1e.iso|8504707072|F99B0A01D4CB854D07F0D9BF21361F43|/",
           "type": "redirect",
           "_source": "山己几子木",
-          "patchMonth": "2026-06"
+          "patchMonth": "2026-07"
         }
       ],
       "originalSource": "Microsoft MSDN",
@@ -122,13 +122,34 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=S3b3zl9mWPj-551AwyLn8193T25wKvRbwbDFq00jgSB5x2wAR-XleNx3go25N5y4IDxkgIInn2EjHZglYmJo5BnF3wXuxZ60djUFSDF8SOjOEAs1r4w4WtbTUzR6mTrv9J8ikMbUOGhwL606I1h3aJIFQPN3irVT&_pid=&_name=Windows+11+%28business+editions%29%2C+version+26H1+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=gAdosXKdMjX0Ghj93iI70tvV6CGie86geRGPqMSB4Lt68Rgr7b8Q2oi5FV_K096pM0oYOOFTg08l09uYThM4OK6qAuxs7UpniIqR1QeHdU0YI__V1cFx-4RfY_EvSxqkdnuQngHIlPExfweSvaTuOOoMWdpMRZ1L&_pid=&_name=Windows+11+%28business+editions%29%2C+version+26H1+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/W78JJQ6uASS",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/l5ubqcMd",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1hbb3nmLuvUWoF1Fi-MTJow?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/3yaM7zJVVFB3",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -217,14 +238,42 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=jX5MQ4Lbp48mPu2hq8kQYm8XSyfjniiC7ef_WL1WHNlB1UzQyQfrkWOgyaXHiDfeEf7mBpzHUxJkhHU1ZhReI7VBOB_gr2qFFNOk-bOP3xp29Kd1dUqMX2qiJZkwpQfIfq_HsdujRqGWbT8IHUHleuWN8ea1nC0W&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+26H1+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=ILo4JUKKf12tpuPU9Z_o5YAdbRbLqetoXaG8p97V3rUM3Kc1_GPaHc6CZxWuG7TPyvs-GfEXjwS3AG8CXTiQda3SCMZ8OEOf6noXCPXmvPDzmjcojnu46U4xEKDkgAr3ylCJIE5AM7f9GQtn02GnsOvojKbqjVqD&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+26H1+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2026-06"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/W78JJQ6uASS",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/l5ubqcMd",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1PZ7xtLRHjb6lNSY1qVjs_A?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/3yaM7zJVVFB3",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2w2KTKXMZxYif",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -263,14 +312,35 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=6mNZv3qJ-vtw1jluFzOuVoYRWj4GlCHu9m3wd33mPmERhbsvJ4hk9eL3PQTbVCkAZUUiiLOpQ-Kbxt5NyT6o3CIFUHN9er13g_6FnpTdzYHERCLV4aU3Zk4nKnnR_3hQzwXz1kQ4YXSp7cAjLpfFziA5WeDHOcLH&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+26H1+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=-p2yuhvjbHCIx7g59cvs3mB-iY28XE513qXec7q0s5wLypqNFPxaXCWKHTvcSht0l8FmOm0rGSZ9C8mcH65ktKo8D8IOTdZDlkGwmEssI1S4PQ_qF9ZFSvKSfhfmJje9doPmnEoXzu82NdBQDEXnrydo18dpTM0i&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+26H1+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2026-06"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/W78JJQ6uASS",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/l5ubqcMd",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1iJe2n8wBt6c5ESWLNwn2zw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/3yaM7zJVVFB3",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -359,7 +429,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=X786kTQRu_294XWnodPKQNSJx5PFTa_n5ot6qf5tT8aAtNYYM05RKDNBOBJvEzOCKl2MBvsnZ_u3sR3pe-cSkPUGogAZe29O1Rae4e5usXLJt-H3XYhQN71HknGNmD3p9jtoYS0s3e2EdorKTKZx2aRgCEfE_3el&_pid=&_name=Windows+11+%28business+editions%29%2C+version+25H2+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=eaO5oegvnlPlrdAtuZYc8gxpqt4bdL326UgEx1XuPsIPER0qdawOZhdWDsUnjoSU7eOirw5V_uVw_WE_USKfT05bqBjiWNV6wHm6Sy8EOzav0AYeKdhv70chUNyyjj4jemDbP3DHlp5-yrDZo0XK4X6T2CHScYlt&_pid=&_name=Windows+11+%28business+editions%29%2C+version+25H2+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2026-06"
@@ -433,7 +503,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=cdsy18RRTUjWyI8hhOFFhx35MoMvmpULxbD8OWgXrQKsRrGbX9SGq12FZ0eGEq2MFQ_6jOYZpBqzfSz7J7FiuHForGpAlM9bFchh3LQZaTeZnqu6IcJ1ZczTdgIsNhpGV2CsCgSoJ7u7BLw6RZkVqUiYxGiJZH1p&_pid=&_name=Windows+11+%28business+editions%29%2C+version+25H2+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=ofF-RA98t8fjBN2Gdhln3kxHsXR7zMX8eRYEWd_uS1sGFjfkZXV_WVnofzhWBBUrr5I0Rb2JcJmywZE1lInhCatN3fmqRIZbdu6vRA64fGJuExR3PAUTTbjCGXiXFFgDWyz1TCXnv8Ge2CVY9EyLDriR-pWYoRgL&_pid=&_name=Windows+11+%28business+editions%29%2C+version+25H2+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2026-06"
@@ -544,13 +614,41 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=tP40xuJCIKmzWvRnMn4iuv4jF7a3qx8I7x5Tume8kc018strsaRQaNVFxF31PHuV7fKtzRxfyjFwDRHjbZCXRPZt0i19E3Rzv6Y3Zy_2kSK8z_fBZmGRu28BXV6Lvv4eVTHhWYBkXa7sUbUWJeh8-8QmgmxggPvj&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+25H2+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=-WIJcqLQKU6Z0Mh-EzfuKejAbHYVtTN0xCqWkEgl3-QYwZgmYRFP7MUVvLXBMINZgNS4U5OWYi4qly-1xZh8ghbPb_cHbsZCwir3OEWDTCNP8Nbx_9QhhVgc54WEQlTOH5-5v5SBgUwsdkvk-Wim6PuNX4x_9UBg&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+25H2+%28updated+June+2026%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/uQtwCaqc5dD",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/VifgtLJo",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1uwt1jTfn0ODfZSfu0VE6rA?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/FjiyaeAJVFf2",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2w2KSMTwZCbig",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -589,13 +687,34 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=_87cNjoVKNixx5Y7UHT5JnV-E2O_ETATys7Rk1x0an0YXTXP-0rsVLeByrPV4M9Alv78FYh77L10XaC1L2LbETW1hY1HINzYyLKq1B8ae4zXjVGPXxefvTqmC4YKnIvvLW1UMnQe-buqf8glNfvF4V4l0P5khtQu&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+25H2+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=JxPvnbLseTsd8J3N4xdXQeip4XdztKu_-rYV49HZMS-5dQ3ze3YirYjQ4Dap1fXSUJHJUIU42S8ULNbY01Nt4a5yt8vP1yL5R-nZ_xMcF9vEdSzneQR50vw0jvVClA-BOzgMbqDQnoLOlaxYTxgA4Z3LopLgLXO4&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+25H2+%28updated+June+2026%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/uQtwCaqc5dD",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/VifgtLJo",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1MYIGHGzONde5ix87qi8sjw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/FjiyaeAJVFf2",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -684,7 +803,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=P1s4XEEcyR0DM2u6B94DAyST3I-XxF1HjdnsjPiACOn83ArxdUft-V9JbqubKLH5A9aCvsS77f04uSLnkFOewImoM877DkLEerJ8KA1tVmcbfuCGG42C2td5VK7BWb-JdFxxJBxWIfs_pIOvwksbL91XTes7DL-N&_pid=&_name=Windows+11+%28business+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=d98xWStGkLRUXNUOhccfbWRALMyFd-K3tuLHZfWQd9pgf3Y55-lmO2KU_TwvKV4GIk3U5-4x28akgfSaJ5Zm6C0xhz3SBxZ-WwzZyBE7fVfzAU3UpiYgI50C7cDKBesBCHu1f7w2rSkX9PLwnqThqlhMio2iVA-u&_pid=&_name=Windows+11+%28business+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2025-10"
@@ -758,7 +877,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=WCLTy0U4N3ddMxhzVD6EdwOe6Tj_VdRLZeLqzIWR0heRVH2ZHNm15Ot_zR0bEdc1PfYz1CZklfivyoZNYRp_nJziW1MzTFr-MT4Gk89Foqtbz_0Djw8pttkWW0RP1QCd3rHRLwgQQauCmWylhhmlsjw5S6XMi1-3&_pid=&_name=Windows+11+%28business+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=93QurrfogpalhqzjK8I2ZvCiVqgzAuR61SYZSPCzuu6nUJ_y8AAdl-GzwIwjcyA5WsarGiOZfoWcMc_DzGNmG3PBszkpbTDPExx-bPV_5xqOO9MFYwAiuKeFa5bsUb6rm5TotZLV04VBI1Z9oanYVG935NLKLqM9&_pid=&_name=Windows+11+%28business+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2025-10"
@@ -863,14 +982,42 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=5h3te-emjfmV2w3LE_L41SWApW8_vF4x6xW0Q4NpApYYGj0ktSy1fPR4voT_xCnGzY-m8c8zRlAzhUUsIZ6D4fwBr4o8PlEkvaQy4vARHEr53FZW4I7wWkkXJNg9P1FwTyzIHMaQdYsS7ntim-80nS5wVHXfJe_n&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=5aN4f-V0U3ch8OTYlb64qLxOsdRkhUTj781ZSpOGAmCuo_h-RJA9xTunbJh_LdYmBpUte1DE8fCZ0ZfLGCDyXFFjPE-oeklL3ALcqgtTJ7QkhKAQOTz-qJAH9Sx-AAjBgJ9EnmG62h9-iIrxOBcY6ozpan9gUsPR&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28Arm64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2025-10"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/NbBeKiA2Dfj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/YFNkHnvH",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1qZ3Fvox0X5cLbR9Gav5gdw?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/beUnIzRB32Yj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "移动云盘",
+          "url": "https://caiyun.139.com/m/i?2w2KVk4Jod2rl",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -909,14 +1056,35 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=_DyBrCSjyBUWZZSzQZluWIXwrpip-eohvBtv5_zg7WvWngUmDCxkmp-OlUxrJSPDO9FwSeGvD6yDv-D1Nvn1FLfKs8Q34JcpfPuP8nKdgvXTBdhWcaHx6IAivyvyIAga6Gqx4B4aHoY1glORtl7vuDibUbw9Lpho&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=Rj95E1lYoqGaE63QVCqOtm2b-xx6nE7E5g3_uhH6OazST8WzrSw_U2fNqCx-ua3Ju72I6x5QPS_rtp50F70LxYJ93E2qbnhvq3gdYa1UJXpxh8RVkNr7T_n9zBJVRx-gOcbkU3RjUDQ0_C_VEqh_Oi-fI0dSxgfC&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+24H2+%28updated+Oct+2025%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2025-10"
         },
         {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/NbBeKiA2Dfj",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "腾讯微云",
+          "url": "https://share.weiyun.com/YFNkHnvH",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
           "name": "百度网盘",
           "url": "https://pan.baidu.com/s/1hlD_si8hZI1BuIktW_z73Q?pwd=msdn",
+          "type": "redirect",
+          "_source": "山己几子木",
+          "patchMonth": "2026-07"
+        },
+        {
+          "name": "天翼云盘",
+          "url": "https://cloud.189.cn/t/beUnIzRB32Yj",
           "type": "redirect",
           "_source": "山己几子木",
           "patchMonth": "2026-07"
@@ -1005,7 +1173,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=buzeD5GugUdeA_LYGzkYypLp_YRshA8WJCZYGTEEp8Xp1SF7tl7ZSw55G70UE3N401_US2Zm0ZgwOTJxQAHR7pooMw8NNsby8yBgRKPnMUWMMQJa0zA1gpsFNhv-tbebeSumLyCvDaCHtrShgK7LHVvl4oRDmrwi&_pid=&_name=Windows+11+%28business+editions%29%2C+version+23H2+%28updated+Sep+2024%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=AAjJCGFl4jzd92eGmZqnoO-1zLnEuYkfVa1ZMmRn5AnkY196ChCyZRESlzH6ScBEMS8VHxwGzxmoUfB7-RgaTz2_2qj2UbhfXnFm6uURE239zfzj14xHeZWYi7uZyCC2UNGryU5nZctVda_065u9n7Dio-NCYSCt&_pid=&_name=Windows+11+%28business+editions%29%2C+version+23H2+%28updated+Sep+2024%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
@@ -1105,7 +1273,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=5Mszfk9lq9_yKSN03DlaLKCjID2CbmFfZtokL5kJW6pWQcwxFoO8xYgKLYsqz9Foob18InI1KMLYmq6ml3RFroCAnfY3ktIp_p44hRUA2wEaIcddiUNnedgJCz_So9MMS1ceZ1zMrp3Q0YyJ4G-n0nnsOxJI_PEK&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+23H2+%28updated+Sep+2024%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=iCafneXTg7aCSuOHcjO31MUoFr_aNCCRypXnVCWIWwFD_CybMcnLRXTYZjA_VWlTNJRumPQSO7q0_cooFXwnusPGRFe1RuvcmQcfV-FxfKDPQT0P50YSdvCjpxKIjoTjtjDpXDB57rkBKC8KbyXoHUueHjx32TKc&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+23H2+%28updated+Sep+2024%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2024-09"
@@ -1208,7 +1376,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=ha9wfZuMjWPuv26EWgPb75-BgYTIqMsIJaL_OgS8GOjHY9ZtaGx6K3OKwzetr-Ss4PD9xioviOTHuWBUSBk2uK7cIqiPmTfvB3nah8teMXqdrFe-hQS1JkPZ9GHZMRa5QxUQXktl7a2fhvFwHP91bhZlJNKXx6AI&_pid=&_name=Windows+11+%28business+editions%29%2C+version+22H2+%28updated+Oct+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=a6YjOmvllsZnkCH0FKcQmrX0PG6HL3Ua13RfR9_2NKxOrjfp7HaA9hT8U5TdUfT1366kHIOQHZKqRGS5Ux_m7v8mJwCCPrly_L4TzPcWsixyU0MBRAaQaHgxFeXrlEsjf6Oj8gDUzwLf_JZoRuhL8U70xXMgTdpg&_pid=&_name=Windows+11+%28business+editions%29%2C+version+22H2+%28updated+Oct+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2023-10"
@@ -1276,7 +1444,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=XLrDzNFn8FIgMPXRc9cgL9CK2XU7vGBR_kKMFJIPxq3OC3tWu3sMSz3S0nmzaBEW1ed0Z9GJBnKqU8Gk5mtNDBP7c_yyhgzW9D1qeVXo-qclQBO7YDtbsqJiKg-D5CJV47xspaj7U53VAM2VUGrA3wC4riZdOA3H&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=skkYrsqP6i0JIoHw4Qzyl1G1w26Lt16Os6TZsCyOa9InFczXm3tMsyfgTY7LixA8bwjGU5rmsLcEWtA6-NbVF3UXEZ43izm5ldyiLBSezeWNa9bq3bnS4Y8VDLHMDUIEvLOkyQg9FKYeRbLv1zwOCXAHSXljLSeq&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+22H2+%28updated+Oct+2023%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2023-10"
@@ -1342,7 +1510,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=0H9T_ibGVYbR6xh23UvI3hFPOMHR8bMpECba1DNK78Q1EhtNtJ2pt30695XGG3iA-E15EVCdR1dPnpo45yKBZrilNJNSfziFSE8_-nJ8vhhVtK59aCDVITnWUJ85tVSMA_m7obIcgs7aw8NemyZN56vJenSiIeb3&_pid=&_name=Windows+11+%28business+editions%29%2C+version+21H2+%28updated+Aug+2022%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=xjHW9hO3cktw3ARwSu9Hqhqb_6oarQnnNO2w9FQm0-WZpMEzyxkOIDZRYCidVUf3Bi3OAtmDS2OTr85e1_-3L8TP-rHTXit9lWybf1Lpmm4i_U1SsFiPSXCdCVzeV-gh0C81qjutFibrFDNEP_eIDXAqBjt6nln_&_pid=&_name=Windows+11+%28business+editions%29%2C+version+21H2+%28updated+Aug+2022%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2022-08"
@@ -1417,7 +1585,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=eTMtdwymFast_APfEbiE8FOlObizzHEFdBtUIQzH_B-fkdqwU1au6Em8ELFluUAaw8vZ6Zc9Qotd9EBRi10cJjxra_ropVBbSi4A4ZnHU0mw8-tQ4ZZnQAYdHaSuJe5gC_JoSCxkfhPbg_yvUt3vFj89B0SqPZNR&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+21H2+%28updated+Aug+2022%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=_o_k1Y3jOt-sevY2Jfp7T632i-wPnsEPzJm08kVYZuT7iJB9_p7EYssQoGiTSyawVlywdGq4q_YIpRLHhJ3iTDg2K7vl8H5KmlHQUtMpaL3zo3ja1b5-OPhiO1Bq0l7cTjmp1ENp8I_LFvapCEvRnKH5LzzHeZIx&_pid=&_name=Windows+11+%28consumer+editions%29%2C+version+21H2+%28updated+Aug+2022%29+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows",
           "patchMonth": "2022-08"
