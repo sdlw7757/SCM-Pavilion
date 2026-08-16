@@ -603,7 +603,7 @@ furnished to do so, subject to the following conditions:
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sdlw7757/SCM-Pavilion&type=Date)](https://star-history.com/#sdlw7757/SCM-Pavilion&Date)
+https://www.star-history.com/?type=date&repos=sdlw7757%2FSCM-Pavilion
 
 ---
 
