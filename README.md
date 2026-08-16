@@ -601,9 +601,7 @@ furnished to do so, subject to the following conditions:
 
 ---
 
-## ⭐ Star History
 
-https://www.star-history.com/?type=date&repos=sdlw7757%2FSCM-Pavilion
 
 ---
 
