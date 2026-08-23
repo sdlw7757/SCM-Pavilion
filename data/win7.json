@@ -12,53 +12,21 @@
       "sku": "Ultimate",
       "fileSize": "3.19GB",
       "hashes": {
-        "sha1": "2CE0B2DB34D76ED3F697CE148CB7594432405E23",
-        "sha256": "70CDFB0CDCBEB2659163E9417D5C242B37AE564DA810E7DA21DAC5C8492AB72F"
+        "sha1": "2CE0B2DB34D76ED3F697CE148CB7594432405E23"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=3sWaEW5Sql23p4Qh8HJ0xdqB24e5kyC_aoCzeZ8uZH7ZFb8gzTErSJAyYWU_SFlNGrWWCCFXgvhpFVxQVbjWBaoUcmY2rq_Fde4KWwauWM_Wa3PeKyIC7ekUnnbc-NgrFJ1Bb7-xezEWak8rIPA6GatIm6QzS3oY&_pid=&_name=Windows+7+Ultimate+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=_O5OcfXdnJzEWlfiQooXD-s0IDlEOJ1hxw0opyJpQ-KA9wxKn1LD7X3uQ7sPyAiqTwqTiDz87snCCujp5vJL7u7L5FTAckk7kQ855-wDqCtnFZEtbQUkOY4JPMhhugHUokFkC0M7zd0P8qveK0b2pDUSfta48nCW&_pid=&_name=Windows+7+Ultimate+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1gamhuXCFBT_OPTY-Mu165g?pwd=msdn",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1L4rvzS396Mga69uZPd4rfg",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_ultimate_x64_dvd_x15-66043.iso|3341268992|7DD7FA757CE6D2DB78B6901F81A6907A|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -73,53 +41,21 @@
       "sku": "Ultimate",
       "fileSize": "2.47GB",
       "hashes": {
-        "sha1": "B92119F5B732ECE1C0850EDA30134536E18CCCE7",
-        "sha256": "36CFB7C93C86938FBDA94A134D536B74F900232C4E2E67256030A7A51EDC3362"
+        "sha1": "B92119F5B732ECE1C0850EDA30134536E18CCCE7"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=3A3djW7e_DAiXxLiejpeIb8gcAPpVFH5dhwq7bUrXYPTWVnNiC4wohwhdnwxeym-qyLFxrBny6zptL8RdFU0GUh91jcq9tKJIXxkbqVoFomYg7lv5mZO1dqdsOIHaZs4CPknOEbg9faqhfXQCJ8JruML8pK1yJAV&_pid=&_name=Windows+7+Ultimate+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=ZRD7mtRPNw3F7g_qTXNgFB_vBMQd2XrxT3QTwWAe-BbgfSvqTlVX923FLoWk4k5rq5ZtWt7Xvm-ubZqp-QsZ9qegO6jNLqhdq0StDRtgtJoVQQBgEUgTB3nCrICToGewNPvdiOTU-i0IXsxWT1vhNuuvAgMySbnl&_pid=&_name=Windows+7+Ultimate+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1SPPufXfAMAOqOMRu6abA8g",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1TTxWHrYsZATI7u7JJmvrmg",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_ultimate_x86_dvd_x15-65907.iso|2604238848|D6F139D7A45E81B76199DDCCDDC4B509|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -134,53 +70,21 @@
       "sku": "Consumer",
       "fileSize": "2.47GB",
       "hashes": {
-        "sha1": "9522D435348353BAD69047C0161B7A9115A3C2A6",
-        "sha256": "09723CE70AEF7F8836FEBBBBFBDC2BB0CC145F0B4FC7026B41D76F9D0F0F70F3"
+        "sha1": "9522D435348353BAD69047C0161B7A9115A3C2A6"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=Ccb4lhUQUtgj6wdbdFJw4AV807vT96bNU6RgVX1JQV4tBUBlBUvIr7MMb0gRsOJYprMwj6FQi2nb9uJJeXtiP4vQGqjNBa86rDdptAmY9bF0YrmHIm8uV4rLpSKvzEt93ASQUv3a7jnMcRzbeLOqn03j7rkTNqVn&_pid=&_name=Windows+7+Starter+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=icCxapWRvgVB7d3sEq_PkAErkjSI6zfLQRZXD5y6oX2SCsPJPw9qxtsGe-QGML5hb-M3_4xbH9j59a_NDPgkDvEDcP2EqlLDU0UxXG_VUKXf5XPoy2OvoHg9eOgsPDNDwGyqrRCb18Eo7JcDTXZo9-alX2QA-TVh&_pid=&_name=Windows+7+Starter+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1DhSBPP8Pn1p7ozgyplwmBg",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_starter_with_sp1_x86_dvd_u_678536.iso|2653276160|B0A788EA28B2491B4587A561A8CB5B19|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1SREkRp07nFasB9QlrCPuig",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_starter_x86_dvd_x15-69303.iso|2604238848|5A6796B2B6A97B3E372F7C37D3A42AA4|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -195,53 +99,21 @@
       "sku": "Professional",
       "fileSize": "2.33GB",
       "hashes": {
-        "sha1": "27AE9FBAF9EE076F50F153353E42A3BE74A61FAB",
-        "sha256": "B17270A4F15786646CE8E2699CD2C5D4196AA08AE9B862589425A97F19F1CA04"
+        "sha1": "27AE9FBAF9EE076F50F153353E42A3BE74A61FAB"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=j5jZDU4M48xO-N3WzDuQDyMJ6WUCTlsO1PFRdakKYn_Qkn3bNAPqKoP66Zc4jbtMLk8fk-5wY2YAwita0A_XN_gm0RoBAQXIbMqojpqX-q_wMCwrPvAOG-4IIGtlLU0ZBuNV_JwME-Zf38WwNaYfSma3QBbTn-S2&_pid=&_name=Windows+7+Professional+with+Service+Pack+1%2C+VL+Build+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=raigvJIDXWHlomC5SiMwLb9GDg9F0UgvkL7N8sCIcnSIUWPHitDVN0ghaZRNynEPZjkPpO598Nb8riSQ9FABhD6A7eLcyYMZBwadGVxyuqoKcRAP02NF-5kcyqxMmFnMNZO9ygZttTG5QI75VlQttIfZ5JcTA1c-&_pid=&_name=Windows+7+Professional+with+Service+Pack+1%2C+VL+Build+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/101JkdyoeVYgVtRtDfXImOw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_professional_with_sp1_x86_dvd_u_677162.iso|2653276160|08F65018BD9B5BC8D77C1C7C5615A329|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1BJhcsyK9Hyjwaw7v91DVrA",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_professional_vl_build_x86_dvd_x15-71025.iso|2466107392|9EA7E0C2594B5A236FD09D572CA39770|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -256,53 +128,21 @@
       "sku": "Professional",
       "fileSize": "3.04GB",
       "hashes": {
-        "sha1": "647B26479A3A46C078F5B1364A89003A31F4AADA",
-        "sha256": "4E72B1389DE9E1CA5611991FF2E698FC65710B56A59D259F172E9C1F0589334B"
+        "sha1": "647B26479A3A46C078F5B1364A89003A31F4AADA"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=M9lacivwcamOT35TQp_aF5WJjqI8Bj0A0w_4zfqHiR4lgHWgT9NI3_NLwzxdY8jivYpxuy1l2Ntz91cQvc8MAoHjbBP1A8cTxZuxo1lihGqydrNNmbK1wA7kr5yymnf8JzGsFyw81TJO9TNg_P9evk7JQ4HTjFRe&_pid=&_name=Windows+7+Professional+with+Service+Pack+1%2C+VL+Build+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=jn_CSNpRXqUie2LlaPP6PkIGcUdcNXkPcVlgUTJVZCTHO0-gkTHQq6fi4q7RSXSCj5Ze8VHppCyIK-k8GmxLMu_Prhm0H-IWtvbd6O6cJMAvLeB_uw9s49vcM2IheZft7I1hoOwGeMrZbH3_4wXDyxnE0v73DzFd&_pid=&_name=Windows+7+Professional+with+Service+Pack+1%2C+VL+Build+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1vrD-wZDwkITF_JGcGRcNhA?pwd=msdn",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557312|430BEDC0F22FA18001F717F7AF08C9D5|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1mMe4U5SAuoRNnTHmo3TLJg",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_professional_vl_build_x64_dvd_x15-71029.iso|3203971072|23155387CBD0771CFBA528CB1E7B170F|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -317,53 +157,21 @@
       "sku": "Home",
       "fileSize": "3.19GB",
       "hashes": {
-        "sha1": "BB5A8A1480FE54C497601AA1DC7BE698A784BE1C",
-        "sha256": "118009194F720D7BF2BCE3D8B18E04B61FE455D7C99A54455867CC1B8CEF4537"
+        "sha1": "BB5A8A1480FE54C497601AA1DC7BE698A784BE1C"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=qd7GEfUlS8d3fW3Y-Y85ICRGuoycf3waKBpYYSQaftnj4Th1WrR38kq6pAQoZj6phMkskCTMu-PO3wHv3lUKPVm_iJEYuvhwoVjpicRjOyYhMuIQCXDytlgzRreoN8ueXHyBm9gQ9EOLV2OtGg7hMFGFa2XNecg0&_pid=&_name=Windows+7+Home+Premium+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=VQ0d-69o3WcK49rg_TGyohUqoi7MZNoAIAnFYtR2daTCxCGNlFzsitaZV2mbxsjIYdmuU7wF31kZ0JaoqBBG08MZ3W-IMMUVBLt7rrp5VmYlQzi2l88DiTGxRkTFXsS3EIcxm5v-aWIlZCdbocHciO56pI5ONXCg&_pid=&_name=Windows+7+Home+Premium+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1St1sCh3oXEIH4G5T53Rs9Q?pwd=msdn",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_home_premium_with_sp1_x64_dvd_u_676691.iso|3420557312|1A3CF44F3F5E0BE9BBC1A938706A3471|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1udMkI6_EoiX9OqWmLN44dg",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_home_premium_x64_dvd_x15-65718.iso|3341268992|9F976045631A6A2162ABE32FC77C8ACC|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -378,53 +186,21 @@
       "sku": "Home",
       "fileSize": "2.47GB",
       "hashes": {
-        "sha1": "1B3B55C00CA60CE00D7745BF477D523B192E78DE",
-        "sha256": "8AA21409A97EB5ED443E58B837E6C534C2755572F056DE1523425F5BCDBF1848"
+        "sha1": "1B3B55C00CA60CE00D7745BF477D523B192E78DE"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=xb5LbAS9s_ckoqA93IyEiAOXJM4_qYXdkOsCaUDi8RRgBcac4sAHpnWkUP2gdmT9PFPgOrO4-vSGNsLzcX-9zQf2Ntald4mIwyNos5Z4ktD1WZ8lhVvf9ba46UY3zQgsLiMVCV0lWKpCpGoUDvq0Cr7jo3-BDVa1&_pid=&_name=Windows+7+Home+Premium+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=biSHicNn-w5Ly6g76a-_-Oht_srUajpkbCTIoG8-GjdQOaFhvFsoDMhQA1nMNaT-UFepQ-LcUs3bXkjGu2gLtGyn6hyCn9kdsmhuRyXzmqP0k7s0MBlBhilcathc5O8PutCMoU8xB2g2kSUulXMZyXTKUUt6uuGx&_pid=&_name=Windows+7+Home+Premium+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1Pcl0wSMsGc4gTRh8bZd2rw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_home_premium_with_sp1_x86_dvd_u_676770.iso|2653276160|A8E8BD4421174DF34BD14D60750B3CDB|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1maFlTBrTXuqiWulUOc0f_w",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_home_premium_x86_dvd_x15-65717.iso|2604238848|98E1EB474F92343B06737F227665DF1C|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -439,53 +215,21 @@
       "sku": "Enterprise",
       "fileSize": "3.04GB",
       "hashes": {
-        "sha1": "9BA5E85596C2F25BE59F7E96139D83D4CB261A62",
-        "sha256": "D8C179D643342926BD692363E68AD0152DFD1E86C776DA34DADD7FEA702AFBF8"
+        "sha1": "9BA5E85596C2F25BE59F7E96139D83D4CB261A62"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=GdBCQOIe7ozgU9dvMjZYQ9JwC2R3oZ22CymslN-PbmqKDwaFq-UOunoE_CvbpUszdCaCsp3ngYI3NXC2Htz4m5EdEdMw2intQnq5c6zHXKinU2OnCzR5N8Mgs0DSKL4OZM9oAQACHTkQq9e0fWjCzjmuXzMN7PIe&_pid=&_name=Windows+7+Enterprise+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=b1rFF8KpcYKa2IBZZrW28EVQHt5Pl1dFeArdcTekeoH_OAYB1DClRBOKDZfZYQdTyrpWbzGkjx7ndIN_-Aoa7kO1Fx7F_HWZhxPnR91sVp6u7aZFrVMrAZycHfSniPlKZkHdl4gV57kVpGIqqrG0G7Z57FOZV_F_&_pid=&_name=Windows+7+Enterprise+with+Service+Pack+1+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1cxnGngTvdEEe3YblRZFN2A",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_enterprise_with_sp1_x64_dvd_u_677685.iso|3265574912|E9DB2607EA3B3540F3FE2E388F8C53C4|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1q5s-fldkaVG5MnUPuYWKkw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_enterprise_x64_dvd_x15-70741.iso|3203516416|876DCF115C2EE28D74B178BE1A84AB3B|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -500,53 +244,21 @@
       "sku": "Enterprise",
       "fileSize": "2.33GB",
       "hashes": {
-        "sha1": "C488B3D72DDC4AC63BCDCA36820BB986A1E670AC",
-        "sha256": "BB62560314372343C8221D3BCF3039E66197E1394158CA99FE005D084A0A59A6"
+        "sha1": "C488B3D72DDC4AC63BCDCA36820BB986A1E670AC"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=eRU-HOZAffi9l6OKs0GuYuGhZyl-Dr7dglagsvO_XFBA2PwwqlezKzTF662gIHbe3tfnSvG7xZ2Bausytv7RR1iV6lAa4Gm3ysNF4lR1IB5MfvCrvXspr5S7xsqaN_pagLcq1h1j-rSzqbCbX736uRuNPVuXhgkG&_pid=&_name=Windows+7+Enterprise+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=zUkSI__WKYPQqncBrobt52VME99nG3idyt1DBnns8BRfxOZ9n8kty4QdeVO9j7OF58RVFJnGj0XO8v8aP_65jpq4WHrsrs_03PgzS9FeublQcFwVTzr8-OUXCikKYiw05G8HzV62ThNZZaDUuLgYvHm2pQWze8ue&_pid=&_name=Windows+7+Enterprise+with+Service+Pack+1+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/1XrhcfQbpiw",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/10wf6j1vCwN4uyoOt4rahEQ",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_enterprise_with_sp1_x86_dvd_u_677716.iso|2502856704|B3C25EA4DD88D7E54F22D3C3E78C410B|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "百度网盘",
-          "url": "https://pan.baidu.com/s/1dwg5DwDVvArKzsYNo3HlkQ",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|cn_windows_7_enterprise_x86_dvd_x15-70737.iso|2465783808|41ABFA74E57353B2F35BC33E56BD5202|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {

@@ -12,35 +12,21 @@
       "sku": "Consumer",
       "fileSize": "3.52GB",
       "hashes": {
-        "sha1": "D850365B23E1E1294112A51105A2892B2BD88EB9",
-        "sha256": "6B28B9D3B5AA516921CE9A3D55466AA506D4E31C1E3A0A11789351ABBC8E5E86"
+        "sha1": "D850365B23E1E1294112A51105A2892B2BD88EB9"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=U66s62mkT7cJ8tIj8WPvbbp0ckHNkZxINcNRd3kEWaDGhjL6Gxaes4S6y0TuAmIWbWN7UCT4ZYuAH7zgvdroCvIeB3mvbEfwNk9gBh_R8ODMmtEoaSpS1YScJxWEJF450QRDA090Wn-6bl_1aP3rUEClD-4ul0I&_pid=&_name=Office2019+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "url": "https://hellowindows.cn/link?target=MYr0dVHljDgs81g6BD2CaMCx74CPDwUSEsG55o9lp9Pdevtsqrw4jrbujTFrQjU6o4qLGiL8EOx90P2LykW-AnZ5TnxSz56Q8dWyRYd0ZSKUQbyw3LPi5taCPfn7jg6DTw8bFacZRmQ_ydYAQlJt94e2z0XgOEg&_pid=&_name=Office2019+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
           "type": "redirect",
           "_source": "HelloWindows"
-        },
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/2LVLQY6brCz",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|ProPlus2019Retail.img|4473989120|09436E3E97158FC27DCBC071DE8E7A26|/",
-          "type": "redirect",
-          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows",
-        "山己几子木"
+        "HelloWindows"
       ]
     },
     {
@@ -60,7 +46,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=VQXihsLeGGk4QCpPMNm-2hySqVHQeyjduNWh0E80j_Nz7nUwSoPJay2efClRYpvIS22qYfOdjdXtiKpRpKU-tr9pVnpx4zbl4Lg51S9u1Awb_urphOYrHnS6M1KGEtjrrr1WcwHdvUXicLoQIe-sICG8UopkDZQ&_pid=&_name=Office2016+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "url": "https://hellowindows.cn/link?target=7slAFiPn9R8DVYOJPn35nmBl1oWiQqJLIDbp497gfe5uPGsgT0EgnX0GaSq0BIRXKHv7u9Lhox35Pgz6JcHtR4APyN9LX5OVilBoZiwayassggDQfB_ez86U0e2pY8n6O69Pkb8NRtslCiao5BWEq3vItExXlSs&_pid=&_name=Office2016+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -89,7 +75,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=eh2H4uUQuel3cuqL-zms_1HQ4eJDHfBMTv4AblIU_-xKAUeB6K6JPJJh0WSWINwCsTZGjsLpU7hFYAuFbbnYG3dJbSXr1VZyOH-sJWKoexlUsz1kURGGQzqFXjgCegtcnGIRFxs0VTKPN5KYbewvV_DExDFI07w&_pid=&_name=Office2013+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "url": "https://hellowindows.cn/link?target=D8j90NZtwSYhLfBWnw0gYBHuBed1b3i9MoN-z25FOQtmkWRR08uA0DdMhxIyEgzzhGq6doSuWra7tYgWsQKqbCip4XaYiIxscB2e5jXVg5tQStE1_F68SAC-ejn9X2t8RkBYno-NKP5VK3K_oBtF92Yd3GTwkPY&_pid=&_name=Office2013+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -118,7 +104,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=aJ6S9w_c55rmaLcxZr02Bxd5wx4Ma-dBhCNMiOnA_BFQ01e3xC1WeXK1g43O0G0gkTELtesGSL-CXyQ7sf2lLMcDN3kqZnieVc6wGxszJ-UUNY8r3ec96KslUuHTRj9vehMLDwaO9oO_HGq9kPNeefPCv8O345o&_pid=&_name=Office2010+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "url": "https://hellowindows.cn/link?target=4XHm4VcLGCkTwALaoxgKZSXWl0BE9mFcQvEoQl7TPM8UeiYQn9RAWNlXbzjHBsGrl1VEuUr5N9J85JKA7f1TfCUGBtrTUFUJXt5m2ya3aykMPli67KGTFds66pr1tesnSnJJiupVaJ-jc5aiyGZ5qu4KlO9GwFc&_pid=&_name=Office2010+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -147,7 +133,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=vQdG4AhJd83zsiPRo8M8DJ08grywj5WqbrmidXVsb5vV6qSqND9fbQYFKMVv7WG--MwU6__zGP0OKqLBp0fZMGJ5XDMQlW0mgni7jAfrGsYievEYkSwYxB2Z1oQxha3jZRcmkQgA5nQi_KaUD7PkJT-V__YUxAE&_pid=&_name=Office2007+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
+          "url": "https://hellowindows.cn/link?target=Cs1ZvUoRBryKnjE7Hi7HoWJPWmNlMmU-L2IWNuR2E7i034on9iQneZeEjGyUlZjFLJJnITOukBO_93Osyb0Rof0KkCY0UTgTtKnCoSp4pY5bYrgblOYnbwW8V_p8GtWxf9VXuWCLLQwGMvRH8PU8nQtolKTzxMw&_pid=&_name=Office2007+%E4%B8%93%E4%B8%9A%E5%A2%9E%E5%BC%BA%E7%89%88",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -176,7 +162,7 @@
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=VAsspcjCeZAiW0x6dZjTasbE5qToOLL8v6g2AwWhzYCbJ1tj7n0_P5KsK_1Yca4Kp0d7xczl22XOTJJuSTe-mLfhAjwNEEmx2tOKg4UAn45REzj4-LcVz4CEbh9JXLyUQVab9NQNkcTMqlo-YGo4cDLQKlERJ2M&_pid=&_name=Office2003+%E6%A0%87%E5%87%86%E7%89%88",
+          "url": "https://hellowindows.cn/link?target=1GzI6N6Gm6Rzzt_fzgpAGn4glvdcpsKvkcwNvP0okypdY-tUYfD2pNQAQ2wgKdKIA6JaC_1zcNBlH_mW9LwxVjoLmsK1ZWFB2lebViQ3gHL-kWbWBfNXX3Dnbwl7suFbmsDHjzB3UCNgEHkZrSnetD3D-jGkz9I&_pid=&_name=Office2003+%E6%A0%87%E5%87%86%E7%89%88",
           "type": "redirect",
           "_source": "HelloWindows"
         }
@@ -186,186 +172,6 @@
       "_source": "HelloWindows",
       "_sources": [
         "HelloWindows"
-      ]
-    },
-    {
-      "id": "win-ce857bff",
-      "name": "Microsoft Office",
-      "version": "2024",
-      "build": "",
-      "releaseDate": "",
-      "language": "zh-cn",
-      "architecture": "x64",
-      "edition": "Consumer",
-      "sku": "Consumer",
-      "fileSize": "5.28GB",
-      "hashes": {
-        "sha256": "80C812D190C2EA0B8EAAC01A6F66E8F03AC2D8708830E224338B74501941959B",
-        "sha1": "26E5B4970896E4545108D4C2C470AEA75EE315B2"
-      },
-      "sources": [
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/7XUPu7XwRQa",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|ProPlus2024Retail.img|5668507648|93CD2DBADAA09BFA43F92A51A0E111A6|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
-      ]
-    },
-    {
-      "id": "win-6c6948b3",
-      "name": "Microsoft Office",
-      "version": "2024",
-      "build": "",
-      "releaseDate": "",
-      "language": "zh-cn",
-      "architecture": "x64",
-      "edition": "Business",
-      "sku": "Business",
-      "fileSize": "5.28GB",
-      "hashes": {
-        "sha256": "99482AF14C3D581DF976ACAA273E279C2B507B31DF849C4D7692FE534BF9DBED",
-        "sha1": "CCEB2622D9BF0E3A42342B63986EE898D710E689"
-      },
-      "sources": [
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/7XUPu7XwRQa",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|HomeBusiness2024Retail.img|5668507648|E82737D7D5CB8244A234E031C82B9F04|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
-      ]
-    },
-    {
-      "id": "win-1b3c46b0",
-      "name": "Microsoft Office",
-      "version": "2021",
-      "build": "",
-      "releaseDate": "",
-      "language": "zh-cn",
-      "architecture": "x64",
-      "edition": "Consumer",
-      "sku": "Consumer",
-      "fileSize": "4.86GB",
-      "hashes": {
-        "sha256": "43B25A7D4F534401D0DFF2469BFA5DC86D16AE002CB6FD1ABE437509157C7A3E",
-        "sha1": "BF523636C00E8E26951EE835F8996F661A515E9E"
-      },
-      "sources": [
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/SPqxDPUj6Qc",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|ProPlus2021Retail.img|5221414912|8B767E232A8E77C79431F09D3D59D9C9|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
-      ]
-    },
-    {
-      "id": "win-03fbbf9a",
-      "name": "Microsoft Office",
-      "version": "2021",
-      "build": "",
-      "releaseDate": "",
-      "language": "zh-cn",
-      "architecture": "x64",
-      "edition": "Business",
-      "sku": "Business",
-      "fileSize": "4.86GB",
-      "hashes": {
-        "sha256": "1010DCBD534239EBCF5409FB8881860B89366E3DBC7429321B18BDAB88A63EEA",
-        "sha1": "533478D547D4378A5706E7BDA3BF7F66B79B076F"
-      },
-      "sources": [
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/SPqxDPUj6Qc",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|HomeBusiness2021Retail.img|5221414912|3ECD6945C72474FB3F9D3004E90BF63B|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
-      ]
-    },
-    {
-      "id": "win-eacc8728",
-      "name": "Microsoft Office",
-      "version": "2019",
-      "build": "",
-      "releaseDate": "",
-      "language": "zh-cn",
-      "architecture": "x64",
-      "edition": "Business",
-      "sku": "Business",
-      "fileSize": "4.17GB",
-      "hashes": {
-        "sha256": "48166287AA0CB750AABC3F181660A4D2E5DEC9F7C779C97334339B599EDB3979",
-        "sha1": "7BB9EF3C0364453B4BEC1CDF274058411F5D1D4E"
-      },
-      "sources": [
-        {
-          "name": "阿里云盘",
-          "url": "https://www.alipan.com/s/2LVLQY6brCz",
-          "type": "redirect",
-          "_source": "山己几子木"
-        },
-        {
-          "name": "ed2k",
-          "url": "ed2k://|file|HomeBusiness2019Retail.img|4473989120|094CD6DE4563A25DB1989ABD9FF6C037|/",
-          "type": "redirect",
-          "_source": "山己几子木"
-        }
-      ],
-      "originalSource": "Microsoft MSDN",
-      "verified": true,
-      "_source": "山己几子木",
-      "_sources": [
-        "山己几子木"
       ]
     },
     {

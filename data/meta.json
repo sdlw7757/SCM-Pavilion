@@ -1,15 +1,15 @@
 {
-  "totalProducts": 155,
+  "totalProducts": 140,
   "recentUpdates": 2,
-  "lastUpdated": "2026-08-23",
-  "lastUpdatedPrecise": "2026-08-23 00:29:13",
+  "lastUpdated": "2026-08-24",
+  "lastUpdatedPrecise": "2026-08-24 05:11:00",
   "categories": {
-    "win11": 25,
-    "win10": 73,
-    "win81": 6,
+    "win11": 23,
+    "win10": 67,
+    "win81": 4,
     "win7": 18,
     "server": 8,
-    "office": 25
+    "office": 20
   },
   "sourceTracking": {
     "windows_11_ltsc 2024": {
@@ -466,7 +466,7 @@
       "publishDate": "2024-09-20",
       "patch": "",
       "latestPatchMonth": "2024-09",
-      "productId": "win-ce857bff"
+      "productId": "win-bfab71f8"
     },
     "microsoft_office_2021": {
       "systemName": "Microsoft Office",
@@ -476,7 +476,7 @@
       "updatedAt": "",
       "publishDate": "",
       "patch": "",
-      "productId": "win-1b3c46b0"
+      "productId": "win-836866ee"
     }
   }
 }
