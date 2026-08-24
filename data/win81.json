@@ -12,27 +12,65 @@
       "sku": "Enterprise",
       "fileSize": "4.02GB",
       "hashes": {
-        "sha1": "0C1EE95EBB1714B3EE8453F840DF8FCD41B0F766"
+        "sha1": "0C1EE95EBB1714B3EE8453F840DF8FCD41B0F766",
+        "sha256": "9077A728500610F6599A130E64E6F7CFBF814949062AED373965D3A2D624B920"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=lHj7NpCtePMKudON41b0OBrzXN2X_SRe8bNhzMjrslRbO0k3OXiudgJ_G58XtSvkFTvd2HNv4KbusGZ06QLrWHJ9FMe2ZRZzTVBzmouy47_AFkcxozQRlBs8wvVXbEhlFfXj_kPhjoDEVIN0mwsOjYfRnsqPnSie&_pid=&_name=Windows+8.1+Enterprise+with+Update+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=1b2uMh74pbHP0XjelKyt0RmSyaT7yAxclpO-dYXVu1lRnXpTarOJTeKfg7-WVUcqaPa4d95psO-ELtyqtXwjW-PbbvTVBmxepqpu--yXNNBLmcvJEe0vKVn-ly0xB-ytCX0O_dDuv93vp5NzmWteOK2nNdCh0PE&_pid=&_name=Windows+8.1+Enterprise+with+Update+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=JpS836_xWMoaJfa3-iNlEqYAl6kM3to65zEIFjgAw2XeQKpE5NRk01TyioMpETpc1Iek_2axOk13oiS0mFviFSsCmujwqTxHuY55mCjKEBEHlzyARtZwvQgBoL1twv3rI4PqaiGXLwh_BqEK8froegfpGQrh6Ctz&_pid=&_name=Windows+8+Enterprise+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=MITt5N549a5wPEiIl_0arDCkEV-GesECVyQuXEX278ciCr1m9SbFwQTKMNTj5or5xtMDVlNnbYVJLyqv155FF8ekUSCS7z7ENB-DqEUcrAQlhN1orMh2AP8RqMec8F4xietu-1C10cXojxqg2BnjC_wGyUi4SAg&_pid=&_name=Windows+8+Enterprise+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7kvWSgCLg1S",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1R5-RoB1tAAziP1kiOlXX_w",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_enterprise_with_update_x64_dvd_6050374.iso|4317065216|AC8215A13817CC0EC4EA42E5C92E88B7|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/aZamgzjNPfi",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1FVx4dBqv26_JrLc5-pqkPA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_1_enterprise_x64_dvd_2971863.iso|4039327744|08BAF18320B8FFC58D4C35BCC7A32012|/",
+          "type": "redirect",
+          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows"
+        "HelloWindows",
+        "山己几子木"
       ]
     },
     {
@@ -47,27 +85,65 @@
       "sku": "Enterprise",
       "fileSize": "2.98GB",
       "hashes": {
-        "sha1": "B1FD75ADFC52550C3E72DB02C8AFB456D404964A"
+        "sha1": "B1FD75ADFC52550C3E72DB02C8AFB456D404964A",
+        "sha256": "646E8A2C76E128FBF38F5D8B4E17C51F0748A5CAA34D8AA4B7CC6DC05A93E70D"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=7BU6yEJwgPP44YeJYUUzQqnp4bLOTMFkBHBQ1YAzoV05KOZ0nlRIz71sqpSQTfVhx1ymYdVr-DlAymZMN6nrWzuuaU0-wZn1f3h3TiiKL0zMLmivWx3seSGbC1q9fXhMtn0_M5MgNP14lb_3aILmH5hrfZzpXu4O&_pid=&_name=Windows+8.1+Enterprise+with+Update+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=tauvN-xRjLdqwwebggOvOBJq2k4A_h5dBONxWPppop0RbEBWjleDyzeBFbhvO1h8EN4EtTB0XNVkPxvFKIPoGqTDqGrsF1l8XxEMxzzHcF0SFptXbkv5eDVHuCjiRFqLAHY_rrjmqrdmFxBdoLYQOomoEKP_ogI&_pid=&_name=Windows+8.1+Enterprise+with+Update+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=p6ETfN4h0woJf79gf0x3IvsBO2FD8xXK27lr8ANg7cLyKW7EHRGa4na53IdhbvznI-vkf62F5dWv4mi-pGK2QN9H_isBsvqCtsa5_vG-9UPWekOBuUuC6E16N7o8nNKbVLkvU1ESPewppf17IPrjf_A15QreDTin&_pid=&_name=Windows+8+Enterprise+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=G0W-MhaVJHvuQRhnARKtno1ADXi2uX_k4ijw6IHMM1U5wP3zA1ZT_IyLcq26_ipD-Mpa4lIKQK2Qddip88P8DJGXib3jERm7wh-ZV4OZRbyYY-3jsky_WTmAmL__8DQbdCS89ZwZ8d7Oj2TOTb00qJeM0uY3cw4&_pid=&_name=Windows+8+Enterprise+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7kvWSgCLg1S",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1qjHLST9RORByPpd1PdQPpw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_enterprise_with_update_x86_dvd_6050645.iso|3199901696|0209A1FDE82A5AC7A248B4CA3F860F2B|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/aZamgzjNPfi",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1CRzd32Pf0IRDhhpnphjZug",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_1_enterprise_x86_dvd_2972257.iso|3050842112|6B60ABF8282F943FE92327463920FB67|/",
+          "type": "redirect",
+          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows"
+        "HelloWindows",
+        "山己几子木"
       ]
     },
     {
@@ -82,27 +158,65 @@
       "sku": "Consumer",
       "fileSize": "4.02GB",
       "hashes": {
-        "sha1": "15F67116E6616A70B89EE0079B34E64635FBD8A0"
+        "sha1": "15F67116E6616A70B89EE0079B34E64635FBD8A0",
+        "sha256": "5C103C6DCDE8CB3D50D1DB0CFC3A7BE18DAE6D77688F5FF6E3966FE3B103F7CD"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=I02D2nRJTlP0vwATt_C8dPmH7TWHWCOsfuEnWpN1voaTvHLPsDmfiBZ5rvrXdy-7eAuHzHfhNCTsoKdfwQSEgtninn7BkG35pIh-KSRdpJsR4Z2IUUaER40stuRxZ97I_vkpd5_EY6OpEi8i3Enytl1jm0bHod5Y&_pid=&_name=Windows+8.1+Pro+VL+with+Update+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=mjyBrxWxJ3UkcNw-eAnrLGoL7xHycppuXHvycH0xVu83lnm9f6xVp_R-K0FqyNkZkbkztE8clP0ZP5EsN-aq6FRhwILr28ISjVeUvlchk7EXv2XPd3Ol2EnVYn_yJBwoVxlzjj5_pdb_cZ6teUa5g1Xs99Jnm7s&_pid=&_name=Windows+8.1+Pro+VL+with+Update+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=6cxmjfEhbCyAqyl-BjxSwDq4TLZh_sTO_WzTWCaVosGsm1Lwye6hUypO_HLo6NoyH2lav84uy2hMleFGzC-TBzuJBxYO_ZJKMmuhxzKBUOJ0A17xcRUyJklMQW-rscm3vmkOr6WdGO55-1Eex7ASkIQlSD2MJc9U&_pid=&_name=Windows+8+%28x64%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=iYYDAnL-XTSTwmmIO7a6oAXLm3wzMTUL-zzeSqrWBsatoNPOd8fj8OeCoqSuf5mhS-zE4jASNhAeFoLzl8jdSfQ9M1cY3m4WhdfjqAtFprCkWsWAAWClo3Jv85MV11AYk7eAPNMSOh_JkrW8px5Vx8A1aE_R24Y&_pid=&_name=Windows+8+%28x64%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7kvWSgCLg1S",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1vknfPbMceSpjC1f1oTCOxA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_with_update_x64_dvd_6051473.iso|4504475648|D66BEF759548656EDA981D902A957545|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/aZamgzjNPfi",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1YNEKm4W7ReN_XDNkKLQ-GA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_1_x64_dvd_2707237.iso|4076017664|839CBE17F3CE8411E8206B92658A91FA|/",
+          "type": "redirect",
+          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows"
+        "HelloWindows",
+        "山己几子木"
       ]
     },
     {
@@ -117,27 +231,179 @@
       "sku": "Consumer",
       "fileSize": "2.98GB",
       "hashes": {
-        "sha1": "9559E5FB616F8E5F25BAEBF64312AA5B99383771"
+        "sha1": "9559E5FB616F8E5F25BAEBF64312AA5B99383771",
+        "sha256": "24D8B92338B781801396EA128A8FCFA094CF34DA548658C89F7A58F168E3E651"
       },
       "sources": [
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=DmoUBsGIhTXkiWT4J_jWQ15zaAX6Bfe8SjSYgOphDD6ILcYdN_z7w4nmZuRx0XdFAYkMp506mNc2PkzPSQ8TFY0wEI-wD1NNSfhtdDbZ2NMSGSiYWYl7LTChsJrhrYtQvxZ1aljUOvnQ1UInW3WBM0UDeyiNzNNC&_pid=&_name=Windows+8.1+Pro+VL+with+Update+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=76KvcMj7yRx85fWLUEi6BMY4fpeje7wJwTU9EHxQj0vUxmy8yKuwTrHPLtZ1JOSoPg4xGbuU69yCEXSXEZu9VYkwjXnnYEWtBpXl1L3MktXGaFT4XiwkOsfT6t7J-Ut2ZHm3gJzOxUI9lKDxg3cgGcXEeWyupzI&_pid=&_name=Windows+8.1+Pro+VL+with+Update+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
         },
         {
           "name": "迅雷网盘",
-          "url": "https://hellowindows.cn/link?target=-Xbtq3u-BuNxoXdcAOnul8urZmp9BU91zHkQSuh1MHrVJqwUsnBfNIKDGPhAbGfEyzn-W60sT6988CsQibZQKWk_mAJsXmvu7L4MPTb3pUQZP0CT2QwkUeuix2WETXmM5bVjgFSVel6CBlSk61rt570LQVOBsVx_&_pid=&_name=Windows+8+%28x86%29+-+DVD+%28Chinese-Simplified%29",
+          "url": "https://hellowindows.cn/link?target=uuKvTjzhVdBGBiFVOascWiIgmmrJLoD9Ozpj-CT7LLb3lNn8y5Z_g4y-dDiSs0HyAYR2rVpmkk7II4KCwPuyKP-hozBY8qnHNuQsNz15rRoE5g2LQQ9u2JQpaoSWll7Z7O2a61Vm2UFeTDOvskAqLDZn3BnR7XY&_pid=&_name=Windows+8+%28x86%29+-+DVD+%28Chinese-Simplified%29",
           "type": "redirect",
           "_source": "HelloWindows"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7kvWSgCLg1S",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1EQAWsHNOAeGmAc3HLCmKwA",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_with_update_x86_dvd_6051523.iso|3349960704|C1B8A61BD8F1300825BF03C4D31B35A0|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/aZamgzjNPfi",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1igWPQUFhf6L9VWP74go1Kg",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_1_x86_dvd_2707405.iso|3055904768|B296A943F16FADFC5FFA2F1D583DCC49|/",
+          "type": "redirect",
+          "_source": "山己几子木"
         }
       ],
       "originalSource": "Microsoft MSDN",
       "verified": true,
       "_source": "HelloWindows",
       "_sources": [
-        "HelloWindows"
+        "HelloWindows",
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-0d8d92fe",
+      "name": "Windows 8.1 Professional",
+      "version": "",
+      "build": "",
+      "releaseDate": "2014-12-15",
+      "language": "zh-cn",
+      "architecture": "x64",
+      "edition": "Professional",
+      "sku": "Professional",
+      "fileSize": "4.02GB",
+      "hashes": {
+        "sha256": "E1BCA3989E4F3A0F69EADD059018BCFB16B3E915A45897A0F552990696B84635",
+        "sha1": "15F67116E6616A70B89EE0079B34E64635FBD8A0"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7kvWSgCLg1S",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1ob_LDa9AZDahoI4WhbH__w",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_pro_vl_with_update_x64_dvd_6050873.iso|4317507584|B0888275B5BD40E67D3F178B84B9A874|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1fNRceQqj1X-i759QrJ1anQ",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_1_pro_vl_x64_dvd_2971907.iso|4032598016|1FDA520B3E8880E2FB00B20439E0826E|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
+      ]
+    },
+    {
+      "id": "win-7250ef55",
+      "name": "Windows 8.1 Professional (x86)",
+      "version": "",
+      "build": "",
+      "releaseDate": "2014-12-15",
+      "language": "zh-cn",
+      "architecture": "x86",
+      "edition": "Professional",
+      "sku": "Professional",
+      "fileSize": "2.98GB",
+      "hashes": {
+        "sha256": "47A105815EBBC5451C73F180D9C2E08F033F2DA4802FC393404289F37573A2FC",
+        "sha1": "9559E5FB616F8E5F25BAEBF64312AA5B99383771"
+      },
+      "sources": [
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/7kvWSgCLg1S",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Q1WcKENos7AdTpjwwXpMzw",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8.1_pro_vl_with_update_x86_dvd_6050910.iso|3200301056|B078A986993B7EDD474FD09EB6FF7E1B|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "阿里云盘",
+          "url": "https://www.alipan.com/s/aZamgzjNPfi",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "百度网盘",
+          "url": "https://pan.baidu.com/s/1Kb7F0lAwzeR8oy6kfjAs7w",
+          "type": "redirect",
+          "_source": "山己几子木"
+        },
+        {
+          "name": "ed2k",
+          "url": "ed2k://|file|cn_windows_8_1_pro_vl_x86_dvd_2972620.iso|3049981952|5B396C3A0BA99617647D9AFE8403AFA5|/",
+          "type": "redirect",
+          "_source": "山己几子木"
+        }
+      ],
+      "originalSource": "Microsoft MSDN",
+      "verified": true,
+      "_source": "山己几子木",
+      "_sources": [
+        "山己几子木"
       ]
     }
   ]
