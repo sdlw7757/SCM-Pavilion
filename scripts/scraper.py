@@ -1159,22 +1159,24 @@ if __name__ == '__main__':
     print(f'\n爬取完成！总计 {meta["totalProducts"]} 个产品，已保存到 {DATA_DIR} 目录')
 
     # 动态生成 sitemap.xml（包含分类页和所有详情页）
+    # 注意：托管平台会把带 .html 的路径 308 重定向到无后缀路径，
+    # 因此 sitemap 统一使用无后缀的规范 URL，避免百度收录重定向地址。
     SITE_URL = 'https://517757.xyz'
     cat_pages = {
-        'win11': 'pages/win11.html', 'win10': 'pages/win10.html',
-        'win81': 'pages/win8.html', 'win7': 'pages/win7.html',
-        'server': 'pages/server.html', 'office': 'pages/office.html',
+        'win11': 'pages/win11', 'win10': 'pages/win10',
+        'win81': 'pages/win8', 'win7': 'pages/win7',
+        'server': 'pages/server', 'office': 'pages/office',
     }
     sitemap_urls = [
         {'loc': f'{SITE_URL}/', 'priority': '1.0', 'changefreq': 'daily'},
-        {'loc': f'{SITE_URL}/pages/guide.html', 'priority': '0.7', 'changefreq': 'monthly'},
+        {'loc': f'{SITE_URL}/pages/guide', 'priority': '0.7', 'changefreq': 'monthly'},
     ]
     for cat, page in cat_pages.items():
         sitemap_urls.append({'loc': f'{SITE_URL}/{page}', 'priority': '0.9', 'changefreq': 'daily'})
     for cat in CATS:
         for p in all_data.get(cat, []):
             sitemap_urls.append({
-                'loc': f'{SITE_URL}/pages/detail.html?id={p["id"]}&cat={cat}',
+                'loc': f'{SITE_URL}/pages/detail?id={p["id"]}&cat={cat}',
                 'priority': '0.6', 'changefreq': 'weekly',
             })
 

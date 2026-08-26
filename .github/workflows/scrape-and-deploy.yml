@@ -96,7 +96,9 @@ jobs:
             echo "sitemap.xml not found, skip baidu push"
             exit 0
           fi
-          URLS=$(python3 -c "
+
+          # 1) 取出 sitemap 中的全部 URL（规范地址，无 .html 后缀）
+          ALL=$(python3 -c "
           import xml.etree.ElementTree as ET
           ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
           try:
@@ -105,10 +107,51 @@ jobs:
           except Exception:
               print('')
           ")
-          if [ -n "$URLS" ]; then
-            curl -k -H "Content-Type: text/plain" \
-              --data "$URLS" \
-              "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=$BAIDU_TOKEN" || echo "百度推送响应异常，但不影响部署"
+          if [ -z "$ALL" ]; then
+            echo "No urls found in sitemap.xml, skip baidu push"
+            exit 0
+          fi
+
+          # 2) 过滤掉已经推送过的 URL（记录保存在仓库根目录 pushed_urls.txt）
+          if [ ! -f pushed_urls.txt ]; then touch pushed_urls.txt; fi
+          NEW=$(comm -23 <(printf "%s\n" "$ALL" | sort -u) <(sort -u pushed_urls.txt))
+          if [ -z "$NEW" ]; then
+            echo "没有新的 URL 需要推送，跳过"
+            exit 0
+          fi
+
+          # 3) 百度普通收录接口每日配额有限（通常 10 条/天），必须分批推送，
+          #    并根据接口返回的 remain 判断是否继续，超配额时用 -f 让 curl 报错（不再静默失败）
+          BATCH=10
+          PUSHED=""
+          i=0
+          while :; do
+            CHUNK=$(printf "%s\n" "$NEW" | awk -v s="$((i+1))" -v e="$((i+BATCH))" 'NR>=s && NR<=e')
+            [ -z "$CHUNK" ] && break
+            RESP=$(curl -sS -f -k -H "Content-Type: text/plain" --data "$CHUNK" \
+              "https://data.zz.baidu.com/urls?site=https://517757.xyz&token=$BAIDU_TOKEN") || {
+                echo "::error::百度推送失败 (批次 $((i/BATCH+1)))，接口返回非 2xx，请检查 BAIDU_TOKEN 是否配置正确、当日配额是否用尽"
+                break
+              }
+            echo "batch $((i/BATCH+1)): $RESP"
+            REMAIN=$(printf "%s" "$RESP" | python3 -c "import sys,json; print(json.load(sys.stdin).get('remain',0))" 2>/dev/null || echo 0)
+            PUSHED="$PUSHED
+$CHUNK"
+            [ "$REMAIN" -le 0 ] && { echo "百度当日配额已用完，停止推送"; break; }
+            i=$((i+BATCH))
+          done
+
+          # 4) 把本次成功提交的 URL 追加到 pushed_urls.txt，避免以后重复推送浪费配额
+          if [ -n "$PUSHED" ]; then
+            printf "%s\n" "$PUSHED" | sed '/^$/d' | sort -u >> pushed_urls.txt
+            sort -u pushed_urls.txt -o pushed_urls.txt
+            if [ -n "$(git status --porcelain pushed_urls.txt)" ]; then
+              git config user.name "winorigin-bot"
+              git config user.email "bot@winorigin.github.io"
+              git add pushed_urls.txt
+              git commit -m "bot: 更新百度已推送 URL 记录 [skip ci]"
+              n=0; until [ "$n" -ge 3 ]; do git push && break; n=$((n+1)); echo "推送记录提交失败，第${n}次重试..."; sleep 5; done
+            fi
           else
-            echo "No urls found in sitemap.xml, skip push"
+            echo "本次没有成功推送任何 URL（配额已用完或推送失败）"
           fi
