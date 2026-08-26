@@ -135,8 +135,7 @@ jobs:
               }
             echo "batch $((i/BATCH+1)): $RESP"
             REMAIN=$(printf "%s" "$RESP" | python3 -c "import sys,json; print(json.load(sys.stdin).get('remain',0))" 2>/dev/null || echo 0)
-            PUSHED="$PUSHED
-$CHUNK"
+            PUSHED=$(printf "%s\n%s" "$PUSHED" "$CHUNK")
             [ "$REMAIN" -le 0 ] && { echo "百度当日配额已用完，停止推送"; break; }
             i=$((i+BATCH))
           done
