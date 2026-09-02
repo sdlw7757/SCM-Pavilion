@@ -1,8 +1,8 @@
 {
   "totalProducts": 155,
   "recentUpdates": 2,
-  "lastUpdated": "2026-08-26",
-  "lastUpdatedPrecise": "2026-08-26 00:29:41",
+  "lastUpdated": "2026-09-02",
+  "lastUpdatedPrecise": "2026-09-02 13:23:02",
   "categories": {
     "win11": 25,
     "win10": 73,
@@ -27,10 +27,10 @@
       "systemName": "Windows 11",
       "version": "26h1",
       "innerVersion": 28000,
-      "patchVersion": "2704",
-      "updatedAt": "2026-08-12",
+      "patchVersion": "2804",
+      "updatedAt": "2026-08-28",
       "publishDate": "2026-02-10",
-      "patch": "KB5121000",
+      "patch": "KB5120996",
       "latestPatchMonth": "2026-08",
       "productId": "win-fa0f8c26"
     },
