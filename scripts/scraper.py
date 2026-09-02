@@ -1161,6 +1161,8 @@ if __name__ == '__main__':
     # 动态生成 sitemap.xml（包含分类页和所有详情页）
     # 注意：托管平台会把带 .html 的路径 308 重定向到无后缀路径，
     # 因此 sitemap 统一使用无后缀的规范 URL，避免百度收录重定向地址。
+    # 详情页已由 scripts/render_detail_pages.py 静态化到 pages/detail/<id>.html，
+    # 规范 URL 为 /pages/detail/<id>；<lastmod> 使用本次抓取日期，帮助百度识别更新。
     SITE_URL = 'https://517757.xyz'
     cat_pages = {
         'win11': 'pages/win11', 'win10': 'pages/win10',
@@ -1176,7 +1178,7 @@ if __name__ == '__main__':
     for cat in CATS:
         for p in all_data.get(cat, []):
             sitemap_urls.append({
-                'loc': f'{SITE_URL}/pages/detail?id={p["id"]}&cat={cat}',
+                'loc': f'{SITE_URL}/pages/detail/{p["id"]}',
                 'priority': '0.6', 'changefreq': 'weekly',
             })
 
@@ -1184,7 +1186,7 @@ if __name__ == '__main__':
     sitemap_xml += '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for u in sitemap_urls:
         loc_safe = u["loc"].replace('&', '&amp;')
-        sitemap_xml += f'  <url>\n    <loc>{loc_safe}</loc>\n    <priority>{u["priority"]}</priority>\n    <changefreq>{u["changefreq"]}</changefreq>\n  </url>\n'
+        sitemap_xml += f'  <url>\n    <loc>{loc_safe}</loc>\n    <lastmod>{TODAY_STR}</lastmod>\n    <priority>{u["priority"]}</priority>\n    <changefreq>{u["changefreq"]}</changefreq>\n  </url>\n'
     sitemap_xml += '</urlset>'
 
     sitemap_path = os.path.join(DATA_DIR, '..', 'sitemap.xml')

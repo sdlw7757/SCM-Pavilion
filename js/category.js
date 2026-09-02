@@ -288,7 +288,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       return `
 
-      <tr onclick="window.location.href='detail.html?id=${p.id}&cat=${category}'">
+      <tr onclick="window.location.href='detail/${p.id}'">
 
         <td class="version-cell">
 
@@ -310,7 +310,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         <td class="action-cell">
 
-          <a href="detail.html?id=${p.id}&cat=${category}">查看 <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
+          <a href="detail/${p.id}">查看 <i class="fas fa-arrow-right" style="font-size:0.75rem;"></i></a>
 
         </td>
 

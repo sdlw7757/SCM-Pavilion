@@ -63,7 +63,7 @@ function groupSourcesByWebsite(sources, fallbackSource) {
 }
 
 function renderDetail(product, category, tracking) {
-  const versionLabel = product.version ? ` ${product.version}` : '';
+  const versionLabel = smartVersionLabel(product.name, product.version);
   document.title = `${product.name}${versionLabel} 下载 - SCM Pavilion`;
   const metaDesc = document.querySelector('meta[name="description"]');
   if (metaDesc) {

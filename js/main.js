@@ -180,6 +180,37 @@ function formatFileSize(size) {
 
 
 
+function smartVersionLabel(name, version) {
+
+  // 生成版本标签，避免与产品名重复（如 "Windows 11 LTSC" + "LTSC 2024" -> " 2024"）
+  // 逻辑与 scripts/render_detail_pages.py 的 smart_version_label 保持一致：
+  // 版本开头的连续分词只要已出现在名称末尾 4 个分词内，就去掉这部分，只显示未重叠的部分。
+  if (!version) return '';
+
+  const nameTokens = String(name).toLowerCase().split(/\s+/);
+
+  const verTokens = String(version).toLowerCase().split(/\s+/);
+
+  const m = verTokens.length;
+
+  if (m === 0) return '';
+
+  const tail = nameTokens.slice(-4);
+
+  let k = 0;
+
+  while (k < m && tail.includes(verTokens[k])) k += 1;
+
+  if (k === 0) return ' ' + version;
+
+  const rest = String(version).trim().split(/\s+/).slice(k).join(' ');
+
+  return rest ? ' ' + rest : '';
+
+}
+
+
+
 function getEditionBadgeClass(edition) {
 
   const map = {

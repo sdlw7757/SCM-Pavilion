@@ -3,3 +3,6 @@ __pycache__/
 *.pyo
 .DS_Store
 Thumbs.db
+
+# 构建产物：静态化详情页由 scripts/render_detail_pages.py 生成
+pages/detail/

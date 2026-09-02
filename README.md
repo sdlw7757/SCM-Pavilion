@@ -182,6 +182,7 @@ pip install -r requirements.txt
 
 ```bash
 python scripts/scraper.py
+python scripts/render_detail_pages.py   # 生成静态详情页（SEO 静态化，可跳过）
 ```
 
 执行成功后，你将在 `data/` 目录下看到以下文件：
@@ -307,7 +308,8 @@ SCM-Pavilion/
 │   ├── win8.html                   #   Windows 8.1 分类页
 │   ├── server.html                 #   Windows Server 分类页
 │   ├── office.html                 #   Office 分类页
-│   ├── detail.html                 #   产品详情页（核心页面）
+│   ├── detail.html                 #   详情页动态模板（兼容旧 ?id= 链接）
+│   ├── detail/                     #   静态详情页（render_detail_pages.py 生成，SEO 预渲染）
 │   └── guide.html                  #   安装教程页
 │
 ├── js/                             # ⚡ JavaScript 目录
@@ -334,7 +336,8 @@ SCM-Pavilion/
 │   └── office.json                 #   Office 数据
 │
 ├── scripts/                        # 🐍 Python 脚本目录
-│   └── scraper.py                  #   全量数据抓取脚本（核心）
+│   ├── scraper.py                  #   全量数据抓取脚本（核心，含 sitemap.xml 生成）
+│   └── render_detail_pages.py      #   详情页静态化脚本（SEO 预渲染）
 │
 ├── .github/workflows/              # 🤖 GitHub Actions 配置
 │   └── scrape-and-deploy.yml       #   自动抓取 + 部署工作流
@@ -427,6 +430,9 @@ jobs:
 
       - name: 运行数据抓取脚本
         run: python scripts/scraper.py
+
+      - name: 生成静态详情页
+        run: python scripts/render_detail_pages.py
 
       - name: 提交并推送数据更新
         run: |
@@ -554,9 +560,18 @@ for f in os.listdir(data_dir):
 
 > 这是浏览器的 **Vite** 插件注入的请求，可以忽略，不影响网站功能。
 
-### Q7：百度站长 BAIDU_TOKEN
+### Q7：如何让百度收录全部页面？
 
-> OcUDMo41PdCnf93O
+> 项目已内置完整的百度收录链路，仅需部署后一次性人工配置，之后全自动：
+>
+> 1. 在[百度搜索资源平台](https://ziyuan.baidu.com/)完成站点验证（验证 meta 已置于首页），
+>    并在「普通收录 → Sitemap」提交 `https://517757.xyz/sitemap.xml`（爬虫每日自动重新生成）。
+> 2. 在平台「普通收录 → 主动推送(API)」生成推送 Token，配置到 GitHub 仓库
+>    **Settings → Secrets → BAIDU_TOKEN**。Token 切勿写入任何公开文件（已泄露需重置）。
+> 3. 工作流每次部署后自动把 sitemap 中的新 URL 分批推送给百度，并记录到
+>    `pushed_urls.txt` 去重，避免重复消耗每日配额（新站约 10 条/天，随索引量提升）。
+> 4. 全部详情页已由 `scripts/render_detail_pages.py` **静态化**到 `pages/detail/`：
+>    每个产品拥有独立标题、描述与完整内容，百度蜘蛛无需执行 JS 即可收录。
 
 ---
 

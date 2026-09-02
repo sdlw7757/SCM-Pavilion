@@ -62,6 +62,10 @@ jobs:
         if: steps.scrape.outputs.has_data == 'true'
         run: python scripts/update_timestamp.py
 
+      - name: 生成静态详情页（SEO 静态化）
+        if: steps.scrape.outputs.has_data == 'true'
+        run: python scripts/render_detail_pages.py
+
       - name: 提交并推送数据更新
         if: steps.scrape.outputs.has_data == 'true'
         run: |

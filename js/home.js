@@ -140,7 +140,7 @@ async function loadMetaStats() {
         const cat = catMap[sysName];
         let detailHref = '#';
         if (cat && productId) {
-          detailHref = `pages/detail.html?id=${productId}&cat=${cat}`;
+          detailHref = `pages/detail/${productId}`;
         }
         latestBuilds.push(`
           <a href="${detailHref}" class="hero-stat-link" title="来自系统库版本追踪：该版本已包含累计更新补丁后的完整版本号，与实际可下载的ISO版本可能存在差异">
@@ -319,10 +319,11 @@ async function loadLatestResources() {
 
   container.innerHTML = latest.map(p => {
     const icon = p._icon || ['fab fa-windows', 'Windows'];
-    return `<a href="pages/detail.html?id=${p.id}&cat=${p._cat}" class="latest-card glass-card">
+    const vLabel = smartVersionLabel(p.name, p.version).trim();
+    return `<a href="pages/detail/${p.id}" class="latest-card glass-card">
       <div class="latest-icon"><i class="${icon[0]}"></i></div>
       <div class="latest-info">
-        <div class="latest-name">${p.name} ${p.version ? '(' + p.version + ')' : ''}</div>
+        <div class="latest-name">${p.name}${vLabel ? ` (${vLabel})` : ''}</div>
         <div class="latest-meta">
           <span><i class="fas fa-tag"></i>${p.edition || p.sku || '-'}</span>
           <span><i class="fas fa-calendar"></i>${formatDate(p.releaseDate)}</span>
