@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SCM Pavilion - 第三方微软原版 Windows/Office 镜像下载站，纯净无捆绑，提供 SHA-1/SHA-256 官方校验码验证">
+  <meta name="keywords" content="Windows下载,原版镜像,Win11,Win10,Win7,MSDN,系统下载,Office下载">
+  <meta property="og:title" content="SCM Pavilion - 微软原版系统镜像站">
+  <meta property="og:description" content="聚合整理 Windows 7 至 Windows 11、Windows Server 及 Office 原版镜像资源，提供完整 SHA-1/SHA-256 校验码，纯净无捆绑。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://517757.xyz/">
+  <meta property="og:image" content="https://517757.xyz/assets/favicon.ico">
+  <meta name="baidu-site-verification" content="codeva-dLwukH4EXL" />
+  <title>SCM Pavilion - 微软原版系统镜像站</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "SCM Pavilion",
+    "alternateName": "海云典藏镜像",
+    "url": "https://517757.xyz/",
+    "description": "第三方微软原版系统镜像索引站，聚合 Windows 7~11、Windows Server 及 Office 原版镜像资源，提供 SHA-1/SHA-256 校验码验证。"
+  }
+  </script>
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css?v=3">
+  <link rel="stylesheet" href="css/home.css?v=3">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-brand">
+        <div class="nav-brand-icon">S</div>
+        <span>SCM Pavilion<small style="display:block;font-size:0.625rem;font-weight:400;opacity:0.5;margin-top:2px;">SeaCloud Mirror Pavilion</small></span>
+      </a>
+      <button class="nav-toggle" aria-label="菜单"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">首页</a></li>
+        <li><a href="pages/win11.html">Win11</a></li>
+        <li><a href="pages/win10.html">Win10</a></li>
+        <li><a href="pages/win8.html">Win8.1</a></li>
+        <li><a href="pages/win7.html">Win7</a></li>
+        <li><a href="pages/server.html">Server</a></li>
+        <li><a href="pages/office.html">Office</a></li>
+        <li><a href="pages/guide.html">教程</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <canvas id="particle-canvas"></canvas>
+    <div class="hero-grid"></div>
+    <div class="hero-content container">
+      <div class="hero-badge">
+        <i class="fas fa-circle"></i>
+        纯净 · 安全 · 原版
+      </div>
+      <h1 class="hero-title">
+        下载真正的<br>
+        <span class="gradient-text">微软原版系统镜像</span>
+      </h1>
+      <p class="hero-subtitle" style="font-size:1.125rem;color:var(--accent-cyan);margin-top:8px;font-weight:500;">
+        SeaCloud Mirror Pavilion · 海云典藏镜像，装机安心之选
+      </p>
+      <p class="hero-desc">
+        聚合整理 Windows 7 至 Windows 11、Windows Server 及 Microsoft Office
+        <span style="color:var(--text-primary);">原版镜像资源</span>，
+        提供完整 <span style="color:var(--accent-cyan);font-family:var(--font-mono);">SHA-1/SHA-256</span> 校验码，纯净无捆绑。
+      </p>
+      <div class="hero-actions">
+        <a href="#categories" class="btn btn-primary">
+          <i class="fas fa-compass"></i> 浏览资源
+        </a>
+        <a href="pages/guide.html" class="btn btn-ghost">
+          <i class="fas fa-book"></i> 安装指南
+        </a>
+      </div>
+      <div class="hero-features">
+        <span class="hero-feature"><i class="fas fa-shield-halved"></i> 官方校验码</span>
+        <span class="hero-feature"><i class="fas fa-bolt"></i> 纯净原版</span>
+        <span class="hero-feature"><i class="fas fa-link"></i> 来源可追溯</span>
+        <span class="hero-feature"><i class="fas fa-file-arrow-down"></i> 免费下载</span>
+      </div>
+      <div class="hero-stats" id="hero-stats">
+        <div class="hero-stat"><i class="fas fa-spinner fa-spin"></i> <span>加载中...</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="section" id="categories">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-tag">/ CATEGORIES</div>
+        <h2 class="section-title">按版本 <span class="gradient-text">分类浏览</span></h2>
+        <p class="section-desc">覆盖主流 Windows 版本及 Office，快速定位你需要的镜像资源</p>
+      </div>
+      <div class="category-grid">
+        <a href="pages/win11.html" class="category-card glass-card" data-cat="win11">
+          <div class="category-icon"><i class="fab fa-windows"></i></div>
+          <div class="category-name">Windows 11</div>
+          <div class="category-desc">家庭版 / 专业版 / 企业版 / LTSC</div>
+          <div class="category-meta">
+            <span class="cat-count">25H2 · 24H2 · 23H2 · 22H2</span>
+            <span class="cat-badge" id="cat-count-win11"></span>
+          </div>
+        </a>
+        <a href="pages/win10.html" class="category-card glass-card" data-cat="win10">
+          <div class="category-icon" style="background:rgba(99,102,241,0.08);color:#6366f1;"><i class="fab fa-windows"></i></div>
+          <div class="category-name">Windows 10</div>
+          <div class="category-desc">家庭版 / 专业版 / 企业版 / LTSC / LTSB</div>
+          <div class="category-meta">
+            <span class="cat-count">22H2 · 21H2 · 21H1 ·20H2 </span>
+            <span class="cat-badge" id="cat-count-win10"></span>
+          </div>
+        </a>
+        <a href="pages/win8.html" class="category-card glass-card" data-cat="win81">
+          <div class="category-icon" style="background:rgba(124,58,237,0.08);color:var(--accent-purple);"><i class="fab fa-windows"></i></div>
+          <div class="category-name">Windows 8.1</div>
+          <div class="category-desc">核心版 / 专业版 / 企业版</div>
+          <div class="category-meta">
+            <span class="cat-count">含 Update</span>
+            <span class="cat-badge" id="cat-count-win81"></span>
+          </div>
+        </a>
+        <a href="pages/win7.html" class="category-card glass-card" data-cat="win7">
+          <div class="category-icon" style="background:rgba(168,85,247,0.08);color:#a855f7;"><i class="fab fa-windows"></i></div>
+          <div class="category-name">Windows 7</div>
+          <div class="category-desc">家庭普通版 / 专业版 / 旗舰版</div>
+          <div class="category-meta">
+            <span class="cat-count">含 SP1</span>
+            <span class="cat-badge" id="cat-count-win7"></span>
+          </div>
+        </a>
+        <a href="pages/server.html" class="category-card glass-card" data-cat="server">
+          <div class="category-icon" style="background:rgba(245,158,11,0.08);color:var(--accent-orange);"><i class="fas fa-server"></i></div>
+          <div class="category-name">Windows Server</div>
+          <div class="category-desc">2016 / 2019 / 2022 数据中心版/标准版</div>
+          <div class="category-meta">
+            <span class="cat-count">Datacenter · Standard</span>
+            <span class="cat-badge" id="cat-count-server"></span>
+          </div>
+        </a>
+        <a href="pages/office.html" class="category-card glass-card" data-cat="office">
+          <div class="category-icon" style="background:rgba(16,185,129,0.08);color:var(--accent-green);"><i class="fab fa-microsoft"></i></div>
+          <div class="category-name">Microsoft Office</div>
+          <div class="category-desc">2016 / 2019 / 2021 / 2024 专业增强版</div>
+          <div class="category-meta">
+            <span class="cat-count">Pro Plus · Standard</span>
+            <span class="cat-badge" id="cat-count-office"></span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest Resources -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-tag">/ LATEST</div>
+        <h2 class="section-title">最新 <span class="gradient-text">资源更新</span></h2>
+        <p class="section-desc">各版本最新发布的镜像资源，数据自动同步更新</p>
+      </div>
+      <div id="latest-list" class="latest-grid">
+        <div style="grid-column:1/-1;text-align:center;padding:40px;color:var(--text-muted);font-family:var(--font-mono);font-size:0.875rem;">
+          <i class="fas fa-spinner fa-spin" style="font-size:2rem;display:block;margin-bottom:12px;"></i>
+          正在加载资源列表...
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Safety Tips -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-tag">/ SAFETY</div>
+        <h2 class="section-title">安全校验 <span class="gradient-text">三步走</span></h2>
+        <p class="section-desc">为确保你下载的是官方原版镜像，请务必执行以下校验步骤</p>
+      </div>
+      <div class="safety-grid">
+        <div class="safety-card glass-card">
+          <div class="safety-icon"><i class="fas fa-download"></i></div>
+          <div class="safety-title">1. 下载镜像</div>
+          <div class="safety-desc">从本站提供的来源链接下载镜像文件，建议优先选择官方 MSDN 源或已验证的第三方源</div>
+        </div>
+        <div class="safety-card glass-card">
+          <div class="safety-icon"><i class="fas fa-fingerprint"></i></div>
+          <div class="safety-title">2. 验证哈希值</div>
+          <div class="safety-desc">使用 certutil 或 PowerShell 计算下载文件的 SHA-1/SHA-256，与本站公布的校验码逐位比对</div>
+        </div>
+        <div class="safety-card glass-card">
+          <div class="safety-icon"><i class="fas fa-compact-disc"></i></div>
+          <div class="safety-title">3. 制作启动盘</div>
+          <div class="safety-desc">使用 Rufus 或 Ventoy 等工具制作安装启动盘，参考本站安装教程完成系统安装</div>
+        </div>
+      </div>
+      <div class="safety-tool">
+        <a href="https://feishu.doubao.com/drive/file/Euy0bGfxdoEtmtxuIE9c3VjanNc" target="_blank" rel="noopener" class="safety-tool-link">
+          <i class="fas fa-fingerprint"></i> SHA-256 校验工具
+          <i class="fas fa-arrow-up-right-from-square" style="font-size:0.75rem;opacity:0.7;"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Support Button & Modal -->
+  <button class="support-btn" id="supportBtn" aria-label="赞助支持">
+    <i class="fas fa-heart"></i> 赞助支持
+  </button>
+
+  <div class="support-overlay" id="supportOverlay"></div>
+  <div class="support-modal" id="supportModal">
+    <button class="support-modal-close" id="supportModalClose"><i class="fas fa-times"></i></button>
+    <div class="support-modal-icon"><i class="fas fa-heart"></i></div>
+    <h3>赞助支持</h3>
+    <p class="support-modal-desc">本站非盈利，欢迎捐赠助力项目存续。</p>
+    <p class="support-modal-subdesc">捐赠款项仅用于域名、服务器等网站固定支出。</p>
+    <div class="support-qr-grid">
+      <div class="support-qr-item">
+        <img src="assets/alipay-qr.jpg" alt="支付宝收款码">
+        <span><i class="fab fa-alipay"></i> 支付宝</span>
+      </div>
+      <div class="support-qr-item">
+        <img src="assets/wechat-qr.png" alt="微信收款码">
+        <span><i class="fab fa-weixin"></i> 微信</span>
+      </div>
+    </div>
+    <p class="support-modal-footer">感谢你的支持，让我们做得更好</p>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">
+            <span>SCM Pavilion</span>
+            <small style="display:block;font-size:0.75rem;font-weight:400;opacity:0.45;margin-top:4px;">SeaCloud Mirror Pavilion · 海云典藏镜像</small>
+          </div>
+          <p class="footer-desc">
+            第三方微软原版系统镜像索引站，致力于为装机用户提供纯净、安全、可追溯的下载资源。本站不存储任何镜像文件，仅做资源整理与索引。
+          </p>
+        </div>
+        <div>
+          <div class="footer-heading">系统分类</div>
+          <ul class="footer-links">
+            <li><a href="pages/win11.html">Windows 11</a></li>
+            <li><a href="pages/win10.html">Windows 10</a></li>
+            <li><a href="pages/win8.html">Windows 8.1</a></li>
+            <li><a href="pages/win7.html">Windows 7</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-heading">更多资源</div>
+          <ul class="footer-links">
+            <li><a href="pages/server.html">Windows Server</a></li>
+            <li><a href="pages/office.html">Microsoft Office</a></li>
+            <li><a href="pages/guide.html">安装教程</a></li>
+            <li><a href="https://517757.xyz" target="_blank" rel="noopener">永久域名</a></li>
+          </ul>
+        </div>
+        <div>
+          <div class="footer-heading">相关链接</div>
+          <ul class="footer-links">
+            <li><a href="https://github.com/sdlw7757/SCM-Pavilion/" target="_blank" rel="noopener">开源地址</a></li>
+            <li><a href="https://hellowindows.cn/" target="_blank" rel="noopener">HelloWindows</a></li>
+            <li><a href="https://www.xitongku.com/" target="_blank" rel="noopener">系统库</a></li>
+            <li><a href="https://msdn.sjjzm.com/" target="_blank" rel="noopener">山己几子木</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 SCM Pavilion. 本站为第三方资源索引站，所有资源版权归 Microsoft 及其各自所有者所有。</p>
+        <p class="footer-update" id="footerUpdate">本站维护更新记录：加载中...</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js?v=5"></script>
+  <script src="js/home.js?v=6"></script>
+</body>
+</html>
